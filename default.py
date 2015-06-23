@@ -1124,10 +1124,10 @@ def createM3uForDash(url,useragent=None):
     str='#EXTM3U'
     str+='\n#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=361816'
     str+='\n'+url+'&bytes=0-200000'#+'|User-Agent='+useragent
-    source_file = os.path.join(profile, 'testfile.m3u')
+    source_file = os.path.join(profile, 'screamfinal.m3u')
     str+='\n'
     SaveToFile(source_file,str)
-    #return '%HOMEPATH%/Downloads/test.m3u8'
+    #return '%HOMEPATH%/Downloads/screamfinal.m3u'
     return source_file
 
 def SaveToFile(file_name,page_data,append=False):
