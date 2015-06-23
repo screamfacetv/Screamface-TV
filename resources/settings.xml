@@ -1,0 +1,10 @@
+﻿<settings>
+
+    <category label="Add Screamfacetv Source">
+    <setting id="new_url_source" type="text" label="Add URL" default="https://www.facebook.com/groups/screamfacetv/" visible="eq(-2,1)"/>
+    <setting type="sep" />
+    <setting type="action" label="añadir lista de canales " option="close" action="RunPlugin(plugin://plugin.screamfacetv/?mode=7)" />
+    <setting type="sep" />
+  
+  </category>
+  </settings>
