@@ -1127,7 +1127,7 @@ def createM3uForDash(url,useragent=None):
     source_file = os.path.join(profile, 'screamfinal.m3u')
     str+='\n'
     SaveToFile(source_file,str)
-    #return '%HOMEPATH%/Downloads/screamfinal.m3u'
+    #return '%HOMEPATH%/Screamface-TV/screamfinal.m3u'
     return source_file
 
 def SaveToFile(file_name,page_data,append=False):
