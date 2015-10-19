@@ -7,8 +7,6 @@ http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="rtve.png",La 2
 http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Euronews.png",Euronews
-http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="azteca-internacional.png",Canal Azteca Honduras
 http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="proyecto-40.png" tvg-id="I140.309213908.microsoft.com",Proyecto 40
