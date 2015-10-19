@@ -1,7 +1,7 @@
-#EXTM3U,view:movies
+#EXTM3U
+#EXTINF:0,[COLOR yellow]-PELICULAS GRATIS MAZINGER Z-[/COLOR]
 
-
-#EXTINF:-1,La Leyenda De la Nahuala,tvg-logo="http://vignette2.wikia.nocookie.net/doblaje/images/7/71/Leyenda_Nahuala.jpg/revision/latest?cb=20110426005528&path-prefix=es",tvg-wall="http://vignette2.wikia.nocookie.net/doblaje/images/7/71/Leyenda_Nahuala.jpg/revision/latest?cb=20110426005528&path-prefix=es",imdb="",genre="",votes="",time="89 min",year="1994",dir="",wri="",plot="<p>From Wikipedia, the free encyclopedia."
+#EXTINF:-1,La Leyenda De la Nahuala
 http://streamin.to/qgnisgrpa1aa
 
 #EXTINF:-1,El Rey Leon,tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEyMzgwNTUzMl5BMl5BanBnXkFtZTcwNTMxMzM3Ng@@._V1_UY1200_CR148,0,630,1200_AL_.jpg",tvg-wall="https://image.tmdb.org/t/p/w500/mhtEhbLfUWZZeHAFZY4Espf3mUr.jpg",imdb="",genre="",votes="",time="89 min",year="1994",dir="",wri="",plot="<p>From Wikipedia, the free encyclopedia."
