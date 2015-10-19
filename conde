@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTM3U&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="rcn-novelas.png",RCN (kodi)
-rtmp://185.2.138.228/live playpath=colombiantv?id=83459&pk=9d1ad06fb1b13d55e8d66ba4eb12da4d9dec51aae107807fadb8cbc5b87a8c67 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/space2016/1/600/385 conn=S:OK
-#EXTINF:-1 tvg-logo="caracol.png",Caracol (kodi)
-rtmp://46.28.53.32/live playpath=grghtrhtr?id=22163&pk=9d1ad06fb1b13d55e8d66ba4eb12da4d9dec51aae107807fadb8cbc5b87a8c67 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embedezcast.com/embedplayer/7yujk7/1/620/380 conn=S:OK
+
 #EXTINF:-1 tvg-logo="Azteca Noticias.png",Azteca Noticias
 http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="tvn.png",TVN HD
