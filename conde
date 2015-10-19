@@ -13,10 +13,6 @@ http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="foro-tv-HD.png" tvg-id="Canal Foro TV",FORO Tv
 http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Gala TV.png",Gala TV Cancun
-http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="multimedios-monterrey.png",Multimedios Plus
-http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="c44.png",Canal 44 Ciudad Juarez
 http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="azteca-13.png" tvg-id="Canal Azteca 13 (México)",Azteca Trece
