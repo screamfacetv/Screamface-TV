@@ -19,8 +19,6 @@ http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="Telemundo.png",Telemundo
 http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="antena-latina.png",Antena Latina
-http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="MEGA.png",Mega
 http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="Mega_hd.png",MEGA HD
