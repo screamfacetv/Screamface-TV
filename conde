@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U&player=playlist.m3u8
-
+#EXTINF:-1 tvg-logo="Azteca Noticias.png",TTTEST
+http://videomega.tv/?ref=A2E0ttl2PmmP2ltt0E2A
 #EXTINF:-1 tvg-logo="Azteca Noticias.png",Azteca Noticias
 http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="tvn.png",TVN HD
