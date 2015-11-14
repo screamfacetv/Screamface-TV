@@ -617,6 +617,13 @@ http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",TVN[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
+#EXTINF:0,[COLOR blue][B]== PANAMÁ ==[/B][/COLOR]
+http://?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Panamá",Telemetro Canal 13
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Panamá",RPC Canal 4
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+
 #EXTINF:0,[COLOR blue][B]== OTROS CANALES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="telemundo.png" group-title="Otros Canales",Telemundo
