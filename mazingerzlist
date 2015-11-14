@@ -2,7 +2,7 @@
 #EXTINF:0,[B][COLOR orange]PLAYLIST[/COLOR] - [COLOR lightgreen]MAZINGER Z ADDON[/COLOR] - [COLOR cyan]screamfacetv[/COLOR][/B]
 http://?
 
-#EXTINF:0,[COLOR yellow][B]== ENTRETENIMIENTO ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== ENTRETENIMIENTO ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="fox.png" group-title="Entretenimiento",Fox
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -53,7 +53,7 @@ http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimiento",Victoria Secrets Channel[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== CULTURA-DOCUMENTALES ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== CULTURA-DOCUMENTALES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="History HD" tvg-name="History_HD" tvg-logo="history-hd.png" group-title="Cultura-Documentales",History Channel
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -84,7 +84,7 @@ http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20151020T153535
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cultura-Documentales",EWTN[COLOR lime][B] - Nuevo[/COLOR][/B]
 rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/_definst_?videoId=2621119436001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= playpath=450.mp4?videoId=2621119436001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1447295226408 live=1 pageUrl=http://tutvgratis.tv/embed/generaiframe?chid=172&w=728&h=550
 
-#EXTINF:0,[COLOR yellow][B]== PELÍCULAS-SERIES ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== PELÍCULAS-SERIES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner_HD" tvg-logo="warner-hd.png" group-title="Películas-Series",Warner Channel
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -137,7 +137,7 @@ http://iptv.latino-webtv.com/server2.m3u8?canal=CineDinamitaLA&cm=3465
 #EXTINF:-1 tvg-id="Sundance Channel" tvg-name="Sundance Channel" tvg-logo="Sundance.png" group-title="Películas-Series",Sundance Channel
 rtmp://31.220.2.54/pull/sundance14?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:0,[COLOR yellow][B]== INFANTILES ==[/B][/COLOR]
+#EXTINF:0,[COLOR bule][B]== INFANTILES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="discovery-kids.png" group-title="Infantiles",Discovery Kids
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -166,7 +166,7 @@ http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20151020T153535
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.png" group-title="Infantiles",Tooncast
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20151020T153535.ts 
 
-#EXTINF:0,[COLOR yellow][B]== DEPORTES ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== DEPORTES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="foxsport.png" group-title="Deportes",Fox Sports
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -245,7 +245,7 @@ http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Motors TV[COLOR lime][B] - Nuevo[/COLOR][/B]
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
 
-#EXTINF:0,[COLOR yellow][B]== MÚSICA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== MÚSICA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Música",MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -286,7 +286,7 @@ rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Virgin TV[COLOR lime][B] - Nuevo[/COLOR][/B]
 rtmp://fms.105.net:1935/live/virgin2
 
-#EXTINF:0,[COLOR yellow][B]== NOTICIAS ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== NOTICIAS ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="Noticias",Bloomberg[COLOR blue][B] - Corregido[/COLOR][/B]
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -307,7 +307,7 @@ http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Noticias",Russia Today[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== REAL HD ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== REAL HD ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="canal-2-HD.png" group-title="Real HD",Estrellas HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -374,7 +374,7 @@ http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="amchd.png" group-title="Real HD",AMC HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
 
-#EXTINF:0,[COLOR yellow][B]== MÉXICO ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== MÉXICO ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="azteca-internacional.png" group-title="México",Azteca Internacional
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -415,7 +415,7 @@ http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="México",RTG Guerrero[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== COLOMBIA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== COLOMBIA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Colombia",Canal 12 Valledupar
 rtmp://panelhdstream.com:1935/8022/8022
@@ -436,7 +436,7 @@ rtmp://185.63.255.26/live/ playpath=LCrivqEAys9C swfUrl=http://p.jwpcdn.com/6/12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Colombia",RCN[COLOR blue][B] - Corregido[/COLOR][/B]
 http://185.63.255.26/live/L0lGdZwMTZJW/playlist.m3u8 
 
-#EXTINF:0,[COLOR yellow][B]== ARGENTINA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== ARGENTINA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Argentina",C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
@@ -451,7 +451,7 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Argentina",Telpin Canal 2 HD Pinamar
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
 
-#EXTINF:0,[COLOR yellow][B]== CHILE ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== CHILE ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Chile",TVN - Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
@@ -484,12 +484,12 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Chile",Holvoet HD
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== CUBA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== CUBA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cuba",Cubavisión[COLOR lime][B] - Nuevo[/COLOR][/B]
 rtmp://195.154.174.31/beta playpath=cubavisiion swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.fidelista-por-siempre.org/CubaVision-en-Vivo.aspx
 
-#EXTINF:0,[COLOR yellow][B]== PERÚ ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== PERÚ ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Perú",RBC HD
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
@@ -512,7 +512,7 @@ http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Perú",CMD Perú[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== USA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== USA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Universal Channel USA HD (1080)" tvg-name="Universal Channel USA HD (1080)" tvg-logo="universal-channel.png" group-title="USA",Universal Channel USA HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -545,7 +545,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MBC Action[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== ESPAÑA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Telemadrid
 rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111787371001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111787371001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1446966915865 live=1 pageUrl=http://www.television-envivo.com/telemadrid-en-vivo.html
@@ -564,7 +564,7 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Mega[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== REP. DOMINICANA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== REP. DOMINICANA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rep. Dominicana",Tele Antillas
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8#MegaIPTVArgentina
@@ -585,7 +585,7 @@ http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rep. Dominicana",CDN 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:0,[COLOR yellow][B]== COSTA RICA ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== COSTA RICA ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",CDR Canal 2
 http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
@@ -608,7 +608,7 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Costa Rica",Tele Uno TV
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 
-#EXTINF:0,[COLOR yellow][B]== ECUADOR ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== ECUADOR ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",Television Nacional
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
@@ -617,12 +617,12 @@ http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",TVN[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== OTROS CANALES ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== OTROS CANALES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="telemundo.png" group-title="Otros Canales",Telemundo
 http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
 
-#EXTINF:0,[COLOR yellow][B]== 24/7 ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== 24/7 ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Anime 24H" tvg-name="Anime 24H" tvg-logo="" group-title="24/7",Anime 24H[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
