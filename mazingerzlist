@@ -137,7 +137,7 @@ http://iptv.latino-webtv.com/server2.m3u8?canal=CineDinamitaLA&cm=3465
 #EXTINF:-1 tvg-id="Sundance Channel" tvg-name="Sundance Channel" tvg-logo="Sundance.png" group-title="Películas-Series",Sundance Channel
 rtmp://31.220.2.54/pull/sundance14?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:0,[COLOR bule][B]== INFANTILES ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== INFANTILES ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="discovery-kids.png" group-title="Infantiles",Discovery Kids
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
