@@ -81,7 +81,7 @@ http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="wobi-tv.png" group-title="Cultura-Documentales",WOBI TV
 http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cultura-Documentales",EWTN[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cultura-Documentales",EWTN
 rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/_definst_?videoId=2621119436001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= playpath=450.mp4?videoId=2621119436001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1447295226408 live=1 pageUrl=http://tutvgratis.tv/embed/generaiframe?chid=172&w=728&h=550
 
 #EXTINF:0,[COLOR blue][B]== PELÍCULAS-SERIES ==[/B][/COLOR]
