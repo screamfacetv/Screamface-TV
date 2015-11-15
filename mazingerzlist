@@ -50,7 +50,7 @@ http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 tvg-id="I Sat" tvg-name="I Sat" tvg-logo="i.sat.png" group-title="Entretenimiento",I Sat
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimiento",Victoria Secrets Channel[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretenimiento",Victoria Secrets Channel
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
 #EXTINF:0,[COLOR blue][B]== CULTURA-DOCUMENTALES ==[/B][/COLOR]
@@ -191,9 +191,9 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535
 rtmp://89.248.172.27:1935/boxlivetv playpath=pirlounivision33 swfUrl=http://cdn.boxlivetv.net/player-hd.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=pirlounivision33&width=660&height=400
 #EXTINF:-1 tvg-id="Win Sports" tvg-name="Win Sports" tvg-logo="" group-title="Deportes",Win Sports
 http://iptv.latino-webtv.com/win.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="realmadrid.png" group-title="Deportes",Real Madrid TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="realmadrid.png" group-title="Deportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="F1 Latino" tvg-name="F1 Latino" tvg-logo="f1.png" group-title="Deportes",F1 Latino[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="F1 Latino" tvg-name="F1 Latino" tvg-logo="f1.png" group-title="Deportes",F1 Latino
 http://200.76.77.230/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 tvg-id="Bein Sports Ñ" tvg-name="Bein Sports Ñ" tvg-logo="beins.png" group-title="Deportes",Bein Sports Ñ
 http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/02.m3u8
@@ -217,21 +217,21 @@ rtmp://80.82.78.21/live playpath=deuro2 swfUrl=http://www.yocast.tv/myplayer/jwp
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Enlace Deportes 1 - España
 http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
-#EXTINF:-1 tvg-id="F1 Latinoamerica (1080)" tvg-name="F1 Latinoamerica (1080)" tvg-logo="" group-title="Deportes",F1 Latinoamerica (1080)[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="F1 Latinoamerica (1080)" tvg-name="F1 Latinoamerica (1080)" tvg-logo="" group-title="Deportes",F1 Latinoamerica (1080)
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",NFL Network USA[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",NFL Network USA
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",NFL Now USA[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",NFL Now USA
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV 1[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV 1
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV 2[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV 2
 rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV 3[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV 3[
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV Americas[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Sport TV Americas
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 tvg-id="UK Sky Sports F1" tvg-name="UK Sky Sports F1" tvg-logo="" group-title="Deportes",UK Sky Sports F1[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="UK Sky Sports F1" tvg-name="UK Sky Sports F1" tvg-logo="" group-title="Deportes",UK Sky Sports F1
 http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
 #EXTINF:-1 tvg-id="UK Sky Sports 1" tvg-name="UK Sky Sports 1" tvg-logo="" group-title="Deportes",UK Sky Sports 1
 http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
@@ -243,7 +243,7 @@ http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
 http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
 #EXTINF:-1 tvg-id="UK Sky Sports 5" tvg-name="UK Sky Sports 5" tvg-logo="" group-title="Deportes",UK Sky Sports 5
 http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Motors TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Deportes",Motors TV
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
 
 #EXTINF:0,[COLOR blue][B]== MÚSICA ==[/B][/COLOR]
@@ -276,20 +276,20 @@ http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="vh1-hd.png" group-title="Música",VH1 HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Melody Channel[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Kiss TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Eska Rock TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Eska Rock TV
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Eska Best Music TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Eska Best Music TV
 rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Virgin TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Música",Virgin TV
 rtmp://fms.105.net:1935/live/virgin2
 
 #EXTINF:0,[COLOR blue][B]== NOTICIAS ==[/B][/COLOR]
 http://?
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="Noticias",Bloomberg[COLOR blue][B] - Corregido[/COLOR][/B]
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="Noticias",Bloomberg
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="foro-tv-HD.png" group-title="Noticias",Foro TV
 http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -305,7 +305,7 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="RT Latinoamerica" tvg-name="RT Latinoamerica" tvg-logo="rt.png" group-title="Noticias",RT Latinoamerica
 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Noticias",Russia Today[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Noticias",Russia Today
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]== REAL HD ==[/B][/COLOR]
@@ -413,7 +413,7 @@ http://rightbrainmedia.mpl.miisolutions.net:1935/rightbrainmedia-live-244/GalaTV
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="México",Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="México",RTG Guerrero[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="México",RTG Guerrero
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]== COLOMBIA ==[/B][/COLOR]
@@ -434,7 +434,7 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Colombia",Caracol TV
 rtmp://185.63.255.26/live/ playpath=LCrivqEAys9C swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://futbolenvivoaldia.co/reproductor/canal6a.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Colombia",RCN[COLOR blue][B] - Corregido[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Colombia",RCN
 http://185.63.255.26/live/L0lGdZwMTZJW/playlist.m3u8 
 
 #EXTINF:0,[COLOR blue][B]== ARGENTINA ==[/B][/COLOR]
@@ -487,7 +487,7 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 
 #EXTINF:0,[COLOR blue][B]== CUBA ==[/B][/COLOR]
 http://?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cuba",Cubavisión[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cuba",Cubavisión
 rtmp://195.154.174.31/beta playpath=cubavisiion swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.fidelista-por-siempre.org/CubaVision-en-Vivo.aspx
 
 #EXTINF:0,[COLOR blue][B]== PERÚ ==[/B][/COLOR]
@@ -510,7 +510,7 @@ http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Perú",BethelTV HD
 http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Perú",CMD Perú[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Perú",CMD Perú
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]== USA ==[/B][/COLOR]
@@ -519,31 +519,31 @@ http://?
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 tvg-id="CNBC HD" tvg-name="" tvg-logo="" group-title="USA",CNBC HD
 http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NASA TV HD (720)[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NASA TV HD (720)
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NASA TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Food Network[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Food Network
 http://204.107.27.137/live/20.low.stream/playlist.m3u8?id=844c3bfffcb47ec9d09d16e2bb19ff9e35aae67fa359f13b2b3f2b6f21272ac0f89c937d7f6f5fd7c5e716779d4fc126bc1d164730f59f1d2cdd061a47cc8a643c47c80a1f9a07792af5daa84fd7643a73513d3363f591f1aef754db455d37637b45c9d53db10beaba7c2bdff495ff22f29e5eaed71627ad72b67f58af7741b7923917e673f6de7376876f7d64d93637db836d82209ecf40
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",i24 News[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",i24 News
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WGN 9 (720)[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WGN 9 (720)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Miami TV Channel[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Miami TV Channel
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",The Weather Channel[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",The Weather Channel
 http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ABC News[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Miami Music TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Miami Music TV
 http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cartoon Network USA[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cartoon Network USA
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WFTV Florida[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WFTV Florida
 http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MBC Max[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MBC Max
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MBC Action[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:0,[COLOR blue][B]== ESPAÑA ==[/B][/COLOR]
@@ -560,9 +560,9 @@ http://wcm777.la/mariocs.php?canal=TVELASD&cm=981&f=mariocs.m3u8
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Huesca TV
 rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Kiss TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Mega[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="España",Mega
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 
 #EXTINF:0,[COLOR blue][B]== REP. DOMINICANA ==[/B][/COLOR]
@@ -613,9 +613,9 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 http://?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",Television Nacional
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",RTS Ecuador[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",TVN[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ecuador",TVN
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]== PANAMÁ ==[/B][/COLOR]
@@ -632,7 +632,7 @@ http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
 
 #EXTINF:0,[COLOR blue][B]== 24/7 ==[/B][/COLOR]
 http://?
-#EXTINF:-1 tvg-id="Anime 24H" tvg-name="Anime 24H" tvg-logo="" group-title="24/7",Anime 24H[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="Anime 24H" tvg-name="Anime 24H" tvg-logo="" group-title="24/7",Anime 24H
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Simpsons USA 24H[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24/7",The Simpsons USA 24H
 http://iptvnation.com/simpsons.mp4 
