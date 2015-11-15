@@ -308,7 +308,7 @@ http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Noticias",Russia Today
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 
-#EXTINF:0,[COLOR blue][B]== REAL HD ==[/B][/COLOR]
+#EXTINF:0,[COLOR blue][B]== CANALES FULL HD ==[/B][/COLOR]
 http://?
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="canal-2-HD.png" group-title="Real HD",Estrellas HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
