@@ -187,8 +187,6 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 tvg-id="AyM Sports" tvg-name="AyM Sports" tvg-logo="aym-sports.png" group-title="Deportes",AyM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="univision-tdn" group-title="Deportes",TDN
-http://public.tuiptv.biz/public/PlayList.php?id=116da423-39c5-48a5-9a3d-2d311a3d76ac&channel=15
 #EXTINF:-1 tvg-id="Win Sports" tvg-name="Win Sports" tvg-logo="" group-title="Deportes",Win Sports
 http://iptv.latino-webtv.com/win.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="realmadrid.png" group-title="Deportes",Real Madrid TV
