@@ -24,8 +24,6 @@ http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp?Vd?u#bt!25
 #EXTINF:-1 tvg-logo="i24news", i24 News (English)
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
-#EXTINF:-1 , MSNBC
-rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
 #EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png",Económico TV (Portugal)
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title=PORTUGAL,Euronews (Portugal)
