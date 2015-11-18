@@ -2,8 +2,6 @@
 #EXTINF:-1,[COLOR yellow]--- MAZINGER Z ADDON ENGLISH ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 group-title="NEWS",FRANCE 24 FRENCH
-http://tv.flux.france24.com/4684/02.m3u8
 #EXTINF:-1 group-title="NEWS",CNN TURKEY
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS",NEWS 7 RUSSIA
@@ -16,7 +14,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
 #EXTINF:-1 tvg-logo="hln.png", HLN 1
 rtmp://c.cdn.newschat.tv/edge playpath=hln_live live=1   swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/?husham.com timeout=15
-#EXTINF:-1 , CNN News Live
+#EXTINF:-1 , COMICS
 rtmp://a.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/?husham.com
 #EXTINF:-1 , World News ( BBC News Sometimes)
 rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/?husham.com
