@@ -110,7 +110,7 @@ http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/102.png", World Fashion Channel
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg", [COLOR lime]NASA TV[/COLOR]
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg", [COLOR lime]NASA TV MAZINGER Z ADDON[/COLOR]
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6677.jpg", At The Drive-In
