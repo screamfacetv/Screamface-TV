@@ -82,25 +82,8 @@ http://edge-ind.inapcdn.in:1935/berry/sfmacb4.stream_aac/playlist.m3u8
 rtsp://38.96.148.99:1935/live/bb
 #EXTINF:0, Shiri News
 http://live.wmncdn.net/shrinewstv/e2c1680f2177d9647a218609a3a2fd5e.sdp/playlist.m3u8
-#EXTINF:-1, EuroNews Turkishe 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/tr_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews Arabic 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ar_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews English 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews French 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews German 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/de_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews Italian 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/it_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews Portuguese 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp 
-#EXTINF:-1, EuroNews Russian 
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp 
 #EXTINF:-1, EuroNews Spanish 
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
-
 
 ######CONTINUED##############
 #EXTINF:-1,Dubai TV
