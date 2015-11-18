@@ -38,12 +38,6 @@ rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
 #EXTINF:-1,CBC 
 http://185.5.222.231:4242/bysid/5108
 
-#EXTINF:-1,Fox Movies 
-http://185.5.222.227:4242/bysid/5608
-
-#EXTINF:-1,Fox 
-http://185.5.222.227:4242/bysid/5603 
-
 #EXTINF:-1, Almas TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 
