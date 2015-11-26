@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,[COLOR lime]-PELICULAS GRATIS MAZINGER Z / IRON MAN ADDON-[/COLOR]
 
-#EXTINF:-1, tvg-id="502" tvg-name="PPV - Red Herrings" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2404.png" group-title="information", PPV - Red Herrings
+#EXTINF:-1,Red Herrings" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2404.png" group-title="information", PPV - Red Herrings
 http://iptvnation.com/169.mp4
 
 #EXTINF:-1, tvg-id="503" tvg-name="PPV - Ronaldo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2407.png" group-title="information", PPV - Ronaldo
