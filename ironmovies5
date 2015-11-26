@@ -2,7 +2,7 @@
 #EXTINF:-1tvg-logo="http://4.bp.blogspot.com/-lX1WVCCWQhA/VPLBbya3bsI/AAAAAAAAEFk/S88Z2i2IO_k/s1600/50%2Bsombras%2Bde%2Bgrey%2BCARATULA%2B2gotaaaaaaaaa.jpg",50 sombras de grey
 
 
-#EXTINF:-1,tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2404.png", Red Herrings
+#EXTINF:-1tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2404.png", Red Herrings
 http://iptvnation.com/169.mp4
 
 #EXTINF:-1, tvg-id="503" tvg-name="PPV - Ronaldo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2407.png" group-title="information", PPV - Ronaldo
