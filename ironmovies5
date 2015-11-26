@@ -3,28 +3,28 @@ http://?
 #EXTINF:-1, Red Herrings
 http://iptvnation.com/169.mp4
 
-#EXTINF:-1, tvg-id="503" tvg-name="PPV - Ronaldo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2407.png" group-title="information", PPV - Ronaldo
+#EXTINF:-1, Ronaldo
 http://iptvnation.com/170.mp4
 
-#EXTINF:-1, tvg-id="504" tvg-name="PPV - Steve Jobs: The man in the machine" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2409.png" group-title="information", PPV - Steve Jobs: The man in the machine
+#EXTINF:-1, Steve Jobs: The man in the machine
 http://iptvnation.com/171.mp4
 
-#EXTINF:-1, tvg-id="505" tvg-name="PPV - The Last Rescue" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2414.png" group-title="information", PPV - The Last Rescue
+#EXTINF:-1, The Last Rescue
 http://iptvnation.com/172.mp4
 
-#EXTINF:-1, tvg-id="506" tvg-name="PPV - American Ultra" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2417.png" group-title="information", PPV - American Ultra
+#EXTINF:-1, American Ultra
 http://iptvnation.com/173.mp4
 
-#EXTINF:-1, tvg-id="507" tvg-name="PPV - Another World" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2419.png" group-title="information", PPV - Another World
+#EXTINF:-1, Another World
 http://iptvnation.com/174.mp4
 
-#EXTINF:-1, tvg-id="508" tvg-name="PPV - Chronicles Of the Ghostly Tribe" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2424.png" group-title="information", PPV - Chronicles Of the Ghostly Tribe
+#EXTINF:-1, Chronicles Of the Ghostly Tribe
 http://iptvnation.com/175.mp4
 
-#EXTINF:-1, tvg-id="509" tvg-name="PPV - Ghost in the Shell" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2427.png" group-title="information", PPV - Ghost in the Shell
+#EXTINF:-1, Ghost in the Shell
 http://iptvnation.com/176.mp4
 
-#EXTINF:-1, tvg-id="510" tvg-name="PPV - Ant-Man" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2429.png" group-title="information", PPV - Ant-Man
+#EXTINF:-1, Ant-Man
 http://iptvnation.com/163.mp4
 
 #EXTINF:-1, tvg-id="511" tvg-name="PPV - Ex with Benefits" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2434.png" group-title="information", PPV - Ex with Benefits
