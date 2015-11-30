@@ -3,6 +3,10 @@
 http://?
 
 
+#EXTINF:-1,LLUVIA DE AMBURGUESAS
+http://ps.uaslp.mx/Peliculas/Lluvia%20de%20hamburguesas.mp4
+#EXTINF:-1,CAMPEONES DE LUCHA LIBRE
+http://ps.uaslp.mx/Peliculas/CAMPEONES_LUCHA_LIBRE_ESPANOL.mp4
 #EXTINF:-1,Bienvenidos al Ayer HD
 http://www.misefmx.com/David/Peliculas/Bienvenidos_al_ayer_(Project_Almanac)_HD_(1080p)__75824.mp4
 #EXTINF:-1,Cenicienta HD
@@ -63,6 +67,8 @@ http://www.misefmx.com/David/Peliculas/_Days_of_Future_Past_The_Rogue_Cut_HD_(10
 http://www.misefmx.com/David/Peliculas/_El_ataque_de_los_clones_HD_(1080p)__59166.mp4
 #EXTINF:-1,[COLOR gold]LA AMENAZA FANTASMA[/COLOR] [COLOR blue]***STAR WARS***[/COLOR]
 http://www.misefmx.com/David/Peliculas/_La_amenaza_fantasma_HD_(1080p)__59165.mp4
+#EXTINF:-1,[COLOR gold]EL ATAQUE DE LOS CLONES (ANIMADOS)[/COLOR] [COLOR blue]***STAR WARS***[/COLOR]
+http://ps.uaslp.mx/Peliculas/CloneWars.mp4
 #EXTINF:-1,EL PODER DE ELECTRO
 http://www.misefmx.com/David/Peliculas/_El_poder_de_Electro_HD_(720p)__45033.mp4
 #EXTINF:-1,EN LLAMAS
