@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,C+ DEPORT HD
-http://82.135.224.135:88/udp/239.255.2.34:1234
-#EXTINF:-1,C+ TOROS
-http://82.135.224.135:88/udp/239.255.2.37:1234
 #EXTINF:-1,El matador
 http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4?
 #EXTINF:-1,Nina mala
