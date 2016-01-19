@@ -1,4 +1,5 @@
-#EXTM3U:view,tvshows
+#EXTM3U
+#EXTINF:0,[COLOR yellow]-PELICULAS GRATIS MAZINGER Z / IRON MAN ADDON-[/COLOR]
 
-#EXTINF:-1tvg-logo="http://seriespormega.com/wp-content/uploads/2015/08/narcos-season-1.jpg",Narcos Cap.1
+#EXTINF:-1,NARCOS CAP.1
 http://streamin.to/kez5elfque6e
