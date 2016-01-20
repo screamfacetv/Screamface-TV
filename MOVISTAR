@@ -1,0 +1,274 @@
+#EXTM3U 
+#EXTINF:-1,[COLOR red]O[/COLOR][COLOR yellow]N[/COLOR][COLOR green]A[/COLOR] 2016-01-18 21:18:33
+http://127.0.0.1
+#EXTINF:-1,IP: 79.154.142.xxx
+http://127.0.0.1
+
+# Movistar+
+#EXTINF:-1 group-title="TDT" tvg-logo="movistar.png",[COLOR green]Movistar+: TDT[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 group-title="TDT" tvg-logo="la1.png",La 1
+http://79.154.142.237:4022/rtp/239.0.0.76:8208?msession=62111
+#EXTINF:-1 group-title="TDT" tvg-logo="la2.png", La 2
+http://79.154.142.237:4022/rtp/239.0.0.2:8208?msession=63204
+#EXTINF:-1 group-title="TDT" tvg-logo="antena3.png",Antena 3
+http://79.154.142.237:4022/rtp/239.0.0.3:8208?msession=61945
+#EXTINF:-1 group-title="TDT" tvg-logo="cuatro.png",Cuatro
+http://79.154.142.237:4022/rtp/239.0.0.4:8208?msession=60992
+#EXTINF:-1 group-title="TDT" tvg-logo="tele5.png",Tele 5
+http://79.154.142.237:4022/rtp/239.0.0.5:8208?msession=63188
+#EXTINF:-1 group-title="TDT" tvg-logo="lasexta.png",La Sexta
+http://79.154.142.237:4022/rtp/239.0.0.58:8208?msession=61298
+#EXTINF:-1 group-title="TDT" tvg-logo="cplus.png",Canal+
+http://79.154.142.237:4022/rtp/239.0.0.108:8208?msession=61210
+#EXTINF:-1 group-title="TDT" tvg-logo="fdf.png",FDF
+http://79.154.142.237:4022/rtp/239.0.0.84:8208?msession=60368
+#EXTINF:-1 group-title="TDT" tvg-logo="neox.png",Neox
+http://79.154.142.237:4022/rtp/239.0.0.107:8208?msession=63766
+#EXTINF:-1 group-title="TDT" tvg-logo="mega.png",MEGA
+http://79.154.142.237:4022/rtp/239.0.3.31:8208?msession=60070
+#EXTINF:-1 group-title="TDT" tvg-logo="energy.png",Energy
+http://79.154.142.237:4022/rtp/239.0.0.59:8208?msession=61126
+#EXTINF:-1 group-title="TDT" tvg-logo="divinity.png",Divinity
+http://79.154.142.237:4022/rtp/239.0.0.48:8208?msession=61021
+#EXTINF:-1 group-title="TDT" tvg-logo="nova.png",Nova
+http://79.154.142.237:4022/rtp/239.0.0.106:8208?msession=60022
+#EXTINF:-1 group-title="TDT" tvg-logo="discoverymax.png",Discovery MAX
+http://79.154.142.237:4022/rtp/239.0.0.32:8208?msession=62041
+#EXTINF:-1 group-title="TDT" tvg-logo="intereconomia.png",Intereconomia TV
+http://79.154.142.237:4022/rtp/239.0.0.63:8208?msession=62716
+#EXTINF:-1 group-title="TDT" tvg-logo="13tv.png",13 TV
+http://79.154.142.237:4022/rtp/239.0.0.91:8208?msession=63979
+
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="movistar.png",[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 group-title="Documentales" tvg-logo="natgeo.png",National Geographic
+http://79.154.142.237:4022/rtp/239.0.0.103:8208?msession=63587
+#EXTINF:-1 group-title="Documentales" tvg-logo="natgeowild.png",Nat Geo Wild
+http://79.154.142.237:4022/rtp/239.0.0.89:8208?msession=61671
+#EXTINF:-1 group-title="Documentales" tvg-logo="viajar.png",Viajar
+http://79.154.142.237:4022/rtp/239.0.0.20:8208?msession=62942
+#EXTINF:-1 group-title="Documentales" tvg-logo="discovery.png",Discovery Channel
+http://79.154.142.237:4022/rtp/239.0.0.21:8208?msession=60624
+#EXTINF:-1 group-title="Documentales" tvg-logo="odisea.png",Odisea
+http://79.154.142.237:4022/rtp/239.0.0.22:8208?msession=63021
+#EXTINF:-1 group-title="Documentales" tvg-logo="historia.png",Historia
+http://79.154.142.237:4022/rtp/239.0.0.19:8208?msession=62153
+#EXTINF:-1 group-title="Documentales" tvg-logo="aande.png",A&E
+http://79.154.142.237:4022/rtp/239.0.0.38:8208?msession=60935
+#EXTINF:-1 group-title="Documentales" tvg-logo="garage.png",Garage TV
+http://79.154.142.237:4022/rtp/239.0.0.99:8208?msession=62938
+#EXTINF:-1 group-title="Documentales" tvg-logo="crimeninvestigacion.png",Crimen & Investigacion
+http://79.154.142.237:4022/rtp/239.0.0.57:8208?msession=62486
+#EXTINF:-1 group-title="Documentales" tvg-logo="cocina.png",Canal Cocina
+http://79.154.142.237:4022/rtp/239.0.0.27:8208?msession=61725
+#EXTINF:-1 group-title="Documentales" tvg-logo="decasa.png",Canal Decasa
+http://79.154.142.237:4022/rtp/239.0.0.71:8208?msession=63817
+
+
+#EXTINF:-1 group-title="Series" tvg-logo="movistar.png",[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 group-title="Series" tvg-logo="cplusseries.png",Canal+ Series
+http://79.154.142.237:4022/rtp/239.0.5.4:8208?msession=62848
+#EXTINF:-1 group-title="Series" tvg-logo="cplusseriesxtra.png",Canal+ Series Xtra
+http://79.154.142.237:4022/rtp/239.0.3.20:8208?msession=63073
+#EXTINF:-1 group-title="Series" tvg-logo="fox.png",Fox
+http://79.154.142.237:4022/rtp/239.0.0.74:8208?msession=63500
+#EXTINF:-1 group-title="Series" tvg-logo="axn.png",AXN
+http://79.154.142.237:4022/rtp/239.0.0.14:8208?msession=61371
+#EXTINF:-1 group-title="Series" tvg-logo="tnt.png",TNT
+http://79.154.142.237:4022/rtp/239.0.0.44:8208?msession=62720
+#EXTINF:-1 group-title="Series" tvg-logo="comedy.png",Comedy Central
+http://79.154.142.237:4022/rtp/239.0.0.68:8208?msession=62898
+#EXTINF:-1 group-title="Series" tvg-logo="calle.png",Calle 13
+http://79.154.142.237:4022/rtp/239.0.0.13:8208?msession=63363
+#EXTINF:-1 group-title="Series" tvg-logo="cosmo.png",Cosmo
+http://79.154.142.237:4022/rtp/239.0.0.15:8208?msession=61024
+#EXTINF:-1 group-title="Series" tvg-logo="amc.png",AMC
+http://79.154.142.237:4022/rtp/239.0.0.8:8208?msession=60826
+#EXTINF:-1 group-title="Series" tvg-logo="foxlife.png",Fox Life
+http://79.154.142.237:4022/rtp/239.0.0.112:8208?msession=61087
+#EXTINF:-1 group-title="Series" tvg-logo="axnwhite.png",AXN White
+http://79.154.142.237:4022/rtp/239.0.0.62:8208?msession=61734
+#EXTINF:-1 group-title="Series" tvg-logo="syfy.png",SyFy
+http://79.154.142.237:4022/rtp/239.0.0.111:8208?msession=60613
+#EXTINF:-1 group-title="Series" tvg-logo="nsp.png",Non Stop People
+http://79.154.142.237:4022/rtp/239.0.0.212:8208?msession=60862
+#EXTINF:-1 group-title="Series" tvg-logo="mtvespana.png",MTV España
+http://79.154.142.237:4022/rtp/239.0.0.211:8208?msession=60994
+
+
+#EXTINF:-1 group-title="Cine" tvg-logo="movistar.png",[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 group-title="Cine" tvg-logo="cplusestrenos.png",Canal+ Estrenos
+http://79.154.142.237:4022/rtp/239.0.3.40:8208?msession=61827
+#EXTINF:-1 group-title="Cine" tvg-logo="cplusxtra.png",Canal+ Xtra
+http://79.154.142.237:4022/rtp/239.0.3.41:8208?msession=61137
+#EXTINF:-1 group-title="Cine" tvg-logo="cplusaccion.png",Canal+ Acción
+http://79.154.142.237:4022/rtp/239.0.3.42:8208?msession=60238
+#EXTINF:-1 group-title="Cine" tvg-logo="cpluscomedia.png",Canal+ Comedia
+http://79.154.142.237:4022/rtp/239.0.3.43:8208?msession=60325
+#EXTINF:-1 group-title="Cine" tvg-logo="cplusdcine.png",Canal+ DCine
+http://79.154.142.237:4022/rtp/239.0.3.44:8208?msession=62310
+#EXTINF:-1 group-title="Cine" tvg-logo="cplusdcineespanol.png",DCine Español
+http://79.154.142.237:4022/rtp/239.0.3.45:8208?msession=63943
+#EXTINF:-1 group-title="Cine" tvg-logo="tcm.png",TCM
+http://79.154.142.237:4022/rtp/239.0.6.5:8208?msession=60221
+#EXTINF:-1 group-title="Cine" tvg-logo="hollywood.png",Hollywood
+http://79.154.142.237:4022/rtp/239.0.0.16:8208?msession=63027
+#EXTINF:-1 group-title="Cine" tvg-logo="sundance.png",Sundance Channel
+http://79.154.142.237:4022/rtp/239.0.0.102:8208?msession=63179
+#EXTINF:-1 group-title="Cine" tvg-logo="paramountchannel.png",Paramount Channel
+http://79.154.142.237:4022/rtp/239.0.0.90:8208?msession=61203
+
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="movistar.png",[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 group-title="Noticias" tvg-logo="foxnews.png",Fox News
+http://79.154.142.237:4022/rtp/239.0.7.65:8208?msession=62440
+#EXTINF:-1 group-title="Noticias" tvg-logo="bbcworld.png",BBC World
+http://79.154.142.237:4022/rtp/239.0.0.30:8208?msession=63229
+#EXTINF:-1 group-title="Noticias" tvg-logo="cnni.png",CNN Int
+http://79.154.142.237:4022/rtp/239.0.0.40:8208?msession=63237
+#EXTINF:-1 group-title="Noticias" tvg-logo="euronews.png",Euronews
+http://79.154.142.237:4022/rtp/239.0.0.28:8208?msession=61803
+#EXTINF:-1 group-title="Noticias" tvg-logo="24h.png",Canal 24 horas
+http://79.154.142.237:4022/rtp/239.0.0.78:8208?msession=61263
+#EXTINF:-1 group-title="Noticias" tvg-logo="aljazeera.png",Al Jazeera English
+http://79.154.142.237:4022/rtp/239.0.7.66:8208?msession=62670
+#EXTINF:-1 group-title="Noticias" tvg-logo="france24.png",France 24 English
+http://79.154.142.237:4022/rtp/239.0.7.67:8208?msession=62353
+#EXTINF:-1 group-title="Noticias" tvg-logo="rteng.png",Russia Today English
+http://79.154.142.237:4022/rtp/239.0.7.68:8208?msession=62083
+#EXTINF:-1 group-title="Noticias" tvg-logo="cnbc.png",CNBC Europe
+http://79.154.142.237:4022/rtp/239.0.7.69:8208?msession=62192
+#EXTINF:-1 group-title="Noticias" tvg-logo="cctve.png",CCTV-E
+http://79.154.142.237:4022/rtp/239.0.0.65:8208?msession=62863
+#EXTINF:-1 group-title="Noticias" tvg-logo="tv5monde.png",TV5 Monde Europe
+http://79.154.142.237:4022/rtp/239.0.0.31:8208?msession=60116
+#EXTINF:-1 group-title="Noticias" tvg-logo="bloomberg.png",Bloomberg
+http://79.154.142.237:4022/rtp/239.0.0.29:8208?msession=61883
+#EXTINF:-1 group-title="Noticias" tvg-logo="i24news.png",I24 News
+http://79.154.142.237:4022/rtp/239.0.0.220:8208?msession=63805
+#EXTINF:-1 group-title="Noticias" tvg-logo="cncw.png",CNC World
+http://79.154.142.237:4022/rtp/239.0.0.221:8208?msession=63520
+#EXTINF:-1 group-title="Noticias" tvg-logo="orbe21.png",Orbe 21
+http://79.154.142.237:4022/rtp/239.0.0.45:8208?msession=60531
+
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="movistar.png",[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 group-title="Infantil" tvg-logo="babytv.png",Baby TV
+http://79.154.142.237:4022/rtp/239.0.0.113:8208?msession=63137
+#EXTINF:-1 group-title="Infantil" tvg-logo="disneyjr.png",Disney Junior
+http://79.154.142.237:4022/rtp/239.0.0.10:8208?msession=62866
+#EXTINF:-1 group-title="Infantil" tvg-logo="panda.png",Canal Panda
+http://79.154.142.237:4022/rtp/239.0.0.117:8208?msession=61391
+#EXTINF:-1 group-title="Infantil" tvg-logo="nickjr.png",Nick Jr.
+http://79.154.142.237:4022/rtp/239.0.0.115:8208?msession=63882
+#EXTINF:-1 group-title="Infantil" tvg-logo="nickelodeon.png",Nickelodeon
+http://79.154.142.237:4022/rtp/239.0.0.69:8208?msession=61632
+#EXTINF:-1 group-title="Infantil" tvg-logo="disneyxd.png",Disney XD
+http://79.154.142.237:4022/rtp/239.0.0.11:8208?msession=63057
+#EXTINF:-1 group-title="Infantil" tvg-logo="disneycha.png",Disney Channel
+http://79.154.142.237:4022/rtp/239.0.0.64:8208?msession=62896
+#EXTINF:-1 group-title="Infantil" tvg-logo="boing.png",Boing
+http://79.154.142.237:4022/rtp/239.0.0.66:8208?msession=61739
+#EXTINF:-1 group-title="Infantil" tvg-logo="clan.png",Clan TVE
+http://79.154.142.237:4022/rtp/239.0.0.80:8208?msession=63663
+
+
+#EXTINF:-1 group-title="Musica" tvg-logo="movistar.png",[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 group-title="Musica" tvg-logo="40tv.png",40 TV
+http://79.154.142.237:4022/rtp/239.0.0.12:8208?msession=60631
+#EXTINF:-1 group-title="Musica" tvg-logo="solmusica.png",Sol Musica
+http://79.154.142.237:4022/rtp/239.0.0.39:8208?msession=61786
+#EXTINF:-1 group-title="Musica" tvg-logo="vh1.png",VH1
+http://79.154.142.237:4022/rtp/239.0.0.75:8208?msession=61278
+
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="movistar.png",[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga
+http://79.154.142.237:4022/rtp/239.0.0.42:8208?msession=62364
+#EXTINF:-1 group-title="Deportes" tvg-logo="cpluspartidazo.png",Canal+ Partidazo
+http://79.154.142.237:4022/rtp/239.0.4.129:8208?msession=60085
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga2.png",Canal+ Liga 2
+http://79.154.142.237:4022/rtp/239.0.6.7:8208?msession=60093
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusfutbol.png",Canal+ Futbol 
+http://79.154.142.237:4022/rtp/239.0.6.8:8208?msession=60124
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga Multi
+http://79.154.142.237:4022/rtp/239.0.0.119:8208?msession=63839
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 1
+http://79.154.142.237:4022/rtp/239.0.0.124:8208?msession=61578
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 2
+http://79.154.142.237:4022/rtp/239.0.0.123:8208?msession=60114
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 3
+http://79.154.142.237:4022/rtp/239.0.3.3:8208?msession=62630
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 4
+http://79.154.142.237:4022/rtp/239.0.3.4:8208?msession=60585
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 5
+http://79.154.142.237:4022/rtp/239.0.3.5:8208?msession=62290
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 6
+http://79.154.142.237:4022/rtp/239.0.3.6:8208?msession=63869
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 7
+http://79.154.142.237:4022/rtp/239.0.3.7:8208?msession=62536
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 8
+http://79.154.142.237:4022/rtp/239.0.3.2:8208?msession=63589
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 9
+http://79.154.142.237:4022/rtp/239.0.3.9:8208?msession=62395
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 A
+http://79.154.142.237:4022/rtp/239.0.3.9:8208?msession=60758
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 B
+http://79.154.142.237:4022/rtp/239.0.0.120:8208?msession=63684
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 C
+http://79.154.142.237:4022/rtp/239.0.0.121:8208?msession=63166
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 D
+http://79.154.142.237:4022/rtp/239.0.0.122:8208?msession=63377
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 1
+http://79.154.142.237:4022/rtp/239.0.1.145:8208?msession=63033
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 2
+http://79.154.142.237:4022/rtp/239.0.1.144:8208?msession=62716
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 3
+http://79.154.142.237:4022/rtp/239.0.1.143:8208?msession=60794
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 4
+http://79.154.142.237:4022/rtp/239.0.1.142:8208?msession=63599
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 5
+http://79.154.142.237:4022/rtp/239.0.1.148:8208?msession=60327
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 6
+http://79.154.142.237:4022/rtp/239.0.1.245:8208?msession=60814
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 7
+http://79.154.142.237:4022/rtp/239.0.1.146:8208?msession=63548
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 8
+http://79.154.142.237:4022/rtp/239.0.1.147:8208?msession=62279
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 9
+http://79.154.142.237:4022/rtp/239.0.1.243:8208?msession=60606
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="futbolreplay.png",Futbol Replay
+http://79.154.142.237:4022/rtp/239.0.0.97:8208?msession=61510
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusdeportes.png",Canal+ Deportes
+http://79.154.142.237:4022/rtp/239.0.4.193:8208?msession=61450
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusdeportes2.png",Canal+ Deportes 2
+http://79.154.142.237:4022/rtp/239.0.5.5:8208?msession=60328
+#EXTINF:-1 group-title="Deportes" tvg-logo="movf1.png", Movistar F1 
+http://79.154.142.237:4022/rtp/239.0.0.210:8208?msession=60792
+#EXTINF:-1 group-title="Deportes" tvg-logo="movgp.png", Movistar MotoGP
+http://79.154.142.237:4022/rtp/239.0.3.38:8208?msession=63689
+#EXTINF:-1 group-title="Deportes" tvg-logo="cplusgolf.png",Canal+ Golf
+http://79.154.142.237:4022/rtp/239.0.5.2:8208?msession=62958
+#EXTINF:-1 group-title="Deportes" tvg-logo="eurosport.png",Eurosport
+http://79.154.142.237:4022/rtp/239.0.0.18:8208?msession=63656
+#EXTINF:-1 group-title="Deportes" tvg-logo="eurosport2.png",Eurosport 2
+http://79.154.142.237:4022/rtp/239.0.0.37:8208?msession=63898
+#EXTINF:-1 group-title="Deportes" tvg-logo="iberalia.png",Iberalia
+http://79.154.142.237:4022/rtp/239.0.5.6:8208?msession=62967
+#EXTINF:-1 group-title="Deportes" tvg-logo="teledeporte.png",Teledeporte
+http://79.154.142.237:4022/rtp/239.0.0.79:8208?msession=62739
