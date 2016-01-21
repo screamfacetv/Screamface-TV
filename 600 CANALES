@@ -1047,8 +1047,6 @@ http://104.131.200.207/genius/playkodi.php?lib=3293503
 
 #EXTINF:0, [COLOR cyan][B]== GUATEMALA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="channels-page-_0001_cb-24.png" group-title="GUATEMALA",CB24
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Guatemala (Televisiete)" tvg-name="Canal 7 de Guatemala (Televisiete)" tvg-logo="q" group-title="GUATEMALA",Canal 7 Televesiete
 http://72.46.226.61/live01/canal71/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 3 de Guatemala (El Super Canal)" tvg-name="Canal 3 de Guatemala (El Super Canal)" tvg-logo="q" group-title="GUATEMALA",Canal 3 El Super Canal
@@ -1158,6 +1156,8 @@ https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="SerTV-Panama-Logo.jpg" group-title="PANAMÁ",Ser TV
 rtmp://216.224.177.132/live/sertv
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="channels-page-_0001_cb-24.png" group-title="GUATEMALA",CB24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="rpc.jpg" group-title="PANAMÁ",RPC
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Telemetro" group-title="PANAMÁ",Telemetro
