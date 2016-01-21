@@ -1158,8 +1158,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="rpc.jpg" group-title="PANAMÁ",RPC
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 2 de Panamá (TVN-2)" tvg-name="Canal 2 de Panamá (TVN-2)" tvg-logo="TVN" group-title="PANAMÁ",TVN
-http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Telemetro" group-title="PANAMÁ",Telemetro
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="channels-page-_0001_cb-24.png" group-title="PANAMÁ",CB24
@@ -1168,8 +1166,6 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="CDN-SportsMix-Logo.jpg" group-title="PANAMÁ",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 9 de Panamá (TVMax)" tvg-name="Canal 9 de Panamá (TVMax)" tvg-logo="TV Max" group-title="PANAMÁ",TV Max
-http://urtmpkal-f.akamaihd.net/i/02lk0qtmr_1@136253/master.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="Cable Onda Sports 2 " group-title="PANAMÁ",Cable Onda Sports 2 
 http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="1uHiItmG.jpeg" group-title="PANAMÁ",Eco TV
