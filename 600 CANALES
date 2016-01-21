@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0, [B][COLOR cyan]MAZINGER Z ADDON[/COLOR] - [COLOR lightgreen]09/01/2016 - 09:40PM[/COLOR] - [COLOR orange]https://www.facebook.com/groups/screamfacetv/[/COLOR][/B]
 
-#EXTINF:0,group-title="etiquetas",[B]Donaciones via PayPal: mv1476@gmail.com[/B]
+#EXTINF:0, [B]Donaciones via PayPal: mv1476@gmail.com[/B]
 
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ENTRETENIMIENTO ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== ENTRETENIMIENTO ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts
@@ -93,7 +93,7 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal NBC Universo (Este)" tvg-name="Canal NBC Universo (Este)" tvg-logo="-" group-title="ENTRETENIMIENTO",NBC Universo
 http://104.131.200.207/genius/playkodi.php?lib=3289754
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== INFANTILES ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== INFANTILES ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Baby TV" tvg-name="Baby TV" tvg-logo="Baby TV" group-title="INFANTILES",Baby TV
 http://104.131.200.207/genius/playkodi.php?lib=3285246
@@ -124,7 +124,7 @@ http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?playkodi=%2F.ts
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PELÍCULAS-SERIES ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== PELÍCULAS-SERIES ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI AMC HD" tvg-name="AMC HD" tvg-logo="AMC HD" group-title="PELÍCULAS-SERIES",AMC HD
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?playkodi=%2F.ts
@@ -203,7 +203,7 @@ http://104.131.200.207/genius/playkodi.php?lib=3287428
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Warner HD" tvg-name="Warner HD" tvg-logo="Warner HD" group-title="PELÍCULAS-SERIES",Warner HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?playkodi=%2F.ts
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PREMIUM ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== PREMIUM ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Golden Multiplex" tvg-name="Canal Golden Multiplex" tvg-logo="Q" group-title="PREMIUM",Golden Multiplex
 http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/55.ts
@@ -232,7 +232,7 @@ http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/66.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Max UP" tvg-name="Canal Max UP" tvg-logo="Max Up" group-title="PREMIUM",Max Up
 http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/67.ts
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== MOVISTAR+ España ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== MOVISTAR+ España ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Acción" tvg-name="ES Canal+ Acción" tvg-logo="Canal+ Acción" group-title="MOVISTAR+ España",Canal+ Acción
 http://portal.rapidiptv.com:8080/live/mondi/mondi/5463.m3u8
@@ -261,7 +261,7 @@ rtmp://31.220.40.60/privatestream/iberalia65 swfUrl=http://privatestream.tv/js/j
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal+ 1" tvg-name="Canal+ 1" tvg-logo="Canal+1" group-title="MOVISTAR+ España",Canal+1
 http://104.131.200.207/normalize/?lib=882982255
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== DEPORTES ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== DEPORTES ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?playkodi=%2F.ts
@@ -376,7 +376,7 @@ http://104.131.200.207/normalize/?lib=-670671733
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Win Sports" tvg-name="Win Sports" tvg-logo="aj8qwk-1-0x290-win_sports.png" group-title="DEPORTES",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== CULTURA-DOCUMENTAL ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== CULTURA-DOCUMENTAL ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Animal Planet" tvg-name="Animal Planet" tvg-logo="Animal Planet" group-title="CULTURA-DOCUMENTAL",Animal Planet
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?playkodi=%2F.ts
@@ -425,7 +425,7 @@ http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="f2fR91hPfRRhf19Pf1bd9.jpg" group-title="CULTURA-DOCUMENTAL",DW Latinoamérica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== MÚSICA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== MÚSICA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MÚSICA",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?playkodi=%2F.ts
@@ -486,7 +486,7 @@ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="virginmedia-logo.jpg" group-title="MÚSICA",Virgin TV
 rtmp://fms.105.net:1935/live/virgin2
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== NOTICIAS ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== NOTICIAS ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal AZ Noticias" tvg-name="Canal AZ Noticias" tvg-logo="Az Noticias" group-title="NOTICIAS",Az Noticias
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?=%2F.ts
@@ -523,7 +523,7 @@ http://104.131.200.207/genius/playkodi.php?lib=3285422
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox News" tvg-name="Fox News" tvg-logo="Fox News Channel" group-title="NOTICIAS",Fox News Channel
 http://104.131.200.207/genius/playkodi.php?lib=3285137
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== REAL HD ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== REAL HD ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E (1080p)" group-title="REAL HD",A&E (1080p)
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?playkodi=%2F.ts
@@ -598,7 +598,7 @@ http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="trendy-400x400-logo.png" group-title="REAL HD",Trendy (1080p)
 http://200.76.77.237/LIVE/H01/CANAL279/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== MÉXICO ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== MÉXICO ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Az Corazón" tvg-name="Az Corazón" tvg-logo="Az Corazón" group-title="MÉXICO",Az Corazón
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?playkodi=%2F.ts
@@ -689,7 +689,7 @@ rtmp://200.52.193.57:1935/live/unique/live_2650
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="canalGDL.png" group-title="MÉXICO",Trecevisión Yucatán
 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== EUA (USA) ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== EUA (USA) ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Consumer News & Business Channel (CNBC)" tvg-name="Consumer News & Business Channel (CNBC)" tvg-logo="cnbc_logo.jpg" group-title="EUA (USA)",CNBC
 http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/index_1300_av-p.m3u8?sd=10&rebase=on
@@ -810,7 +810,7 @@ http://104.131.200.207/genius/playkodi.php?lib=3289761
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="telemundo_logo_detalle.jpg" group-title="EUA (USA)",Telemundo 52 Los Angeles
 http://104.131.200.207/normalize/?lib=1173216164
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Andalucía TV" tvg-name="Andalucía TV" tvg-logo="Andalucía TV" group-title="ESPAÑA",Andalucía TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
@@ -855,7 +855,7 @@ http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI ES Atres Series" tvg-name="ES Atres Series" tvg-logo="Atreseries" group-title="ESPAÑA",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== REINO UNIDO (UK) ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== REINO UNIDO (UK) ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI UK BBC One" tvg-name="UK BBC One" tvg-logo="BBC One" group-title="REINO UNIDO (UK)",BBC One
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3580.m3u8
@@ -868,7 +868,7 @@ http://104.131.200.207/genius/playkodi.php?lib=3285442
 #EXTINF:-1 tvg-id="Lista PLAY-KODI UK Discovery Turbo" tvg-name="UK Discovery Turbo" tvg-logo="Discovery Turbo UK" group-title="REINO UNIDO (UK)",Discovery Turbo UK
 http://104.131.200.207/genius/playkodi.php?lib=3285440
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== CANADÁ ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== CANADÁ ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="498px-CBC-Television-Logo.png" group-title="CANADÁ",CBC
 http://192.99.201.121:1935/eu2/cbc.stream/default.m3u8
@@ -883,7 +883,7 @@ https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="ciii_toronto.png" group-title="CANADÁ",Global Toronto
 https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PERÚ ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== PERÚ ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI América TV" tvg-name="América TV" tvg-logo="América TV" group-title="PERÚ",América TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
@@ -904,7 +904,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Willax" tvg-name="Willax" tvg-logo="Willax" group-title="PERÚ",Willax
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== COLOMBIA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== COLOMBIA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="F72G3GEW.jpeg" group-title="COLOMBIA",Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
@@ -959,7 +959,7 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Telemedellin.png" group-title="COLOMBIA",Telemedellín
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== CHILE ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== CHILE ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal13Chile-LogoV2Blanco.png" group-title="CHILE",C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
@@ -998,7 +998,7 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Campus HD (Talca)" group-title="CHILE",Campus HD (Talca)
 http://movilstream.digitalproserver.com/campustv/campustvvivo/campustv.smil/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ARGENTINA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== ARGENTINA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI C5N" tvg-name="C5N" tvg-logo="C5N" group-title="ARGENTINA",C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
@@ -1055,7 +1055,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI TyC Sports HD" tvg-name="TyC Sports HD" tvg-logo="DEPORTV---Deporte-para-Todos.png" group-title="ARGENTINA",TyC Sports
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u9
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== HONDURAS ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== HONDURAS ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="images (2).jpg" group-title="HONDURAS",Globo TV
 http://162.212.176.83:8080/globotv.m3u8
@@ -1088,7 +1088,7 @@ rtmp://4.31.30.140:1935/live/ playpath=mundotv swfUrl=http://static2.sawlive.tv/
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="JBN Internacional" group-title="HONDURAS",JBN Internacional
 rtmp://hd.worldkast.com:1935/8506/ playpath=8506 swfUrl=http://control.worldkast.com/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.telecatracha.com/2012/02/jbn-tv-internacional-honduras.html
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PUERTO RICO ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== PUERTO RICO ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal WAPA-TV" tvg-name="Canal WAPA-TV" tvg-logo="Wapa" group-title="PUERTO RICO",Wapa
 http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/42.ts
@@ -1105,7 +1105,7 @@ http://104.236.200.163:1382/300815/wjpx/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI -" tvg-name="-" tvg-logo="ABC 5" group-title="PUERTO RICO",ABC 5
 http://104.131.200.207/genius/playkodi.php?lib=3293503
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== GUATEMALA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== GUATEMALA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Guatemala (Televisiete)" tvg-name="Canal 7 de Guatemala (Televisiete)" tvg-logo="q" group-title="GUATEMALA",Canal 7 Televesiete
 http://72.46.226.61/live01/canal71/playlist.m3u8
@@ -1118,7 +1118,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Guatevision" tvg-name="Guatevision" tvg-logo="q" group-title="GUATEMALA",Guatevisión
 http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== EL SALVADOR ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== EL SALVADOR ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 12 de El Salvador" tvg-name="Canal 12 de El Salvador" tvg-logo="q" group-title="EL SALVADOR",Canal 12
 http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u9
@@ -1133,7 +1133,7 @@ http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="q" group-title="EL SALVADOR",TRV
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== COSTA RICA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== COSTA RICA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 11 de Costa Rica" tvg-name="Canal 11 de Costa Rica" tvg-logo="Canal 11" group-title="COSTA RICA",Canal 11
 http://72.46.226.61/live01/canal111/playlist.m3u8
@@ -1154,7 +1154,7 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="-" group-title="COSTA RICA",SMO TV
 rtmp://199.217.118.90:1935/smotv/stream
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== NICARAGUA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== NICARAGUA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 13 de Nicaragua (Viva Nicaragua)" tvg-name="Canal 13 de Nicaragua (Viva Nicaragua)" tvg-logo="Viva Nicaragua (Canal 13)" group-title="NICARAGUA",Viva Nicaragua (Canal 13)
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
@@ -1163,7 +1163,7 @@ http://104.131.200.207/genius/playkodi.php?lib=3286944
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal 4.jpg" group-title="NICARAGUA",Canal 4
 http://72.46.226.61/live01/canal41/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== ECUADOR ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== ECUADOR ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Rts_logo.png" group-title="ECUADOR",RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
@@ -1172,14 +1172,14 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Q" group-title="ECUADOR",UCSG TV
 rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== URUGUAY ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== URUGUAY ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal U" tvg-name="Canal U" tvg-logo="Canal U" group-title="URUGUAY",Canal U
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Once" tvg-name="Canal Once" tvg-logo="Canal Once" group-title="URUGUAY",Canal Once
 http://q.gs/9830047/onceuuruguaytodokodim3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== REP. DOMINICANA ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== REP. DOMINICANA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal 7 de Antena Latina (República Dominicana)" tvg-logo="Antena Latina" group-title="REP. DOMINICANA",Antena Latina
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
@@ -1212,7 +1212,7 @@ http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Telemicro-5-Logo.jpg" group-title="REP. DOMINICANA",Telemicro 5
 https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== PANAMÁ ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== PANAMÁ ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="SerTV-Panama-Logo.jpg" group-title="PANAMÁ",Ser TV
 rtmp://216.224.177.132/live/sertv
@@ -1239,7 +1239,7 @@ http://190.102.61.118:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="TV Blast" group-title="PANAMÁ",TV Blast
 http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== OTROS CANALES ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== OTROS CANALES ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Anime 24H" tvg-name="Anime 24H" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
@@ -1250,7 +1250,7 @@ http://iptvnation.com/simpsonslat.mp4
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",The Simpsons USA
 http://iptvnation.com/simpsons.mp4 
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]== BAJA RESOLUCIÓN ==[/B][/COLOR]
+#EXTINF:0, [COLOR yellow][B]== BAJA RESOLUCIÓN ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E - BR" group-title="BAJA RESOLUCIÓN",A&E - BR
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE02.m3u8?playkodi=%2F.ts
