@@ -203,35 +203,6 @@ http://104.131.200.207/genius/playkodi.php?lib=3287428
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Warner HD" tvg-name="Warner HD" tvg-logo="Warner HD" group-title="PELÍCULAS-SERIES",Warner HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?playkodi=%2F.ts
 
-#EXTINF:0, [COLOR yellow][B]== MOVISTAR+ España ==[/B][/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Acción" tvg-name="ES Canal+ Acción" tvg-logo="Canal+ Acción" group-title="MOVISTAR+ España",Canal+ Acción
-http://portal.rapidiptv.com:8080/live/mondi/mondi/5463.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Comedia" tvg-name="ES Canal+ Comedia" tvg-logo="Canal+ Comedia" group-title="MOVISTAR+ España",Canal+ Comedia
-http://104.131.200.207/normalize/?lib=1376615804
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ DCine" tvg-name="ES Canal+ DCine" tvg-logo="Canal+ DCine" group-title="MOVISTAR+ España",Canal+ DCine
-http://104.131.200.207/normalize/?lib=-1565041795
-#EXTINF:-1 tvg-id="Lista PLAY-KODI DCine Español" tvg-name="DCine Español" tvg-logo="DCine Español" group-title="MOVISTAR+ España",DCine Español
-http://104.131.200.207/normalize/?lib=-211732098
-#EXTINF:-1 tvg-id="Lista PLAY-KODI C+ Estrenos" tvg-name="C+ Estrenos" tvg-logo="Canal+ Estrenos" group-title="MOVISTAR+ España",Canal+ Estrenos
-http://104.131.200.207/normalize/?lib=1141577599
-#EXTINF:-1 tvg-id="Lista PLAY-KODI C+ Fútbol" tvg-name="C+ Fútbol" tvg-logo="Canal+ Futbol" group-title="MOVISTAR+ España",Canal+ Futbol
-http://104.131.200.207/normalize/?lib=-446770303
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Deportes" tvg-name="ES Canal+ Deportes" tvg-logo="Canal+ Deportes" group-title="MOVISTAR+ España",Canal+ Deportes
-http://104.131.200.207/normalize/?lib=906539394
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Deportes2" tvg-name="ES Canal+ Deportes2" tvg-logo="Canal+ Deportes 2" group-title="MOVISTAR+ España",Canal+ Deportes 2
-rtmp://31.220.0.60/privatestreamplus/ playpath=pdeportes247?keys=08g8w30oiFw_Cbec7UF4-Q&keyt=1448246348 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Golf" tvg-name="ES Canal+ Golf" tvg-logo="Canal+ Golf" group-title="MOVISTAR+ España",Canal+ Golf
-http://104.131.200.207/normalize/?lib=-681808508
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Liga" tvg-name="ES Canal+ Liga" tvg-logo="Canal+ Liga" group-title="MOVISTAR+ España",Canal+ Liga
-http://104.131.200.207/normalize/?lib=1118020460
-#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Toros" tvg-name="ES Canal+ Toros" tvg-logo="Canal+ Toros" group-title="MOVISTAR+ España",Canal+ Toros
-http://104.131.200.207/normalize/?lib=-1823637139
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Iberalia" tvg-name="Iberalia" tvg-logo="Iberalia Caza y Pesca" group-title="MOVISTAR+ España",Iberalia Caza y Pesca
-rtmp://31.220.40.60/privatestream/iberalia65 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal+ 1" tvg-name="Canal+ 1" tvg-logo="Canal+1" group-title="MOVISTAR+ España",Canal+1
-http://104.131.200.207/normalize/?lib=882982255
-
 #EXTINF:0, [COLOR yellow][B]== DEPORTES ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
@@ -367,8 +338,6 @@ http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?playkodi=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Discovery World HD" tvg-name="Discovery World HD" tvg-logo="Discovery World" group-title="CULTURA-DOCUMENTAL",Discovery World
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI H2" tvg-name="H2" tvg-logo="H2" group-title="CULTURA-DOCUMENTAL",H2
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/45.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="Discovery Theater" group-title="CULTURA-DOCUMENTAL",Discovery Theater
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Historia" tvg-name="Historia" tvg-logo="Historia" group-title="CULTURA-DOCUMENTAL",Historia
