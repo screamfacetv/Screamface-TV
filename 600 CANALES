@@ -203,35 +203,6 @@ http://104.131.200.207/genius/playkodi.php?lib=3287428
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Warner HD" tvg-name="Warner HD" tvg-logo="Warner HD" group-title="PELÍCULAS-SERIES",Warner HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?playkodi=%2F.ts
 
-#EXTINF:0, [COLOR yellow][B]== PREMIUM ==[/B][/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Golden Multiplex" tvg-name="Canal Golden Multiplex" tvg-logo="Q" group-title="PREMIUM",Golden Multiplex
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/55.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Golden Premier" tvg-name="Canal Golden Premier" tvg-logo="Golden Premier 1" group-title="PREMIUM",Golden Premier 1
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/56.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Golden Premier 2" tvg-name="Canal Golden Premier 2" tvg-logo="Golden Premier 2" group-title="PREMIUM",Golden Premier 2
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/57.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO" tvg-name="Canal HBO" tvg-logo="HBO" group-title="PREMIUM",HBO
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/58.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO 2" tvg-name="Canal HBO 2" tvg-logo="HBO 2" group-title="PREMIUM",HBO 2
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/59.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Family Este" tvg-name="Canal HBO Family Este" tvg-logo="HBO Family" group-title="PREMIUM",HBO Family
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/60.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Plus" tvg-name="Canal HBO Plus" tvg-logo="HBO Plus Este" group-title="PREMIUM",HBO Plus Este
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/61.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Plus Oeste" tvg-name="Canal HBO Plus Oeste" tvg-logo="HBO Plus Oeste" group-title="PREMIUM",HBO Plus Oeste
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/62.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Signature Latinoamérica" tvg-name="Canal HBO Signature Latinoamérica" tvg-logo="HBO Signature" group-title="PREMIUM",HBO Signature
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/63.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Max (Este)" tvg-name="Canal Max (Este)" tvg-logo="MAX" group-title="PREMIUM",MAX
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/64.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal MAX Prime Este" tvg-name="Canal MAX Prime Este" tvg-logo="Max Prime Este" group-title="PREMIUM",Max Prime Este
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/65.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal MAX Prime Oeste" tvg-name="Canal MAX Prime Oeste" tvg-logo="Max Prime Oeste" group-title="PREMIUM",Max Prime Oeste
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/66.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Max UP" tvg-name="Canal Max UP" tvg-logo="Max Up" group-title="PREMIUM",Max Up
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/67.ts
-
 #EXTINF:0, [COLOR yellow][B]== MOVISTAR+ España ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI ES Canal+ Acción" tvg-name="ES Canal+ Acción" tvg-logo="Canal+ Acción" group-title="MOVISTAR+ España",Canal+ Acción
