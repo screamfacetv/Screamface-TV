@@ -4,271 +4,1957 @@ http://127.0.0.1
 #EXTINF:-1,IP: 79.154.142.xxx
 http://127.0.0.1
 
-# Movistar+
-#EXTINF:-1 group-title="TDT" tvg-logo="movistar.png",[COLOR green]Movistar+: TDT[/COLOR]
+#EXTINF:-1,TDT:[COLOR green]Movistar+: TDT[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 group-title="TDT" tvg-logo="la1.png",La 1
-http://79.154.142.237:4022/rtp/239.0.0.76:8208?msession=62111
-#EXTINF:-1 group-title="TDT" tvg-logo="la2.png", La 2
-http://79.154.142.237:4022/rtp/239.0.0.2:8208?msession=63204
-#EXTINF:-1 group-title="TDT" tvg-logo="antena3.png",Antena 3
-http://79.154.142.237:4022/rtp/239.0.0.3:8208?msession=61945
-#EXTINF:-1 group-title="TDT" tvg-logo="cuatro.png",Cuatro
-http://79.154.142.237:4022/rtp/239.0.0.4:8208?msession=60992
-#EXTINF:-1 group-title="TDT" tvg-logo="tele5.png",Tele 5
-http://79.154.142.237:4022/rtp/239.0.0.5:8208?msession=63188
-#EXTINF:-1 group-title="TDT" tvg-logo="lasexta.png",La Sexta
-http://79.154.142.237:4022/rtp/239.0.0.58:8208?msession=61298
-#EXTINF:-1 group-title="TDT" tvg-logo="cplus.png",Canal+
-http://79.154.142.237:4022/rtp/239.0.0.108:8208?msession=61210
-#EXTINF:-1 group-title="TDT" tvg-logo="fdf.png",FDF
-http://79.154.142.237:4022/rtp/239.0.0.84:8208?msession=60368
-#EXTINF:-1 group-title="TDT" tvg-logo="neox.png",Neox
-http://79.154.142.237:4022/rtp/239.0.0.107:8208?msession=63766
-#EXTINF:-1 group-title="TDT" tvg-logo="mega.png",MEGA
-http://79.154.142.237:4022/rtp/239.0.3.31:8208?msession=60070
-#EXTINF:-1 group-title="TDT" tvg-logo="energy.png",Energy
-http://79.154.142.237:4022/rtp/239.0.0.59:8208?msession=61126
-#EXTINF:-1 group-title="TDT" tvg-logo="divinity.png",Divinity
-http://79.154.142.237:4022/rtp/239.0.0.48:8208?msession=61021
-#EXTINF:-1 group-title="TDT" tvg-logo="nova.png",Nova
-http://79.154.142.237:4022/rtp/239.0.0.106:8208?msession=60022
-#EXTINF:-1 group-title="TDT" tvg-logo="discoverymax.png",Discovery MAX
-http://79.154.142.237:4022/rtp/239.0.0.32:8208?msession=62041
-#EXTINF:-1 group-title="TDT" tvg-logo="intereconomia.png",Intereconomia TV
-http://79.154.142.237:4022/rtp/239.0.0.63:8208?msession=62716
-#EXTINF:-1 group-title="TDT" tvg-logo="13tv.png",13 TV
-http://79.154.142.237:4022/rtp/239.0.0.91:8208?msession=63979
-
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="movistar.png",[COLOR green]Movistar+: Documentales[/COLOR]
+#EXTINF:-1,TDT:La 1
+http://79.146.128.101:4022/rtp/239.0.0.76:8208?msession=61909
+#EXTINF:-1,TDT:La 2
+http://79.146.128.101:4022/rtp/239.0.0.2:8208?msession=63102
+#EXTINF:-1,TDT:Antena 3
+http://79.146.128.101:4022/rtp/239.0.0.3:8208?msession=60692
+#EXTINF:-1,TDT:Cuatro
+http://79.146.128.101:4022/rtp/239.0.0.4:8208?msession=60394
+#EXTINF:-1,TDT:Tele 5
+http://79.146.128.101:4022/rtp/239.0.0.5:8208?msession=62665
+#EXTINF:-1,TDT:La Sexta
+http://79.146.128.101:4022/rtp/239.0.0.58:8208?msession=61600
+#EXTINF:-1,TDT:Canal+
+http://79.146.128.101:4022/rtp/239.0.0.108:8208?msession=61277
+#EXTINF:-1,TDT:FDF
+http://79.146.128.101:4022/rtp/239.0.0.84:8208?msession=62812
+#EXTINF:-1,TDT:Neox
+http://79.146.128.101:4022/rtp/239.0.0.107:8208?msession=61989
+#EXTINF:-1,TDT:MEGA
+http://79.146.128.101:4022/rtp/239.0.3.31:8208?msession=60694
+#EXTINF:-1,TDT:Energy
+http://79.146.128.101:4022/rtp/239.0.0.59:8208?msession=60786
+#EXTINF:-1,TDT:Divinity
+http://79.146.128.101:4022/rtp/239.0.0.48:8208?msession=61670
+#EXTINF:-1,TDT:Nova
+http://79.146.128.101:4022/rtp/239.0.0.106:8208?msession=61431
+#EXTINF:-1,TDT:Discovery MAX
+http://79.146.128.101:4022/rtp/239.0.0.32:8208?msession=63361
+#EXTINF:-1,TDT:Intereconomia TV
+http://79.146.128.101:4022/rtp/239.0.0.63:8208?msession=62914
+#EXTINF:-1,TDT:13 TV
+http://79.146.128.101:4022/rtp/239.0.0.91:8208?msession=60361
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 group-title="Documentales" tvg-logo="natgeo.png",National Geographic
-http://79.154.142.237:4022/rtp/239.0.0.103:8208?msession=63587
-#EXTINF:-1 group-title="Documentales" tvg-logo="natgeowild.png",Nat Geo Wild
-http://79.154.142.237:4022/rtp/239.0.0.89:8208?msession=61671
-#EXTINF:-1 group-title="Documentales" tvg-logo="viajar.png",Viajar
-http://79.154.142.237:4022/rtp/239.0.0.20:8208?msession=62942
-#EXTINF:-1 group-title="Documentales" tvg-logo="discovery.png",Discovery Channel
-http://79.154.142.237:4022/rtp/239.0.0.21:8208?msession=60624
-#EXTINF:-1 group-title="Documentales" tvg-logo="odisea.png",Odisea
-http://79.154.142.237:4022/rtp/239.0.0.22:8208?msession=63021
-#EXTINF:-1 group-title="Documentales" tvg-logo="historia.png",Historia
-http://79.154.142.237:4022/rtp/239.0.0.19:8208?msession=62153
-#EXTINF:-1 group-title="Documentales" tvg-logo="aande.png",A&E
-http://79.154.142.237:4022/rtp/239.0.0.38:8208?msession=60935
-#EXTINF:-1 group-title="Documentales" tvg-logo="garage.png",Garage TV
-http://79.154.142.237:4022/rtp/239.0.0.99:8208?msession=62938
-#EXTINF:-1 group-title="Documentales" tvg-logo="crimeninvestigacion.png",Crimen & Investigacion
-http://79.154.142.237:4022/rtp/239.0.0.57:8208?msession=62486
-#EXTINF:-1 group-title="Documentales" tvg-logo="cocina.png",Canal Cocina
-http://79.154.142.237:4022/rtp/239.0.0.27:8208?msession=61725
-#EXTINF:-1 group-title="Documentales" tvg-logo="decasa.png",Canal Decasa
-http://79.154.142.237:4022/rtp/239.0.0.71:8208?msession=63817
-
-
-#EXTINF:-1 group-title="Series" tvg-logo="movistar.png",[COLOR green]Movistar+: Series[/COLOR]
+#EXTINF:-1,Documentales:National Geographic
+http://79.146.128.101:4022/rtp/239.0.0.103:8208?msession=60452
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://79.146.128.101:4022/rtp/239.0.0.89:8208?msession=63639
+#EXTINF:-1,Documentales:Viajar
+http://79.146.128.101:4022/rtp/239.0.0.20:8208?msession=60974
+#EXTINF:-1,Documentales:Discovery Channel
+http://79.146.128.101:4022/rtp/239.0.0.21:8208?msession=60070
+#EXTINF:-1,Documentales:Odisea
+http://79.146.128.101:4022/rtp/239.0.0.22:8208?msession=61288
+#EXTINF:-1,Documentales:Historia
+http://79.146.128.101:4022/rtp/239.0.0.19:8208?msession=62701
+#EXTINF:-1,Documentales:A&E
+http://79.146.128.101:4022/rtp/239.0.0.38:8208?msession=62808
+#EXTINF:-1,Documentales:Garage TV
+http://79.146.128.101:4022/rtp/239.0.0.99:8208?msession=61006
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://79.146.128.101:4022/rtp/239.0.0.57:8208?msession=60672
+#EXTINF:-1,Documentales:Canal Cocina
+http://79.146.128.101:4022/rtp/239.0.0.27:8208?msession=63395
+#EXTINF:-1,Documentales:Canal Decasa
+http://79.146.128.101:4022/rtp/239.0.0.71:8208?msession=62369
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
 http://127.0.0.1
-
-#EXTINF:-1 group-title="Series" tvg-logo="cplusseries.png",Canal+ Series
-http://79.154.142.237:4022/rtp/239.0.5.4:8208?msession=62848
-#EXTINF:-1 group-title="Series" tvg-logo="cplusseriesxtra.png",Canal+ Series Xtra
-http://79.154.142.237:4022/rtp/239.0.3.20:8208?msession=63073
-#EXTINF:-1 group-title="Series" tvg-logo="fox.png",Fox
-http://79.154.142.237:4022/rtp/239.0.0.74:8208?msession=63500
-#EXTINF:-1 group-title="Series" tvg-logo="axn.png",AXN
-http://79.154.142.237:4022/rtp/239.0.0.14:8208?msession=61371
-#EXTINF:-1 group-title="Series" tvg-logo="tnt.png",TNT
-http://79.154.142.237:4022/rtp/239.0.0.44:8208?msession=62720
-#EXTINF:-1 group-title="Series" tvg-logo="comedy.png",Comedy Central
-http://79.154.142.237:4022/rtp/239.0.0.68:8208?msession=62898
-#EXTINF:-1 group-title="Series" tvg-logo="calle.png",Calle 13
-http://79.154.142.237:4022/rtp/239.0.0.13:8208?msession=63363
-#EXTINF:-1 group-title="Series" tvg-logo="cosmo.png",Cosmo
-http://79.154.142.237:4022/rtp/239.0.0.15:8208?msession=61024
-#EXTINF:-1 group-title="Series" tvg-logo="amc.png",AMC
-http://79.154.142.237:4022/rtp/239.0.0.8:8208?msession=60826
-#EXTINF:-1 group-title="Series" tvg-logo="foxlife.png",Fox Life
-http://79.154.142.237:4022/rtp/239.0.0.112:8208?msession=61087
-#EXTINF:-1 group-title="Series" tvg-logo="axnwhite.png",AXN White
-http://79.154.142.237:4022/rtp/239.0.0.62:8208?msession=61734
-#EXTINF:-1 group-title="Series" tvg-logo="syfy.png",SyFy
-http://79.154.142.237:4022/rtp/239.0.0.111:8208?msession=60613
-#EXTINF:-1 group-title="Series" tvg-logo="nsp.png",Non Stop People
-http://79.154.142.237:4022/rtp/239.0.0.212:8208?msession=60862
-#EXTINF:-1 group-title="Series" tvg-logo="mtvespana.png",MTV España
-http://79.154.142.237:4022/rtp/239.0.0.211:8208?msession=60994
-
-
-#EXTINF:-1 group-title="Cine" tvg-logo="movistar.png",[COLOR green]Movistar+: Cine[/COLOR]
+#EXTINF:-1,Series:Canal+ Series
+http://79.146.128.101:4022/rtp/239.0.5.4:8208?msession=63826
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://79.146.128.101:4022/rtp/239.0.3.20:8208?msession=60685
+#EXTINF:-1,Series:Fox
+http://79.146.128.101:4022/rtp/239.0.0.74:8208?msession=63573
+#EXTINF:-1,Series:AXN
+http://79.146.128.101:4022/rtp/239.0.0.14:8208?msession=62013
+#EXTINF:-1,Series:TNT
+http://79.146.128.101:4022/rtp/239.0.0.44:8208?msession=60633
+#EXTINF:-1,Series:Comedy Central
+http://79.146.128.101:4022/rtp/239.0.0.68:8208?msession=62761
+#EXTINF:-1,Series:Calle 13
+http://79.146.128.101:4022/rtp/239.0.0.13:8208?msession=60539
+#EXTINF:-1,Series:Cosmo
+http://79.146.128.101:4022/rtp/239.0.0.15:8208?msession=61586
+#EXTINF:-1,Series:AMC
+http://79.146.128.101:4022/rtp/239.0.0.8:8208?msession=60451
+#EXTINF:-1,Series:Fox Life
+http://79.146.128.101:4022/rtp/239.0.0.112:8208?msession=60822
+#EXTINF:-1,Series:AXN White
+http://79.146.128.101:4022/rtp/239.0.0.62:8208?msession=61653
+#EXTINF:-1,Series:SyFy
+http://79.146.128.101:4022/rtp/239.0.0.111:8208?msession=63440
+#EXTINF:-1,Series:Non Stop People
+http://79.146.128.101:4022/rtp/239.0.0.212:8208?msession=61867
+#EXTINF:-1,Series:MTV España
+http://79.146.128.101:4022/rtp/239.0.0.211:8208?msession=63054
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
 http://127.0.0.1
-
-#EXTINF:-1 group-title="Cine" tvg-logo="cplusestrenos.png",Canal+ Estrenos
-http://79.154.142.237:4022/rtp/239.0.3.40:8208?msession=61827
-#EXTINF:-1 group-title="Cine" tvg-logo="cplusxtra.png",Canal+ Xtra
-http://79.154.142.237:4022/rtp/239.0.3.41:8208?msession=61137
-#EXTINF:-1 group-title="Cine" tvg-logo="cplusaccion.png",Canal+ Acción
-http://79.154.142.237:4022/rtp/239.0.3.42:8208?msession=60238
-#EXTINF:-1 group-title="Cine" tvg-logo="cpluscomedia.png",Canal+ Comedia
-http://79.154.142.237:4022/rtp/239.0.3.43:8208?msession=60325
-#EXTINF:-1 group-title="Cine" tvg-logo="cplusdcine.png",Canal+ DCine
-http://79.154.142.237:4022/rtp/239.0.3.44:8208?msession=62310
-#EXTINF:-1 group-title="Cine" tvg-logo="cplusdcineespanol.png",DCine Español
-http://79.154.142.237:4022/rtp/239.0.3.45:8208?msession=63943
-#EXTINF:-1 group-title="Cine" tvg-logo="tcm.png",TCM
-http://79.154.142.237:4022/rtp/239.0.6.5:8208?msession=60221
-#EXTINF:-1 group-title="Cine" tvg-logo="hollywood.png",Hollywood
-http://79.154.142.237:4022/rtp/239.0.0.16:8208?msession=63027
-#EXTINF:-1 group-title="Cine" tvg-logo="sundance.png",Sundance Channel
-http://79.154.142.237:4022/rtp/239.0.0.102:8208?msession=63179
-#EXTINF:-1 group-title="Cine" tvg-logo="paramountchannel.png",Paramount Channel
-http://79.154.142.237:4022/rtp/239.0.0.90:8208?msession=61203
-
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="movistar.png",[COLOR green]Movistar+: Noticias[/COLOR]
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://79.146.128.101:4022/rtp/239.0.3.40:8208?msession=61942
+#EXTINF:-1,Cine:Canal+ Xtra
+http://79.146.128.101:4022/rtp/239.0.3.41:8208?msession=61405
+#EXTINF:-1,Cine:Canal+ Acción
+http://79.146.128.101:4022/rtp/239.0.3.42:8208?msession=60377
+#EXTINF:-1,Cine:Canal+ Comedia
+http://79.146.128.101:4022/rtp/239.0.3.43:8208?msession=62234
+#EXTINF:-1,Cine:Canal+ DCine
+http://79.146.128.101:4022/rtp/239.0.3.44:8208?msession=62857
+#EXTINF:-1,Cine:DCine Español
+http://79.146.128.101:4022/rtp/239.0.3.45:8208?msession=60167
+#EXTINF:-1,Cine:TCM
+http://79.146.128.101:4022/rtp/239.0.6.5:8208?msession=62704
+#EXTINF:-1,Cine:Hollywood
+http://79.146.128.101:4022/rtp/239.0.0.16:8208?msession=60952
+#EXTINF:-1,Cine:Sundance Channel
+http://79.146.128.101:4022/rtp/239.0.0.102:8208?msession=60806
+#EXTINF:-1,Cine:Paramount Channel
+http://79.146.128.101:4022/rtp/239.0.0.90:8208?msession=61339
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 group-title="Noticias" tvg-logo="foxnews.png",Fox News
-http://79.154.142.237:4022/rtp/239.0.7.65:8208?msession=62440
-#EXTINF:-1 group-title="Noticias" tvg-logo="bbcworld.png",BBC World
-http://79.154.142.237:4022/rtp/239.0.0.30:8208?msession=63229
-#EXTINF:-1 group-title="Noticias" tvg-logo="cnni.png",CNN Int
-http://79.154.142.237:4022/rtp/239.0.0.40:8208?msession=63237
-#EXTINF:-1 group-title="Noticias" tvg-logo="euronews.png",Euronews
-http://79.154.142.237:4022/rtp/239.0.0.28:8208?msession=61803
-#EXTINF:-1 group-title="Noticias" tvg-logo="24h.png",Canal 24 horas
-http://79.154.142.237:4022/rtp/239.0.0.78:8208?msession=61263
-#EXTINF:-1 group-title="Noticias" tvg-logo="aljazeera.png",Al Jazeera English
-http://79.154.142.237:4022/rtp/239.0.7.66:8208?msession=62670
-#EXTINF:-1 group-title="Noticias" tvg-logo="france24.png",France 24 English
-http://79.154.142.237:4022/rtp/239.0.7.67:8208?msession=62353
-#EXTINF:-1 group-title="Noticias" tvg-logo="rteng.png",Russia Today English
-http://79.154.142.237:4022/rtp/239.0.7.68:8208?msession=62083
-#EXTINF:-1 group-title="Noticias" tvg-logo="cnbc.png",CNBC Europe
-http://79.154.142.237:4022/rtp/239.0.7.69:8208?msession=62192
-#EXTINF:-1 group-title="Noticias" tvg-logo="cctve.png",CCTV-E
-http://79.154.142.237:4022/rtp/239.0.0.65:8208?msession=62863
-#EXTINF:-1 group-title="Noticias" tvg-logo="tv5monde.png",TV5 Monde Europe
-http://79.154.142.237:4022/rtp/239.0.0.31:8208?msession=60116
-#EXTINF:-1 group-title="Noticias" tvg-logo="bloomberg.png",Bloomberg
-http://79.154.142.237:4022/rtp/239.0.0.29:8208?msession=61883
-#EXTINF:-1 group-title="Noticias" tvg-logo="i24news.png",I24 News
-http://79.154.142.237:4022/rtp/239.0.0.220:8208?msession=63805
-#EXTINF:-1 group-title="Noticias" tvg-logo="cncw.png",CNC World
-http://79.154.142.237:4022/rtp/239.0.0.221:8208?msession=63520
-#EXTINF:-1 group-title="Noticias" tvg-logo="orbe21.png",Orbe 21
-http://79.154.142.237:4022/rtp/239.0.0.45:8208?msession=60531
-
-
-#EXTINF:-1 group-title="Infantil" tvg-logo="movistar.png",[COLOR green]Movistar+: Infantil[/COLOR]
+#EXTINF:-1,Noticias:Fox News
+http://79.146.128.101:4022/rtp/239.0.7.65:8208?msession=60148
+#EXTINF:-1,Noticias:BBC World
+http://79.146.128.101:4022/rtp/239.0.0.30:8208?msession=62796
+#EXTINF:-1,Noticias:CNN Int
+http://79.146.128.101:4022/rtp/239.0.0.40:8208?msession=62579
+#EXTINF:-1,Noticias:Euronews
+http://79.146.128.101:4022/rtp/239.0.0.28:8208?msession=60691
+#EXTINF:-1,Noticias:Canal 24 horas
+http://79.146.128.101:4022/rtp/239.0.0.78:8208?msession=61149
+#EXTINF:-1,Noticias:Al Jazeera English
+http://79.146.128.101:4022/rtp/239.0.7.66:8208?msession=62121
+#EXTINF:-1,Noticias:France 24 English
+http://79.146.128.101:4022/rtp/239.0.7.67:8208?msession=62192
+#EXTINF:-1,Noticias:Russia Today English
+http://79.146.128.101:4022/rtp/239.0.7.68:8208?msession=61154
+#EXTINF:-1,Noticias:CNBC Europe
+http://79.146.128.101:4022/rtp/239.0.7.69:8208?msession=61473
+#EXTINF:-1,Noticias:CCTV-E
+http://79.146.128.101:4022/rtp/239.0.0.65:8208?msession=61549
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://79.146.128.101:4022/rtp/239.0.0.31:8208?msession=61307
+#EXTINF:-1,Noticias:Bloomberg
+http://79.146.128.101:4022/rtp/239.0.0.29:8208?msession=63863
+#EXTINF:-1,Noticias:I24 News
+http://79.146.128.101:4022/rtp/239.0.0.220:8208?msession=63498
+#EXTINF:-1,Noticias:CNC World
+http://79.146.128.101:4022/rtp/239.0.0.221:8208?msession=62419
+#EXTINF:-1,Noticias:Orbe 21
+http://79.146.128.101:4022/rtp/239.0.0.45:8208?msession=62297
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 group-title="Infantil" tvg-logo="babytv.png",Baby TV
-http://79.154.142.237:4022/rtp/239.0.0.113:8208?msession=63137
-#EXTINF:-1 group-title="Infantil" tvg-logo="disneyjr.png",Disney Junior
-http://79.154.142.237:4022/rtp/239.0.0.10:8208?msession=62866
-#EXTINF:-1 group-title="Infantil" tvg-logo="panda.png",Canal Panda
-http://79.154.142.237:4022/rtp/239.0.0.117:8208?msession=61391
-#EXTINF:-1 group-title="Infantil" tvg-logo="nickjr.png",Nick Jr.
-http://79.154.142.237:4022/rtp/239.0.0.115:8208?msession=63882
-#EXTINF:-1 group-title="Infantil" tvg-logo="nickelodeon.png",Nickelodeon
-http://79.154.142.237:4022/rtp/239.0.0.69:8208?msession=61632
-#EXTINF:-1 group-title="Infantil" tvg-logo="disneyxd.png",Disney XD
-http://79.154.142.237:4022/rtp/239.0.0.11:8208?msession=63057
-#EXTINF:-1 group-title="Infantil" tvg-logo="disneycha.png",Disney Channel
-http://79.154.142.237:4022/rtp/239.0.0.64:8208?msession=62896
-#EXTINF:-1 group-title="Infantil" tvg-logo="boing.png",Boing
-http://79.154.142.237:4022/rtp/239.0.0.66:8208?msession=61739
-#EXTINF:-1 group-title="Infantil" tvg-logo="clan.png",Clan TVE
-http://79.154.142.237:4022/rtp/239.0.0.80:8208?msession=63663
-
-
-#EXTINF:-1 group-title="Musica" tvg-logo="movistar.png",[COLOR green]Movistar+: Musica[/COLOR]
+#EXTINF:-1,Infantil:Baby TV
+http://79.146.128.101:4022/rtp/239.0.0.113:8208?msession=61304
+#EXTINF:-1,Infantil:Disney Junior
+http://79.146.128.101:4022/rtp/239.0.0.10:8208?msession=60146
+#EXTINF:-1,Infantil:Canal Panda
+http://79.146.128.101:4022/rtp/239.0.0.117:8208?msession=61014
+#EXTINF:-1,Infantil:Nick Jr.
+http://79.146.128.101:4022/rtp/239.0.0.115:8208?msession=60091
+#EXTINF:-1,Infantil:Nickelodeon
+http://79.146.128.101:4022/rtp/239.0.0.69:8208?msession=62821
+#EXTINF:-1,Infantil:Disney XD
+http://79.146.128.101:4022/rtp/239.0.0.11:8208?msession=63491
+#EXTINF:-1,Infantil:Disney Channel
+http://79.146.128.101:4022/rtp/239.0.0.64:8208?msession=63333
+#EXTINF:-1,Infantil:Boing
+http://79.146.128.101:4022/rtp/239.0.0.66:8208?msession=61298
+#EXTINF:-1,Infantil:Clan TVE
+http://79.146.128.101:4022/rtp/239.0.0.80:8208?msession=61141
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
 http://127.0.0.1
-#EXTINF:-1 group-title="Musica" tvg-logo="40tv.png",40 TV
-http://79.154.142.237:4022/rtp/239.0.0.12:8208?msession=60631
-#EXTINF:-1 group-title="Musica" tvg-logo="solmusica.png",Sol Musica
-http://79.154.142.237:4022/rtp/239.0.0.39:8208?msession=61786
-#EXTINF:-1 group-title="Musica" tvg-logo="vh1.png",VH1
-http://79.154.142.237:4022/rtp/239.0.0.75:8208?msession=61278
-
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="movistar.png",[COLOR green]Movistar+: Deportes[/COLOR]
+#EXTINF:-1,Musica:40 TV
+http://79.146.128.101:4022/rtp/239.0.0.12:8208?msession=62205
+#EXTINF:-1,Musica:Sol Musica
+http://79.146.128.101:4022/rtp/239.0.0.39:8208?msession=62815
+#EXTINF:-1,Musica:VH1
+http://79.146.128.101:4022/rtp/239.0.0.75:8208?msession=63729
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
 http://127.0.0.1
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga
-http://79.154.142.237:4022/rtp/239.0.0.42:8208?msession=62364
-#EXTINF:-1 group-title="Deportes" tvg-logo="cpluspartidazo.png",Canal+ Partidazo
-http://79.154.142.237:4022/rtp/239.0.4.129:8208?msession=60085
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga2.png",Canal+ Liga 2
-http://79.154.142.237:4022/rtp/239.0.6.7:8208?msession=60093
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusfutbol.png",Canal+ Futbol 
-http://79.154.142.237:4022/rtp/239.0.6.8:8208?msession=60124
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga Multi
-http://79.154.142.237:4022/rtp/239.0.0.119:8208?msession=63839
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 1
-http://79.154.142.237:4022/rtp/239.0.0.124:8208?msession=61578
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 2
-http://79.154.142.237:4022/rtp/239.0.0.123:8208?msession=60114
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 3
-http://79.154.142.237:4022/rtp/239.0.3.3:8208?msession=62630
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 4
-http://79.154.142.237:4022/rtp/239.0.3.4:8208?msession=60585
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 5
-http://79.154.142.237:4022/rtp/239.0.3.5:8208?msession=62290
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 6
-http://79.154.142.237:4022/rtp/239.0.3.6:8208?msession=63869
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 7
-http://79.154.142.237:4022/rtp/239.0.3.7:8208?msession=62536
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 8
-http://79.154.142.237:4022/rtp/239.0.3.2:8208?msession=63589
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multifútbol 9
-http://79.154.142.237:4022/rtp/239.0.3.9:8208?msession=62395
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 A
-http://79.154.142.237:4022/rtp/239.0.3.9:8208?msession=60758
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 B
-http://79.154.142.237:4022/rtp/239.0.0.120:8208?msession=63684
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 C
-http://79.154.142.237:4022/rtp/239.0.0.121:8208?msession=63166
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Canal+ Liga 2 D
-http://79.154.142.237:4022/rtp/239.0.0.122:8208?msession=63377
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 1
-http://79.154.142.237:4022/rtp/239.0.1.145:8208?msession=63033
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 2
-http://79.154.142.237:4022/rtp/239.0.1.144:8208?msession=62716
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 3
-http://79.154.142.237:4022/rtp/239.0.1.143:8208?msession=60794
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 4
-http://79.154.142.237:4022/rtp/239.0.1.142:8208?msession=63599
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 5
-http://79.154.142.237:4022/rtp/239.0.1.148:8208?msession=60327
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 6
-http://79.154.142.237:4022/rtp/239.0.1.245:8208?msession=60814
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 7
-http://79.154.142.237:4022/rtp/239.0.1.146:8208?msession=63548
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 8
-http://79.154.142.237:4022/rtp/239.0.1.147:8208?msession=62279
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusliga.png",Multideporte 9
-http://79.154.142.237:4022/rtp/239.0.1.243:8208?msession=60606
-
-#EXTINF:-1 group-title="Deportes" tvg-logo="futbolreplay.png",Futbol Replay
-http://79.154.142.237:4022/rtp/239.0.0.97:8208?msession=61510
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusdeportes.png",Canal+ Deportes
-http://79.154.142.237:4022/rtp/239.0.4.193:8208?msession=61450
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusdeportes2.png",Canal+ Deportes 2
-http://79.154.142.237:4022/rtp/239.0.5.5:8208?msession=60328
-#EXTINF:-1 group-title="Deportes" tvg-logo="movf1.png", Movistar F1 
-http://79.154.142.237:4022/rtp/239.0.0.210:8208?msession=60792
-#EXTINF:-1 group-title="Deportes" tvg-logo="movgp.png", Movistar MotoGP
-http://79.154.142.237:4022/rtp/239.0.3.38:8208?msession=63689
-#EXTINF:-1 group-title="Deportes" tvg-logo="cplusgolf.png",Canal+ Golf
-http://79.154.142.237:4022/rtp/239.0.5.2:8208?msession=62958
-#EXTINF:-1 group-title="Deportes" tvg-logo="eurosport.png",Eurosport
-http://79.154.142.237:4022/rtp/239.0.0.18:8208?msession=63656
-#EXTINF:-1 group-title="Deportes" tvg-logo="eurosport2.png",Eurosport 2
-http://79.154.142.237:4022/rtp/239.0.0.37:8208?msession=63898
-#EXTINF:-1 group-title="Deportes" tvg-logo="iberalia.png",Iberalia
-http://79.154.142.237:4022/rtp/239.0.5.6:8208?msession=62967
-#EXTINF:-1 group-title="Deportes" tvg-logo="teledeporte.png",Teledeporte
-http://79.154.142.237:4022/rtp/239.0.0.79:8208?msession=62739
+#EXTINF:-1,Deportes:Canal+ Liga
+http://79.146.128.101:4022/rtp/239.0.0.42:8208?msession=62888
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://79.146.128.101:4022/rtp/239.0.4.129:8208?msession=63151
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://79.146.128.101:4022/rtp/239.0.6.7:8208?msession=62339
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://79.146.128.101:4022/rtp/239.0.6.8:8208?msession=63004
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://79.146.128.101:4022/rtp/239.0.0.119:8208?msession=62980
+#EXTINF:-1,Deportes:Multifútbol 1
+http://79.146.128.101:4022/rtp/239.0.0.124:8208?msession=60277
+#EXTINF:-1,Deportes:Multifútbol 2
+http://79.146.128.101:4022/rtp/239.0.0.123:8208?msession=63884
+#EXTINF:-1,Deportes:Multifútbol 3
+http://79.146.128.101:4022/rtp/239.0.3.3:8208?msession=60220
+#EXTINF:-1,Deportes:Multifútbol 4
+http://79.146.128.101:4022/rtp/239.0.3.4:8208?msession=63601
+#EXTINF:-1,Deportes:Multifútbol 5
+http://79.146.128.101:4022/rtp/239.0.3.5:8208?msession=63093
+#EXTINF:-1,Deportes:Multifútbol 6
+http://79.146.128.101:4022/rtp/239.0.3.6:8208?msession=61916
+#EXTINF:-1,Deportes:Multifútbol 7
+http://79.146.128.101:4022/rtp/239.0.3.7:8208?msession=62466
+#EXTINF:-1,Deportes:Multifútbol 8
+http://79.146.128.101:4022/rtp/239.0.3.2:8208?msession=62541
+#EXTINF:-1,Deportes:Multifútbol 9
+http://79.146.128.101:4022/rtp/239.0.3.9:8208?msession=62038
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://79.146.128.101:4022/rtp/239.0.3.9:8208?msession=60926
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://79.146.128.101:4022/rtp/239.0.0.120:8208?msession=61396
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://79.146.128.101:4022/rtp/239.0.0.121:8208?msession=63379
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://79.146.128.101:4022/rtp/239.0.0.122:8208?msession=60113
+#EXTINF:-1,Deportes:Multideporte 1
+http://79.146.128.101:4022/rtp/239.0.1.145:8208?msession=61461
+#EXTINF:-1,Deportes:Multideporte 2
+http://79.146.128.101:4022/rtp/239.0.1.144:8208?msession=63957
+#EXTINF:-1,Deportes:Multideporte 3
+http://79.146.128.101:4022/rtp/239.0.1.143:8208?msession=63371
+#EXTINF:-1,Deportes:Multideporte 4
+http://79.146.128.101:4022/rtp/239.0.1.142:8208?msession=60086
+#EXTINF:-1,Deportes:Multideporte 5
+http://79.146.128.101:4022/rtp/239.0.1.148:8208?msession=61014
+#EXTINF:-1,Deportes:Multideporte 6
+http://79.146.128.101:4022/rtp/239.0.1.245:8208?msession=61854
+#EXTINF:-1,Deportes:Multideporte 7
+http://79.146.128.101:4022/rtp/239.0.1.146:8208?msession=60066
+#EXTINF:-1,Deportes:Multideporte 8
+http://79.146.128.101:4022/rtp/239.0.1.147:8208?msession=62031
+#EXTINF:-1,Deportes:Multideporte 9
+http://79.146.128.101:4022/rtp/239.0.1.243:8208?msession=63058
+#EXTINF:-1,Deportes:Futbol Replay
+http://79.146.128.101:4022/rtp/239.0.0.97:8208?msession=63167
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://79.146.128.101:4022/rtp/239.0.4.193:8208?msession=60995
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://79.146.128.101:4022/rtp/239.0.5.5:8208?msession=60290
+#EXTINF:-1,Deportes:Movistar F1
+http://79.146.128.101:4022/rtp/239.0.0.210:8208?msession=62808
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://79.146.128.101:4022/rtp/239.0.3.38:8208?msession=61413
+#EXTINF:-1,Deportes:Canal+ Golf
+http://79.146.128.101:4022/rtp/239.0.5.2:8208?msession=61513
+#EXTINF:-1,Deportes:Eurosport
+http://79.146.128.101:4022/rtp/239.0.0.18:8208?msession=63952
+#EXTINF:-1,Deportes:Eurosport 2
+http://79.146.128.101:4022/rtp/239.0.0.37:8208?msession=61372
+#EXTINF:-1,Deportes:Iberalia
+http://79.146.128.101:4022/rtp/239.0.5.6:8208?msession=63977
+#EXTINF:-1,Deportes:Teledeporte
+http://79.146.128.101:4022/rtp/239.0.0.79:8208?msession=60241
+#EXTINF:-1,TDT:La 1
+http://88.26.116.36:4022/rtp/239.0.0.76:8208?msession=63120
+#EXTINF:-1,TDT:La 2
+http://88.26.116.36:4022/rtp/239.0.0.2:8208?msession=63589
+#EXTINF:-1,TDT:Antena 3
+http://88.26.116.36:4022/rtp/239.0.0.3:8208?msession=61219
+#EXTINF:-1,TDT:Cuatro
+http://88.26.116.36:4022/rtp/239.0.0.4:8208?msession=61562
+#EXTINF:-1,TDT:Tele 5
+http://88.26.116.36:4022/rtp/239.0.0.5:8208?msession=62375
+#EXTINF:-1,TDT:La Sexta
+http://88.26.116.36:4022/rtp/239.0.0.58:8208?msession=61801
+#EXTINF:-1,TDT:Canal+
+http://88.26.116.36:4022/rtp/239.0.0.108:8208?msession=61959
+#EXTINF:-1,TDT:FDF
+http://88.26.116.36:4022/rtp/239.0.0.84:8208?msession=63720
+#EXTINF:-1,TDT:Neox
+http://88.26.116.36:4022/rtp/239.0.0.107:8208?msession=60114
+#EXTINF:-1,TDT:MEGA
+http://88.26.116.36:4022/rtp/239.0.3.31:8208?msession=60457
+#EXTINF:-1,TDT:Energy
+http://88.26.116.36:4022/rtp/239.0.0.59:8208?msession=60338
+#EXTINF:-1,TDT:Divinity
+http://88.26.116.36:4022/rtp/239.0.0.48:8208?msession=60524
+#EXTINF:-1,TDT:Nova
+http://88.26.116.36:4022/rtp/239.0.0.106:8208?msession=60545
+#EXTINF:-1,TDT:Discovery MAX
+http://88.26.116.36:4022/rtp/239.0.0.32:8208?msession=61006
+#EXTINF:-1,TDT:Intereconomia TV
+http://88.26.116.36:4022/rtp/239.0.0.63:8208?msession=63736
+#EXTINF:-1,TDT:13 TV
+http://88.26.116.36:4022/rtp/239.0.0.91:8208?msession=62861
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://88.26.116.36:4022/rtp/239.0.0.103:8208?msession=63452
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://88.26.116.36:4022/rtp/239.0.0.89:8208?msession=62063
+#EXTINF:-1,Documentales:Viajar
+http://88.26.116.36:4022/rtp/239.0.0.20:8208?msession=63745
+#EXTINF:-1,Documentales:Discovery Channel
+http://88.26.116.36:4022/rtp/239.0.0.21:8208?msession=62367
+#EXTINF:-1,Documentales:Odisea
+http://88.26.116.36:4022/rtp/239.0.0.22:8208?msession=63895
+#EXTINF:-1,Documentales:Historia
+http://88.26.116.36:4022/rtp/239.0.0.19:8208?msession=60879
+#EXTINF:-1,Documentales:A&E
+http://88.26.116.36:4022/rtp/239.0.0.38:8208?msession=61101
+#EXTINF:-1,Documentales:Garage TV
+http://88.26.116.36:4022/rtp/239.0.0.99:8208?msession=60799
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://88.26.116.36:4022/rtp/239.0.0.57:8208?msession=62736
+#EXTINF:-1,Documentales:Canal Cocina
+http://88.26.116.36:4022/rtp/239.0.0.27:8208?msession=60430
+#EXTINF:-1,Documentales:Canal Decasa
+http://88.26.116.36:4022/rtp/239.0.0.71:8208?msession=60747
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://88.26.116.36:4022/rtp/239.0.5.4:8208?msession=63770
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://88.26.116.36:4022/rtp/239.0.3.20:8208?msession=63804
+#EXTINF:-1,Series:Fox
+http://88.26.116.36:4022/rtp/239.0.0.74:8208?msession=60729
+#EXTINF:-1,Series:AXN
+http://88.26.116.36:4022/rtp/239.0.0.14:8208?msession=62071
+#EXTINF:-1,Series:TNT
+http://88.26.116.36:4022/rtp/239.0.0.44:8208?msession=61576
+#EXTINF:-1,Series:Comedy Central
+http://88.26.116.36:4022/rtp/239.0.0.68:8208?msession=60923
+#EXTINF:-1,Series:Calle 13
+http://88.26.116.36:4022/rtp/239.0.0.13:8208?msession=61829
+#EXTINF:-1,Series:Cosmo
+http://88.26.116.36:4022/rtp/239.0.0.15:8208?msession=60158
+#EXTINF:-1,Series:AMC
+http://88.26.116.36:4022/rtp/239.0.0.8:8208?msession=60112
+#EXTINF:-1,Series:Fox Life
+http://88.26.116.36:4022/rtp/239.0.0.112:8208?msession=62638
+#EXTINF:-1,Series:AXN White
+http://88.26.116.36:4022/rtp/239.0.0.62:8208?msession=60231
+#EXTINF:-1,Series:SyFy
+http://88.26.116.36:4022/rtp/239.0.0.111:8208?msession=61983
+#EXTINF:-1,Series:Non Stop People
+http://88.26.116.36:4022/rtp/239.0.0.212:8208?msession=60709
+#EXTINF:-1,Series:MTV España
+http://88.26.116.36:4022/rtp/239.0.0.211:8208?msession=63481
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://88.26.116.36:4022/rtp/239.0.3.40:8208?msession=60335
+#EXTINF:-1,Cine:Canal+ Xtra
+http://88.26.116.36:4022/rtp/239.0.3.41:8208?msession=60315
+#EXTINF:-1,Cine:Canal+ Acción
+http://88.26.116.36:4022/rtp/239.0.3.42:8208?msession=62018
+#EXTINF:-1,Cine:Canal+ Comedia
+http://88.26.116.36:4022/rtp/239.0.3.43:8208?msession=63743
+#EXTINF:-1,Cine:Canal+ DCine
+http://88.26.116.36:4022/rtp/239.0.3.44:8208?msession=63795
+#EXTINF:-1,Cine:DCine Español
+http://88.26.116.36:4022/rtp/239.0.3.45:8208?msession=61783
+#EXTINF:-1,Cine:TCM
+http://88.26.116.36:4022/rtp/239.0.6.5:8208?msession=63181
+#EXTINF:-1,Cine:Hollywood
+http://88.26.116.36:4022/rtp/239.0.0.16:8208?msession=62917
+#EXTINF:-1,Cine:Sundance Channel
+http://88.26.116.36:4022/rtp/239.0.0.102:8208?msession=62259
+#EXTINF:-1,Cine:Paramount Channel
+http://88.26.116.36:4022/rtp/239.0.0.90:8208?msession=60907
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://88.26.116.36:4022/rtp/239.0.7.65:8208?msession=63901
+#EXTINF:-1,Noticias:BBC World
+http://88.26.116.36:4022/rtp/239.0.0.30:8208?msession=62042
+#EXTINF:-1,Noticias:CNN Int
+http://88.26.116.36:4022/rtp/239.0.0.40:8208?msession=60654
+#EXTINF:-1,Noticias:Euronews
+http://88.26.116.36:4022/rtp/239.0.0.28:8208?msession=61795
+#EXTINF:-1,Noticias:Canal 24 horas
+http://88.26.116.36:4022/rtp/239.0.0.78:8208?msession=61929
+#EXTINF:-1,Noticias:Al Jazeera English
+http://88.26.116.36:4022/rtp/239.0.7.66:8208?msession=63156
+#EXTINF:-1,Noticias:France 24 English
+http://88.26.116.36:4022/rtp/239.0.7.67:8208?msession=60980
+#EXTINF:-1,Noticias:Russia Today English
+http://88.26.116.36:4022/rtp/239.0.7.68:8208?msession=63901
+#EXTINF:-1,Noticias:CNBC Europe
+http://88.26.116.36:4022/rtp/239.0.7.69:8208?msession=61921
+#EXTINF:-1,Noticias:CCTV-E
+http://88.26.116.36:4022/rtp/239.0.0.65:8208?msession=63581
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://88.26.116.36:4022/rtp/239.0.0.31:8208?msession=61304
+#EXTINF:-1,Noticias:Bloomberg
+http://88.26.116.36:4022/rtp/239.0.0.29:8208?msession=61777
+#EXTINF:-1,Noticias:I24 News
+http://88.26.116.36:4022/rtp/239.0.0.220:8208?msession=62967
+#EXTINF:-1,Noticias:CNC World
+http://88.26.116.36:4022/rtp/239.0.0.221:8208?msession=61785
+#EXTINF:-1,Noticias:Orbe 21
+http://88.26.116.36:4022/rtp/239.0.0.45:8208?msession=63104
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://88.26.116.36:4022/rtp/239.0.0.113:8208?msession=61213
+#EXTINF:-1,Infantil:Disney Junior
+http://88.26.116.36:4022/rtp/239.0.0.10:8208?msession=63315
+#EXTINF:-1,Infantil:Canal Panda
+http://88.26.116.36:4022/rtp/239.0.0.117:8208?msession=62481
+#EXTINF:-1,Infantil:Nick Jr.
+http://88.26.116.36:4022/rtp/239.0.0.115:8208?msession=61117
+#EXTINF:-1,Infantil:Nickelodeon
+http://88.26.116.36:4022/rtp/239.0.0.69:8208?msession=61191
+#EXTINF:-1,Infantil:Disney XD
+http://88.26.116.36:4022/rtp/239.0.0.11:8208?msession=60535
+#EXTINF:-1,Infantil:Disney Channel
+http://88.26.116.36:4022/rtp/239.0.0.64:8208?msession=62873
+#EXTINF:-1,Infantil:Boing
+http://88.26.116.36:4022/rtp/239.0.0.66:8208?msession=62775
+#EXTINF:-1,Infantil:Clan TVE
+http://88.26.116.36:4022/rtp/239.0.0.80:8208?msession=63558
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://88.26.116.36:4022/rtp/239.0.0.12:8208?msession=60019
+#EXTINF:-1,Musica:Sol Musica
+http://88.26.116.36:4022/rtp/239.0.0.39:8208?msession=61337
+#EXTINF:-1,Musica:VH1
+http://88.26.116.36:4022/rtp/239.0.0.75:8208?msession=62143
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://88.26.116.36:4022/rtp/239.0.0.42:8208?msession=61276
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://88.26.116.36:4022/rtp/239.0.4.129:8208?msession=62954
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://88.26.116.36:4022/rtp/239.0.6.7:8208?msession=63465
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://88.26.116.36:4022/rtp/239.0.6.8:8208?msession=63712
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://88.26.116.36:4022/rtp/239.0.0.119:8208?msession=60803
+#EXTINF:-1,Deportes:Multifútbol 1
+http://88.26.116.36:4022/rtp/239.0.0.124:8208?msession=63579
+#EXTINF:-1,Deportes:Multifútbol 2
+http://88.26.116.36:4022/rtp/239.0.0.123:8208?msession=63140
+#EXTINF:-1,Deportes:Multifútbol 3
+http://88.26.116.36:4022/rtp/239.0.3.3:8208?msession=63840
+#EXTINF:-1,Deportes:Multifútbol 4
+http://88.26.116.36:4022/rtp/239.0.3.4:8208?msession=63301
+#EXTINF:-1,Deportes:Multifútbol 5
+http://88.26.116.36:4022/rtp/239.0.3.5:8208?msession=60493
+#EXTINF:-1,Deportes:Multifútbol 6
+http://88.26.116.36:4022/rtp/239.0.3.6:8208?msession=61095
+#EXTINF:-1,Deportes:Multifútbol 7
+http://88.26.116.36:4022/rtp/239.0.3.7:8208?msession=62871
+#EXTINF:-1,Deportes:Multifútbol 8
+http://88.26.116.36:4022/rtp/239.0.3.2:8208?msession=61743
+#EXTINF:-1,Deportes:Multifútbol 9
+http://88.26.116.36:4022/rtp/239.0.3.9:8208?msession=63686
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://88.26.116.36:4022/rtp/239.0.3.9:8208?msession=60962
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://88.26.116.36:4022/rtp/239.0.0.120:8208?msession=61276
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://88.26.116.36:4022/rtp/239.0.0.121:8208?msession=62896
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://88.26.116.36:4022/rtp/239.0.0.122:8208?msession=63194
+#EXTINF:-1,Deportes:Multideporte 1
+http://88.26.116.36:4022/rtp/239.0.1.145:8208?msession=62993
+#EXTINF:-1,Deportes:Multideporte 2
+http://88.26.116.36:4022/rtp/239.0.1.144:8208?msession=60894
+#EXTINF:-1,Deportes:Multideporte 3
+http://88.26.116.36:4022/rtp/239.0.1.143:8208?msession=63575
+#EXTINF:-1,Deportes:Multideporte 4
+http://88.26.116.36:4022/rtp/239.0.1.142:8208?msession=61714
+#EXTINF:-1,Deportes:Multideporte 5
+http://88.26.116.36:4022/rtp/239.0.1.148:8208?msession=63624
+#EXTINF:-1,Deportes:Multideporte 6
+http://88.26.116.36:4022/rtp/239.0.1.245:8208?msession=62533
+#EXTINF:-1,Deportes:Multideporte 7
+http://88.26.116.36:4022/rtp/239.0.1.146:8208?msession=62681
+#EXTINF:-1,Deportes:Multideporte 8
+http://88.26.116.36:4022/rtp/239.0.1.147:8208?msession=60476
+#EXTINF:-1,Deportes:Multideporte 9
+http://88.26.116.36:4022/rtp/239.0.1.243:8208?msession=62133
+#EXTINF:-1,Deportes:Futbol Replay
+http://88.26.116.36:4022/rtp/239.0.0.97:8208?msession=63984
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://88.26.116.36:4022/rtp/239.0.4.193:8208?msession=61124
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://88.26.116.36:4022/rtp/239.0.5.5:8208?msession=62848
+#EXTINF:-1,Deportes:Movistar F1
+http://88.26.116.36:4022/rtp/239.0.0.210:8208?msession=63584
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://88.26.116.36:4022/rtp/239.0.3.38:8208?msession=63452
+#EXTINF:-1,Deportes:Canal+ Golf
+http://88.26.116.36:4022/rtp/239.0.5.2:8208?msession=61522
+#EXTINF:-1,Deportes:Eurosport
+http://88.26.116.36:4022/rtp/239.0.0.18:8208?msession=60443
+#EXTINF:-1,Deportes:Eurosport 2
+http://88.26.116.36:4022/rtp/239.0.0.37:8208?msession=60804
+#EXTINF:-1,Deportes:Iberalia
+http://88.26.116.36:4022/rtp/239.0.5.6:8208?msession=61093
+#EXTINF:-1,Deportes:Teledeporte
+http://88.26.116.36:4022/rtp/239.0.0.79:8208?msession=60732
+#EXTINF:-1,TDT:La 1
+http://83.56.169.5:4022/rtp/239.0.0.76:8208?msession=62127
+#EXTINF:-1,TDT:La 2
+http://83.56.169.5:4022/rtp/239.0.0.2:8208?msession=61070
+#EXTINF:-1,TDT:Antena 3
+http://83.56.169.5:4022/rtp/239.0.0.3:8208?msession=62853
+#EXTINF:-1,TDT:Cuatro
+http://83.56.169.5:4022/rtp/239.0.0.4:8208?msession=60021
+#EXTINF:-1,TDT:Tele 5
+http://83.56.169.5:4022/rtp/239.0.0.5:8208?msession=61785
+#EXTINF:-1,TDT:La Sexta
+http://83.56.169.5:4022/rtp/239.0.0.58:8208?msession=61465
+#EXTINF:-1,TDT:Canal+
+http://83.56.169.5:4022/rtp/239.0.0.108:8208?msession=63773
+#EXTINF:-1,TDT:FDF
+http://83.56.169.5:4022/rtp/239.0.0.84:8208?msession=62583
+#EXTINF:-1,TDT:Neox
+http://83.56.169.5:4022/rtp/239.0.0.107:8208?msession=60649
+#EXTINF:-1,TDT:MEGA
+http://83.56.169.5:4022/rtp/239.0.3.31:8208?msession=60294
+#EXTINF:-1,TDT:Energy
+http://83.56.169.5:4022/rtp/239.0.0.59:8208?msession=62243
+#EXTINF:-1,TDT:Divinity
+http://83.56.169.5:4022/rtp/239.0.0.48:8208?msession=63022
+#EXTINF:-1,TDT:Nova
+http://83.56.169.5:4022/rtp/239.0.0.106:8208?msession=60133
+#EXTINF:-1,TDT:Discovery MAX
+http://83.56.169.5:4022/rtp/239.0.0.32:8208?msession=60665
+#EXTINF:-1,TDT:Intereconomia TV
+http://83.56.169.5:4022/rtp/239.0.0.63:8208?msession=61802
+#EXTINF:-1,TDT:13 TV
+http://83.56.169.5:4022/rtp/239.0.0.91:8208?msession=62818
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://83.56.169.5:4022/rtp/239.0.0.103:8208?msession=60868
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://83.56.169.5:4022/rtp/239.0.0.89:8208?msession=60221
+#EXTINF:-1,Documentales:Viajar
+http://83.56.169.5:4022/rtp/239.0.0.20:8208?msession=62570
+#EXTINF:-1,Documentales:Discovery Channel
+http://83.56.169.5:4022/rtp/239.0.0.21:8208?msession=61026
+#EXTINF:-1,Documentales:Odisea
+http://83.56.169.5:4022/rtp/239.0.0.22:8208?msession=63477
+#EXTINF:-1,Documentales:Historia
+http://83.56.169.5:4022/rtp/239.0.0.19:8208?msession=61035
+#EXTINF:-1,Documentales:A&E
+http://83.56.169.5:4022/rtp/239.0.0.38:8208?msession=61784
+#EXTINF:-1,Documentales:Garage TV
+http://83.56.169.5:4022/rtp/239.0.0.99:8208?msession=62895
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://83.56.169.5:4022/rtp/239.0.0.57:8208?msession=61524
+#EXTINF:-1,Documentales:Canal Cocina
+http://83.56.169.5:4022/rtp/239.0.0.27:8208?msession=60538
+#EXTINF:-1,Documentales:Canal Decasa
+http://83.56.169.5:4022/rtp/239.0.0.71:8208?msession=61174
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://83.56.169.5:4022/rtp/239.0.5.4:8208?msession=61868
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://83.56.169.5:4022/rtp/239.0.3.20:8208?msession=62413
+#EXTINF:-1,Series:Fox
+http://83.56.169.5:4022/rtp/239.0.0.74:8208?msession=62430
+#EXTINF:-1,Series:AXN
+http://83.56.169.5:4022/rtp/239.0.0.14:8208?msession=61939
+#EXTINF:-1,Series:TNT
+http://83.56.169.5:4022/rtp/239.0.0.44:8208?msession=60511
+#EXTINF:-1,Series:Comedy Central
+http://83.56.169.5:4022/rtp/239.0.0.68:8208?msession=62110
+#EXTINF:-1,Series:Calle 13
+http://83.56.169.5:4022/rtp/239.0.0.13:8208?msession=63103
+#EXTINF:-1,Series:Cosmo
+http://83.56.169.5:4022/rtp/239.0.0.15:8208?msession=63889
+#EXTINF:-1,Series:AMC
+http://83.56.169.5:4022/rtp/239.0.0.8:8208?msession=63503
+#EXTINF:-1,Series:Fox Life
+http://83.56.169.5:4022/rtp/239.0.0.112:8208?msession=62124
+#EXTINF:-1,Series:AXN White
+http://83.56.169.5:4022/rtp/239.0.0.62:8208?msession=62743
+#EXTINF:-1,Series:SyFy
+http://83.56.169.5:4022/rtp/239.0.0.111:8208?msession=60068
+#EXTINF:-1,Series:Non Stop People
+http://83.56.169.5:4022/rtp/239.0.0.212:8208?msession=61214
+#EXTINF:-1,Series:MTV España
+http://83.56.169.5:4022/rtp/239.0.0.211:8208?msession=63257
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://83.56.169.5:4022/rtp/239.0.3.40:8208?msession=61508
+#EXTINF:-1,Cine:Canal+ Xtra
+http://83.56.169.5:4022/rtp/239.0.3.41:8208?msession=60922
+#EXTINF:-1,Cine:Canal+ Acción
+http://83.56.169.5:4022/rtp/239.0.3.42:8208?msession=63668
+#EXTINF:-1,Cine:Canal+ Comedia
+http://83.56.169.5:4022/rtp/239.0.3.43:8208?msession=63961
+#EXTINF:-1,Cine:Canal+ DCine
+http://83.56.169.5:4022/rtp/239.0.3.44:8208?msession=60115
+#EXTINF:-1,Cine:DCine Español
+http://83.56.169.5:4022/rtp/239.0.3.45:8208?msession=62396
+#EXTINF:-1,Cine:TCM
+http://83.56.169.5:4022/rtp/239.0.6.5:8208?msession=62703
+#EXTINF:-1,Cine:Hollywood
+http://83.56.169.5:4022/rtp/239.0.0.16:8208?msession=61337
+#EXTINF:-1,Cine:Sundance Channel
+http://83.56.169.5:4022/rtp/239.0.0.102:8208?msession=63749
+#EXTINF:-1,Cine:Paramount Channel
+http://83.56.169.5:4022/rtp/239.0.0.90:8208?msession=62665
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://83.56.169.5:4022/rtp/239.0.7.65:8208?msession=62323
+#EXTINF:-1,Noticias:BBC World
+http://83.56.169.5:4022/rtp/239.0.0.30:8208?msession=60351
+#EXTINF:-1,Noticias:CNN Int
+http://83.56.169.5:4022/rtp/239.0.0.40:8208?msession=60288
+#EXTINF:-1,Noticias:Euronews
+http://83.56.169.5:4022/rtp/239.0.0.28:8208?msession=61745
+#EXTINF:-1,Noticias:Canal 24 horas
+http://83.56.169.5:4022/rtp/239.0.0.78:8208?msession=62091
+#EXTINF:-1,Noticias:Al Jazeera English
+http://83.56.169.5:4022/rtp/239.0.7.66:8208?msession=61245
+#EXTINF:-1,Noticias:France 24 English
+http://83.56.169.5:4022/rtp/239.0.7.67:8208?msession=60672
+#EXTINF:-1,Noticias:Russia Today English
+http://83.56.169.5:4022/rtp/239.0.7.68:8208?msession=61053
+#EXTINF:-1,Noticias:CNBC Europe
+http://83.56.169.5:4022/rtp/239.0.7.69:8208?msession=60020
+#EXTINF:-1,Noticias:CCTV-E
+http://83.56.169.5:4022/rtp/239.0.0.65:8208?msession=62623
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://83.56.169.5:4022/rtp/239.0.0.31:8208?msession=61074
+#EXTINF:-1,Noticias:Bloomberg
+http://83.56.169.5:4022/rtp/239.0.0.29:8208?msession=62646
+#EXTINF:-1,Noticias:I24 News
+http://83.56.169.5:4022/rtp/239.0.0.220:8208?msession=60827
+#EXTINF:-1,Noticias:CNC World
+http://83.56.169.5:4022/rtp/239.0.0.221:8208?msession=60611
+#EXTINF:-1,Noticias:Orbe 21
+http://83.56.169.5:4022/rtp/239.0.0.45:8208?msession=60377
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://83.56.169.5:4022/rtp/239.0.0.113:8208?msession=61953
+#EXTINF:-1,Infantil:Disney Junior
+http://83.56.169.5:4022/rtp/239.0.0.10:8208?msession=60686
+#EXTINF:-1,Infantil:Canal Panda
+http://83.56.169.5:4022/rtp/239.0.0.117:8208?msession=60890
+#EXTINF:-1,Infantil:Nick Jr.
+http://83.56.169.5:4022/rtp/239.0.0.115:8208?msession=62365
+#EXTINF:-1,Infantil:Nickelodeon
+http://83.56.169.5:4022/rtp/239.0.0.69:8208?msession=60537
+#EXTINF:-1,Infantil:Disney XD
+http://83.56.169.5:4022/rtp/239.0.0.11:8208?msession=63343
+#EXTINF:-1,Infantil:Disney Channel
+http://83.56.169.5:4022/rtp/239.0.0.64:8208?msession=63826
+#EXTINF:-1,Infantil:Boing
+http://83.56.169.5:4022/rtp/239.0.0.66:8208?msession=61040
+#EXTINF:-1,Infantil:Clan TVE
+http://83.56.169.5:4022/rtp/239.0.0.80:8208?msession=62086
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://83.56.169.5:4022/rtp/239.0.0.12:8208?msession=62043
+#EXTINF:-1,Musica:Sol Musica
+http://83.56.169.5:4022/rtp/239.0.0.39:8208?msession=60999
+#EXTINF:-1,Musica:VH1
+http://83.56.169.5:4022/rtp/239.0.0.75:8208?msession=61162
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://83.56.169.5:4022/rtp/239.0.0.42:8208?msession=61982
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://83.56.169.5:4022/rtp/239.0.4.129:8208?msession=63955
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://83.56.169.5:4022/rtp/239.0.6.7:8208?msession=61137
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://83.56.169.5:4022/rtp/239.0.6.8:8208?msession=61297
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://83.56.169.5:4022/rtp/239.0.0.119:8208?msession=62888
+#EXTINF:-1,Deportes:Multifútbol 1
+http://83.56.169.5:4022/rtp/239.0.0.124:8208?msession=63929
+#EXTINF:-1,Deportes:Multifútbol 2
+http://83.56.169.5:4022/rtp/239.0.0.123:8208?msession=62882
+#EXTINF:-1,Deportes:Multifútbol 3
+http://83.56.169.5:4022/rtp/239.0.3.3:8208?msession=60855
+#EXTINF:-1,Deportes:Multifútbol 4
+http://83.56.169.5:4022/rtp/239.0.3.4:8208?msession=60980
+#EXTINF:-1,Deportes:Multifútbol 5
+http://83.56.169.5:4022/rtp/239.0.3.5:8208?msession=61658
+#EXTINF:-1,Deportes:Multifútbol 6
+http://83.56.169.5:4022/rtp/239.0.3.6:8208?msession=61090
+#EXTINF:-1,Deportes:Multifútbol 7
+http://83.56.169.5:4022/rtp/239.0.3.7:8208?msession=61691
+#EXTINF:-1,Deportes:Multifútbol 8
+http://83.56.169.5:4022/rtp/239.0.3.2:8208?msession=61199
+#EXTINF:-1,Deportes:Multifútbol 9
+http://83.56.169.5:4022/rtp/239.0.3.9:8208?msession=63357
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://83.56.169.5:4022/rtp/239.0.3.9:8208?msession=61338
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://83.56.169.5:4022/rtp/239.0.0.120:8208?msession=60678
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://83.56.169.5:4022/rtp/239.0.0.121:8208?msession=60182
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://83.56.169.5:4022/rtp/239.0.0.122:8208?msession=63396
+#EXTINF:-1,Deportes:Multideporte 1
+http://83.56.169.5:4022/rtp/239.0.1.145:8208?msession=60202
+#EXTINF:-1,Deportes:Multideporte 2
+http://83.56.169.5:4022/rtp/239.0.1.144:8208?msession=60356
+#EXTINF:-1,Deportes:Multideporte 3
+http://83.56.169.5:4022/rtp/239.0.1.143:8208?msession=62212
+#EXTINF:-1,Deportes:Multideporte 4
+http://83.56.169.5:4022/rtp/239.0.1.142:8208?msession=63880
+#EXTINF:-1,Deportes:Multideporte 5
+http://83.56.169.5:4022/rtp/239.0.1.148:8208?msession=63660
+#EXTINF:-1,Deportes:Multideporte 6
+http://83.56.169.5:4022/rtp/239.0.1.245:8208?msession=61235
+#EXTINF:-1,Deportes:Multideporte 7
+http://83.56.169.5:4022/rtp/239.0.1.146:8208?msession=61152
+#EXTINF:-1,Deportes:Multideporte 8
+http://83.56.169.5:4022/rtp/239.0.1.147:8208?msession=60840
+#EXTINF:-1,Deportes:Multideporte 9
+http://83.56.169.5:4022/rtp/239.0.1.243:8208?msession=63455
+#EXTINF:-1,Deportes:Futbol Replay
+http://83.56.169.5:4022/rtp/239.0.0.97:8208?msession=61114
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://83.56.169.5:4022/rtp/239.0.4.193:8208?msession=62702
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://83.56.169.5:4022/rtp/239.0.5.5:8208?msession=63597
+#EXTINF:-1,Deportes:Movistar F1
+http://83.56.169.5:4022/rtp/239.0.0.210:8208?msession=62517
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://83.56.169.5:4022/rtp/239.0.3.38:8208?msession=61928
+#EXTINF:-1,Deportes:Canal+ Golf
+http://83.56.169.5:4022/rtp/239.0.5.2:8208?msession=61090
+#EXTINF:-1,Deportes:Eurosport
+http://83.56.169.5:4022/rtp/239.0.0.18:8208?msession=61488
+#EXTINF:-1,Deportes:Eurosport 2
+http://83.56.169.5:4022/rtp/239.0.0.37:8208?msession=62641
+#EXTINF:-1,Deportes:Iberalia
+http://83.56.169.5:4022/rtp/239.0.5.6:8208?msession=61586
+#EXTINF:-1,Deportes:Teledeporte
+http://83.56.169.5:4022/rtp/239.0.0.79:8208?msession=62366
+#EXTINF:-1,TDT:La 1
+http://83.61.182.203:4022/rtp/239.0.0.76:8208?msession=62300
+#EXTINF:-1,TDT:La 2
+http://83.61.182.203:4022/rtp/239.0.0.2:8208?msession=63066
+#EXTINF:-1,TDT:Antena 3
+http://83.61.182.203:4022/rtp/239.0.0.3:8208?msession=63529
+#EXTINF:-1,TDT:Cuatro
+http://83.61.182.203:4022/rtp/239.0.0.4:8208?msession=61132
+#EXTINF:-1,TDT:Tele 5
+http://83.61.182.203:4022/rtp/239.0.0.5:8208?msession=62496
+#EXTINF:-1,TDT:La Sexta
+http://83.61.182.203:4022/rtp/239.0.0.58:8208?msession=60128
+#EXTINF:-1,TDT:Canal+
+http://83.61.182.203:4022/rtp/239.0.0.108:8208?msession=63385
+#EXTINF:-1,TDT:FDF
+http://83.61.182.203:4022/rtp/239.0.0.84:8208?msession=63580
+#EXTINF:-1,TDT:Neox
+http://83.61.182.203:4022/rtp/239.0.0.107:8208?msession=62564
+#EXTINF:-1,TDT:MEGA
+http://83.61.182.203:4022/rtp/239.0.3.31:8208?msession=60411
+#EXTINF:-1,TDT:Energy
+http://83.61.182.203:4022/rtp/239.0.0.59:8208?msession=60844
+#EXTINF:-1,TDT:Divinity
+http://83.61.182.203:4022/rtp/239.0.0.48:8208?msession=60767
+#EXTINF:-1,TDT:Nova
+http://83.61.182.203:4022/rtp/239.0.0.106:8208?msession=63139
+#EXTINF:-1,TDT:Discovery MAX
+http://83.61.182.203:4022/rtp/239.0.0.32:8208?msession=63642
+#EXTINF:-1,TDT:Intereconomia TV
+http://83.61.182.203:4022/rtp/239.0.0.63:8208?msession=62324
+#EXTINF:-1,TDT:13 TV
+http://83.61.182.203:4022/rtp/239.0.0.91:8208?msession=60070
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://83.61.182.203:4022/rtp/239.0.0.103:8208?msession=61570
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://83.61.182.203:4022/rtp/239.0.0.89:8208?msession=61781
+#EXTINF:-1,Documentales:Viajar
+http://83.61.182.203:4022/rtp/239.0.0.20:8208?msession=62519
+#EXTINF:-1,Documentales:Discovery Channel
+http://83.61.182.203:4022/rtp/239.0.0.21:8208?msession=63617
+#EXTINF:-1,Documentales:Odisea
+http://83.61.182.203:4022/rtp/239.0.0.22:8208?msession=62033
+#EXTINF:-1,Documentales:Historia
+http://83.61.182.203:4022/rtp/239.0.0.19:8208?msession=62454
+#EXTINF:-1,Documentales:A&E
+http://83.61.182.203:4022/rtp/239.0.0.38:8208?msession=61681
+#EXTINF:-1,Documentales:Garage TV
+http://83.61.182.203:4022/rtp/239.0.0.99:8208?msession=63466
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://83.61.182.203:4022/rtp/239.0.0.57:8208?msession=60687
+#EXTINF:-1,Documentales:Canal Cocina
+http://83.61.182.203:4022/rtp/239.0.0.27:8208?msession=60261
+#EXTINF:-1,Documentales:Canal Decasa
+http://83.61.182.203:4022/rtp/239.0.0.71:8208?msession=60940
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://83.61.182.203:4022/rtp/239.0.5.4:8208?msession=62386
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://83.61.182.203:4022/rtp/239.0.3.20:8208?msession=61031
+#EXTINF:-1,Series:Fox
+http://83.61.182.203:4022/rtp/239.0.0.74:8208?msession=62495
+#EXTINF:-1,Series:AXN
+http://83.61.182.203:4022/rtp/239.0.0.14:8208?msession=61004
+#EXTINF:-1,Series:TNT
+http://83.61.182.203:4022/rtp/239.0.0.44:8208?msession=61825
+#EXTINF:-1,Series:Comedy Central
+http://83.61.182.203:4022/rtp/239.0.0.68:8208?msession=62177
+#EXTINF:-1,Series:Calle 13
+http://83.61.182.203:4022/rtp/239.0.0.13:8208?msession=60947
+#EXTINF:-1,Series:Cosmo
+http://83.61.182.203:4022/rtp/239.0.0.15:8208?msession=62182
+#EXTINF:-1,Series:AMC
+http://83.61.182.203:4022/rtp/239.0.0.8:8208?msession=63054
+#EXTINF:-1,Series:Fox Life
+http://83.61.182.203:4022/rtp/239.0.0.112:8208?msession=61010
+#EXTINF:-1,Series:AXN White
+http://83.61.182.203:4022/rtp/239.0.0.62:8208?msession=61735
+#EXTINF:-1,Series:SyFy
+http://83.61.182.203:4022/rtp/239.0.0.111:8208?msession=61841
+#EXTINF:-1,Series:Non Stop People
+http://83.61.182.203:4022/rtp/239.0.0.212:8208?msession=62183
+#EXTINF:-1,Series:MTV España
+http://83.61.182.203:4022/rtp/239.0.0.211:8208?msession=63279
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://83.61.182.203:4022/rtp/239.0.3.40:8208?msession=62366
+#EXTINF:-1,Cine:Canal+ Xtra
+http://83.61.182.203:4022/rtp/239.0.3.41:8208?msession=60486
+#EXTINF:-1,Cine:Canal+ Acción
+http://83.61.182.203:4022/rtp/239.0.3.42:8208?msession=61434
+#EXTINF:-1,Cine:Canal+ Comedia
+http://83.61.182.203:4022/rtp/239.0.3.43:8208?msession=63499
+#EXTINF:-1,Cine:Canal+ DCine
+http://83.61.182.203:4022/rtp/239.0.3.44:8208?msession=61224
+#EXTINF:-1,Cine:DCine Español
+http://83.61.182.203:4022/rtp/239.0.3.45:8208?msession=61295
+#EXTINF:-1,Cine:TCM
+http://83.61.182.203:4022/rtp/239.0.6.5:8208?msession=61408
+#EXTINF:-1,Cine:Hollywood
+http://83.61.182.203:4022/rtp/239.0.0.16:8208?msession=61650
+#EXTINF:-1,Cine:Sundance Channel
+http://83.61.182.203:4022/rtp/239.0.0.102:8208?msession=63850
+#EXTINF:-1,Cine:Paramount Channel
+http://83.61.182.203:4022/rtp/239.0.0.90:8208?msession=60190
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://83.61.182.203:4022/rtp/239.0.7.65:8208?msession=61031
+#EXTINF:-1,Noticias:BBC World
+http://83.61.182.203:4022/rtp/239.0.0.30:8208?msession=61634
+#EXTINF:-1,Noticias:CNN Int
+http://83.61.182.203:4022/rtp/239.0.0.40:8208?msession=62057
+#EXTINF:-1,Noticias:Euronews
+http://83.61.182.203:4022/rtp/239.0.0.28:8208?msession=60089
+#EXTINF:-1,Noticias:Canal 24 horas
+http://83.61.182.203:4022/rtp/239.0.0.78:8208?msession=63269
+#EXTINF:-1,Noticias:Al Jazeera English
+http://83.61.182.203:4022/rtp/239.0.7.66:8208?msession=62096
+#EXTINF:-1,Noticias:France 24 English
+http://83.61.182.203:4022/rtp/239.0.7.67:8208?msession=63623
+#EXTINF:-1,Noticias:Russia Today English
+http://83.61.182.203:4022/rtp/239.0.7.68:8208?msession=61050
+#EXTINF:-1,Noticias:CNBC Europe
+http://83.61.182.203:4022/rtp/239.0.7.69:8208?msession=60821
+#EXTINF:-1,Noticias:CCTV-E
+http://83.61.182.203:4022/rtp/239.0.0.65:8208?msession=63443
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://83.61.182.203:4022/rtp/239.0.0.31:8208?msession=61185
+#EXTINF:-1,Noticias:Bloomberg
+http://83.61.182.203:4022/rtp/239.0.0.29:8208?msession=60685
+#EXTINF:-1,Noticias:I24 News
+http://83.61.182.203:4022/rtp/239.0.0.220:8208?msession=60323
+#EXTINF:-1,Noticias:CNC World
+http://83.61.182.203:4022/rtp/239.0.0.221:8208?msession=62128
+#EXTINF:-1,Noticias:Orbe 21
+http://83.61.182.203:4022/rtp/239.0.0.45:8208?msession=62628
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://83.61.182.203:4022/rtp/239.0.0.113:8208?msession=61756
+#EXTINF:-1,Infantil:Disney Junior
+http://83.61.182.203:4022/rtp/239.0.0.10:8208?msession=60681
+#EXTINF:-1,Infantil:Canal Panda
+http://83.61.182.203:4022/rtp/239.0.0.117:8208?msession=60607
+#EXTINF:-1,Infantil:Nick Jr.
+http://83.61.182.203:4022/rtp/239.0.0.115:8208?msession=62421
+#EXTINF:-1,Infantil:Nickelodeon
+http://83.61.182.203:4022/rtp/239.0.0.69:8208?msession=60653
+#EXTINF:-1,Infantil:Disney XD
+http://83.61.182.203:4022/rtp/239.0.0.11:8208?msession=60298
+#EXTINF:-1,Infantil:Disney Channel
+http://83.61.182.203:4022/rtp/239.0.0.64:8208?msession=62890
+#EXTINF:-1,Infantil:Boing
+http://83.61.182.203:4022/rtp/239.0.0.66:8208?msession=60049
+#EXTINF:-1,Infantil:Clan TVE
+http://83.61.182.203:4022/rtp/239.0.0.80:8208?msession=63349
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://83.61.182.203:4022/rtp/239.0.0.12:8208?msession=60910
+#EXTINF:-1,Musica:Sol Musica
+http://83.61.182.203:4022/rtp/239.0.0.39:8208?msession=61143
+#EXTINF:-1,Musica:VH1
+http://83.61.182.203:4022/rtp/239.0.0.75:8208?msession=61803
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://83.61.182.203:4022/rtp/239.0.0.42:8208?msession=63875
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://83.61.182.203:4022/rtp/239.0.4.129:8208?msession=60721
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://83.61.182.203:4022/rtp/239.0.6.7:8208?msession=61219
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://83.61.182.203:4022/rtp/239.0.6.8:8208?msession=60477
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://83.61.182.203:4022/rtp/239.0.0.119:8208?msession=62181
+#EXTINF:-1,Deportes:Multifútbol 1
+http://83.61.182.203:4022/rtp/239.0.0.124:8208?msession=62231
+#EXTINF:-1,Deportes:Multifútbol 2
+http://83.61.182.203:4022/rtp/239.0.0.123:8208?msession=60191
+#EXTINF:-1,Deportes:Multifútbol 3
+http://83.61.182.203:4022/rtp/239.0.3.3:8208?msession=63913
+#EXTINF:-1,Deportes:Multifútbol 4
+http://83.61.182.203:4022/rtp/239.0.3.4:8208?msession=61737
+#EXTINF:-1,Deportes:Multifútbol 5
+http://83.61.182.203:4022/rtp/239.0.3.5:8208?msession=61136
+#EXTINF:-1,Deportes:Multifútbol 6
+http://83.61.182.203:4022/rtp/239.0.3.6:8208?msession=60805
+#EXTINF:-1,Deportes:Multifútbol 7
+http://83.61.182.203:4022/rtp/239.0.3.7:8208?msession=63939
+#EXTINF:-1,Deportes:Multifútbol 8
+http://83.61.182.203:4022/rtp/239.0.3.2:8208?msession=63870
+#EXTINF:-1,Deportes:Multifútbol 9
+http://83.61.182.203:4022/rtp/239.0.3.9:8208?msession=61350
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://83.61.182.203:4022/rtp/239.0.3.9:8208?msession=61224
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://83.61.182.203:4022/rtp/239.0.0.120:8208?msession=60701
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://83.61.182.203:4022/rtp/239.0.0.121:8208?msession=60839
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://83.61.182.203:4022/rtp/239.0.0.122:8208?msession=61526
+#EXTINF:-1,Deportes:Multideporte 1
+http://83.61.182.203:4022/rtp/239.0.1.145:8208?msession=63850
+#EXTINF:-1,Deportes:Multideporte 2
+http://83.61.182.203:4022/rtp/239.0.1.144:8208?msession=62255
+#EXTINF:-1,Deportes:Multideporte 3
+http://83.61.182.203:4022/rtp/239.0.1.143:8208?msession=61938
+#EXTINF:-1,Deportes:Multideporte 4
+http://83.61.182.203:4022/rtp/239.0.1.142:8208?msession=60884
+#EXTINF:-1,Deportes:Multideporte 5
+http://83.61.182.203:4022/rtp/239.0.1.148:8208?msession=62653
+#EXTINF:-1,Deportes:Multideporte 6
+http://83.61.182.203:4022/rtp/239.0.1.245:8208?msession=63141
+#EXTINF:-1,Deportes:Multideporte 7
+http://83.61.182.203:4022/rtp/239.0.1.146:8208?msession=62246
+#EXTINF:-1,Deportes:Multideporte 8
+http://83.61.182.203:4022/rtp/239.0.1.147:8208?msession=63120
+#EXTINF:-1,Deportes:Multideporte 9
+http://83.61.182.203:4022/rtp/239.0.1.243:8208?msession=61214
+#EXTINF:-1,Deportes:Futbol Replay
+http://83.61.182.203:4022/rtp/239.0.0.97:8208?msession=61082
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://83.61.182.203:4022/rtp/239.0.4.193:8208?msession=63612
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://83.61.182.203:4022/rtp/239.0.5.5:8208?msession=63852
+#EXTINF:-1,Deportes:Movistar F1
+http://83.61.182.203:4022/rtp/239.0.0.210:8208?msession=61764
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://83.61.182.203:4022/rtp/239.0.3.38:8208?msession=60070
+#EXTINF:-1,Deportes:Canal+ Golf
+http://83.61.182.203:4022/rtp/239.0.5.2:8208?msession=62427
+#EXTINF:-1,Deportes:Eurosport
+http://83.61.182.203:4022/rtp/239.0.0.18:8208?msession=61740
+#EXTINF:-1,Deportes:Eurosport 2
+http://83.61.182.203:4022/rtp/239.0.0.37:8208?msession=62427
+#EXTINF:-1,Deportes:Iberalia
+http://83.61.182.203:4022/rtp/239.0.5.6:8208?msession=60072
+#EXTINF:-1,Deportes:Teledeporte
+http://83.61.182.203:4022/rtp/239.0.0.79:8208?msession=63318
+#EXTINF:-1,TDT:La 1
+http://83.56.169.5:4022/rtp/239.0.0.76:8208?msession=60767
+#EXTINF:-1,TDT:La 2
+http://83.56.169.5:4022/rtp/239.0.0.2:8208?msession=61178
+#EXTINF:-1,TDT:Antena 3
+http://83.56.169.5:4022/rtp/239.0.0.3:8208?msession=60621
+#EXTINF:-1,TDT:Cuatro
+http://83.56.169.5:4022/rtp/239.0.0.4:8208?msession=60745
+#EXTINF:-1,TDT:Tele 5
+http://83.56.169.5:4022/rtp/239.0.0.5:8208?msession=60020
+#EXTINF:-1,TDT:La Sexta
+http://83.56.169.5:4022/rtp/239.0.0.58:8208?msession=63112
+#EXTINF:-1,TDT:Canal+
+http://83.56.169.5:4022/rtp/239.0.0.108:8208?msession=62229
+#EXTINF:-1,TDT:FDF
+http://83.56.169.5:4022/rtp/239.0.0.84:8208?msession=60377
+#EXTINF:-1,TDT:Neox
+http://83.56.169.5:4022/rtp/239.0.0.107:8208?msession=61070
+#EXTINF:-1,TDT:MEGA
+http://83.56.169.5:4022/rtp/239.0.3.31:8208?msession=63770
+#EXTINF:-1,TDT:Energy
+http://83.56.169.5:4022/rtp/239.0.0.59:8208?msession=62624
+#EXTINF:-1,TDT:Divinity
+http://83.56.169.5:4022/rtp/239.0.0.48:8208?msession=62198
+#EXTINF:-1,TDT:Nova
+http://83.56.169.5:4022/rtp/239.0.0.106:8208?msession=61083
+#EXTINF:-1,TDT:Discovery MAX
+http://83.56.169.5:4022/rtp/239.0.0.32:8208?msession=63936
+#EXTINF:-1,TDT:Intereconomia TV
+http://83.56.169.5:4022/rtp/239.0.0.63:8208?msession=62303
+#EXTINF:-1,TDT:13 TV
+http://83.56.169.5:4022/rtp/239.0.0.91:8208?msession=63890
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://83.56.169.5:4022/rtp/239.0.0.103:8208?msession=63535
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://83.56.169.5:4022/rtp/239.0.0.89:8208?msession=60407
+#EXTINF:-1,Documentales:Viajar
+http://83.56.169.5:4022/rtp/239.0.0.20:8208?msession=63936
+#EXTINF:-1,Documentales:Discovery Channel
+http://83.56.169.5:4022/rtp/239.0.0.21:8208?msession=61993
+#EXTINF:-1,Documentales:Odisea
+http://83.56.169.5:4022/rtp/239.0.0.22:8208?msession=60448
+#EXTINF:-1,Documentales:Historia
+http://83.56.169.5:4022/rtp/239.0.0.19:8208?msession=61239
+#EXTINF:-1,Documentales:A&E
+http://83.56.169.5:4022/rtp/239.0.0.38:8208?msession=63287
+#EXTINF:-1,Documentales:Garage TV
+http://83.56.169.5:4022/rtp/239.0.0.99:8208?msession=60222
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://83.56.169.5:4022/rtp/239.0.0.57:8208?msession=61165
+#EXTINF:-1,Documentales:Canal Cocina
+http://83.56.169.5:4022/rtp/239.0.0.27:8208?msession=61630
+#EXTINF:-1,Documentales:Canal Decasa
+http://83.56.169.5:4022/rtp/239.0.0.71:8208?msession=62042
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://83.56.169.5:4022/rtp/239.0.5.4:8208?msession=63762
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://83.56.169.5:4022/rtp/239.0.3.20:8208?msession=60971
+#EXTINF:-1,Series:Fox
+http://83.56.169.5:4022/rtp/239.0.0.74:8208?msession=61619
+#EXTINF:-1,Series:AXN
+http://83.56.169.5:4022/rtp/239.0.0.14:8208?msession=61082
+#EXTINF:-1,Series:TNT
+http://83.56.169.5:4022/rtp/239.0.0.44:8208?msession=63208
+#EXTINF:-1,Series:Comedy Central
+http://83.56.169.5:4022/rtp/239.0.0.68:8208?msession=63168
+#EXTINF:-1,Series:Calle 13
+http://83.56.169.5:4022/rtp/239.0.0.13:8208?msession=61050
+#EXTINF:-1,Series:Cosmo
+http://83.56.169.5:4022/rtp/239.0.0.15:8208?msession=62611
+#EXTINF:-1,Series:AMC
+http://83.56.169.5:4022/rtp/239.0.0.8:8208?msession=60824
+#EXTINF:-1,Series:Fox Life
+http://83.56.169.5:4022/rtp/239.0.0.112:8208?msession=62792
+#EXTINF:-1,Series:AXN White
+http://83.56.169.5:4022/rtp/239.0.0.62:8208?msession=60784
+#EXTINF:-1,Series:SyFy
+http://83.56.169.5:4022/rtp/239.0.0.111:8208?msession=60364
+#EXTINF:-1,Series:Non Stop People
+http://83.56.169.5:4022/rtp/239.0.0.212:8208?msession=63254
+#EXTINF:-1,Series:MTV España
+http://83.56.169.5:4022/rtp/239.0.0.211:8208?msession=60159
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://83.56.169.5:4022/rtp/239.0.3.40:8208?msession=63984
+#EXTINF:-1,Cine:Canal+ Xtra
+http://83.56.169.5:4022/rtp/239.0.3.41:8208?msession=60877
+#EXTINF:-1,Cine:Canal+ Acción
+http://83.56.169.5:4022/rtp/239.0.3.42:8208?msession=62920
+#EXTINF:-1,Cine:Canal+ Comedia
+http://83.56.169.5:4022/rtp/239.0.3.43:8208?msession=62464
+#EXTINF:-1,Cine:Canal+ DCine
+http://83.56.169.5:4022/rtp/239.0.3.44:8208?msession=61220
+#EXTINF:-1,Cine:DCine Español
+http://83.56.169.5:4022/rtp/239.0.3.45:8208?msession=60571
+#EXTINF:-1,Cine:TCM
+http://83.56.169.5:4022/rtp/239.0.6.5:8208?msession=62446
+#EXTINF:-1,Cine:Hollywood
+http://83.56.169.5:4022/rtp/239.0.0.16:8208?msession=63583
+#EXTINF:-1,Cine:Sundance Channel
+http://83.56.169.5:4022/rtp/239.0.0.102:8208?msession=61932
+#EXTINF:-1,Cine:Paramount Channel
+http://83.56.169.5:4022/rtp/239.0.0.90:8208?msession=62850
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://83.56.169.5:4022/rtp/239.0.7.65:8208?msession=62043
+#EXTINF:-1,Noticias:BBC World
+http://83.56.169.5:4022/rtp/239.0.0.30:8208?msession=62012
+#EXTINF:-1,Noticias:CNN Int
+http://83.56.169.5:4022/rtp/239.0.0.40:8208?msession=61009
+#EXTINF:-1,Noticias:Euronews
+http://83.56.169.5:4022/rtp/239.0.0.28:8208?msession=62477
+#EXTINF:-1,Noticias:Canal 24 horas
+http://83.56.169.5:4022/rtp/239.0.0.78:8208?msession=61012
+#EXTINF:-1,Noticias:Al Jazeera English
+http://83.56.169.5:4022/rtp/239.0.7.66:8208?msession=60249
+#EXTINF:-1,Noticias:France 24 English
+http://83.56.169.5:4022/rtp/239.0.7.67:8208?msession=61407
+#EXTINF:-1,Noticias:Russia Today English
+http://83.56.169.5:4022/rtp/239.0.7.68:8208?msession=63454
+#EXTINF:-1,Noticias:CNBC Europe
+http://83.56.169.5:4022/rtp/239.0.7.69:8208?msession=62549
+#EXTINF:-1,Noticias:CCTV-E
+http://83.56.169.5:4022/rtp/239.0.0.65:8208?msession=61385
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://83.56.169.5:4022/rtp/239.0.0.31:8208?msession=63166
+#EXTINF:-1,Noticias:Bloomberg
+http://83.56.169.5:4022/rtp/239.0.0.29:8208?msession=63061
+#EXTINF:-1,Noticias:I24 News
+http://83.56.169.5:4022/rtp/239.0.0.220:8208?msession=63285
+#EXTINF:-1,Noticias:CNC World
+http://83.56.169.5:4022/rtp/239.0.0.221:8208?msession=60241
+#EXTINF:-1,Noticias:Orbe 21
+http://83.56.169.5:4022/rtp/239.0.0.45:8208?msession=63794
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://83.56.169.5:4022/rtp/239.0.0.113:8208?msession=61053
+#EXTINF:-1,Infantil:Disney Junior
+http://83.56.169.5:4022/rtp/239.0.0.10:8208?msession=63765
+#EXTINF:-1,Infantil:Canal Panda
+http://83.56.169.5:4022/rtp/239.0.0.117:8208?msession=62638
+#EXTINF:-1,Infantil:Nick Jr.
+http://83.56.169.5:4022/rtp/239.0.0.115:8208?msession=62885
+#EXTINF:-1,Infantil:Nickelodeon
+http://83.56.169.5:4022/rtp/239.0.0.69:8208?msession=60709
+#EXTINF:-1,Infantil:Disney XD
+http://83.56.169.5:4022/rtp/239.0.0.11:8208?msession=61600
+#EXTINF:-1,Infantil:Disney Channel
+http://83.56.169.5:4022/rtp/239.0.0.64:8208?msession=62918
+#EXTINF:-1,Infantil:Boing
+http://83.56.169.5:4022/rtp/239.0.0.66:8208?msession=60188
+#EXTINF:-1,Infantil:Clan TVE
+http://83.56.169.5:4022/rtp/239.0.0.80:8208?msession=61143
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://83.56.169.5:4022/rtp/239.0.0.12:8208?msession=62114
+#EXTINF:-1,Musica:Sol Musica
+http://83.56.169.5:4022/rtp/239.0.0.39:8208?msession=62522
+#EXTINF:-1,Musica:VH1
+http://83.56.169.5:4022/rtp/239.0.0.75:8208?msession=63334
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://83.56.169.5:4022/rtp/239.0.0.42:8208?msession=61455
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://83.56.169.5:4022/rtp/239.0.4.129:8208?msession=60250
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://83.56.169.5:4022/rtp/239.0.6.7:8208?msession=63211
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://83.56.169.5:4022/rtp/239.0.6.8:8208?msession=62941
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://83.56.169.5:4022/rtp/239.0.0.119:8208?msession=63104
+#EXTINF:-1,Deportes:Multifútbol 1
+http://83.56.169.5:4022/rtp/239.0.0.124:8208?msession=63292
+#EXTINF:-1,Deportes:Multifútbol 2
+http://83.56.169.5:4022/rtp/239.0.0.123:8208?msession=62029
+#EXTINF:-1,Deportes:Multifútbol 3
+http://83.56.169.5:4022/rtp/239.0.3.3:8208?msession=63994
+#EXTINF:-1,Deportes:Multifútbol 4
+http://83.56.169.5:4022/rtp/239.0.3.4:8208?msession=63098
+#EXTINF:-1,Deportes:Multifútbol 5
+http://83.56.169.5:4022/rtp/239.0.3.5:8208?msession=60346
+#EXTINF:-1,Deportes:Multifútbol 6
+http://83.56.169.5:4022/rtp/239.0.3.6:8208?msession=63070
+#EXTINF:-1,Deportes:Multifútbol 7
+http://83.56.169.5:4022/rtp/239.0.3.7:8208?msession=63126
+#EXTINF:-1,Deportes:Multifútbol 8
+http://83.56.169.5:4022/rtp/239.0.3.2:8208?msession=61997
+#EXTINF:-1,Deportes:Multifútbol 9
+http://83.56.169.5:4022/rtp/239.0.3.9:8208?msession=61859
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://83.56.169.5:4022/rtp/239.0.3.9:8208?msession=63314
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://83.56.169.5:4022/rtp/239.0.0.120:8208?msession=60958
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://83.56.169.5:4022/rtp/239.0.0.121:8208?msession=62331
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://83.56.169.5:4022/rtp/239.0.0.122:8208?msession=60486
+#EXTINF:-1,Deportes:Multideporte 1
+http://83.56.169.5:4022/rtp/239.0.1.145:8208?msession=60832
+#EXTINF:-1,Deportes:Multideporte 2
+http://83.56.169.5:4022/rtp/239.0.1.144:8208?msession=60252
+#EXTINF:-1,Deportes:Multideporte 3
+http://83.56.169.5:4022/rtp/239.0.1.143:8208?msession=62882
+#EXTINF:-1,Deportes:Multideporte 4
+http://83.56.169.5:4022/rtp/239.0.1.142:8208?msession=63746
+#EXTINF:-1,Deportes:Multideporte 5
+http://83.56.169.5:4022/rtp/239.0.1.148:8208?msession=62968
+#EXTINF:-1,Deportes:Multideporte 6
+http://83.56.169.5:4022/rtp/239.0.1.245:8208?msession=60626
+#EXTINF:-1,Deportes:Multideporte 7
+http://83.56.169.5:4022/rtp/239.0.1.146:8208?msession=62324
+#EXTINF:-1,Deportes:Multideporte 8
+http://83.56.169.5:4022/rtp/239.0.1.147:8208?msession=62586
+#EXTINF:-1,Deportes:Multideporte 9
+http://83.56.169.5:4022/rtp/239.0.1.243:8208?msession=63544
+#EXTINF:-1,Deportes:Futbol Replay
+http://83.56.169.5:4022/rtp/239.0.0.97:8208?msession=62638
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://83.56.169.5:4022/rtp/239.0.4.193:8208?msession=61367
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://83.56.169.5:4022/rtp/239.0.5.5:8208?msession=63929
+#EXTINF:-1,Deportes:Movistar F1
+http://83.56.169.5:4022/rtp/239.0.0.210:8208?msession=60303
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://83.56.169.5:4022/rtp/239.0.3.38:8208?msession=62818
+#EXTINF:-1,Deportes:Canal+ Golf
+http://83.56.169.5:4022/rtp/239.0.5.2:8208?msession=61961
+#EXTINF:-1,Deportes:Eurosport
+http://83.56.169.5:4022/rtp/239.0.0.18:8208?msession=61230
+#EXTINF:-1,Deportes:Eurosport 2
+http://83.56.169.5:4022/rtp/239.0.0.37:8208?msession=60903
+#EXTINF:-1,Deportes:Iberalia
+http://83.56.169.5:4022/rtp/239.0.5.6:8208?msession=60432
+#EXTINF:-1,Deportes:Teledeporte
+http://83.56.169.5:4022/rtp/239.0.0.79:8208?msession=62693
+#EXTINF:-1,TDT:La 1
+http://83.61.182.203:4022/rtp/239.0.0.76:8208?msession=60834
+#EXTINF:-1,TDT:La 2
+http://83.61.182.203:4022/rtp/239.0.0.2:8208?msession=62819
+#EXTINF:-1,TDT:Antena 3
+http://83.61.182.203:4022/rtp/239.0.0.3:8208?msession=63682
+#EXTINF:-1,TDT:Cuatro
+http://83.61.182.203:4022/rtp/239.0.0.4:8208?msession=62462
+#EXTINF:-1,TDT:Tele 5
+http://83.61.182.203:4022/rtp/239.0.0.5:8208?msession=60372
+#EXTINF:-1,TDT:La Sexta
+http://83.61.182.203:4022/rtp/239.0.0.58:8208?msession=61665
+#EXTINF:-1,TDT:Canal+
+http://83.61.182.203:4022/rtp/239.0.0.108:8208?msession=60101
+#EXTINF:-1,TDT:FDF
+http://83.61.182.203:4022/rtp/239.0.0.84:8208?msession=63097
+#EXTINF:-1,TDT:Neox
+http://83.61.182.203:4022/rtp/239.0.0.107:8208?msession=62212
+#EXTINF:-1,TDT:MEGA
+http://83.61.182.203:4022/rtp/239.0.3.31:8208?msession=63767
+#EXTINF:-1,TDT:Energy
+http://83.61.182.203:4022/rtp/239.0.0.59:8208?msession=62408
+#EXTINF:-1,TDT:Divinity
+http://83.61.182.203:4022/rtp/239.0.0.48:8208?msession=63766
+#EXTINF:-1,TDT:Nova
+http://83.61.182.203:4022/rtp/239.0.0.106:8208?msession=61485
+#EXTINF:-1,TDT:Discovery MAX
+http://83.61.182.203:4022/rtp/239.0.0.32:8208?msession=62431
+#EXTINF:-1,TDT:Intereconomia TV
+http://83.61.182.203:4022/rtp/239.0.0.63:8208?msession=61482
+#EXTINF:-1,TDT:13 TV
+http://83.61.182.203:4022/rtp/239.0.0.91:8208?msession=61000
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://83.61.182.203:4022/rtp/239.0.0.103:8208?msession=63288
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://83.61.182.203:4022/rtp/239.0.0.89:8208?msession=61313
+#EXTINF:-1,Documentales:Viajar
+http://83.61.182.203:4022/rtp/239.0.0.20:8208?msession=63420
+#EXTINF:-1,Documentales:Discovery Channel
+http://83.61.182.203:4022/rtp/239.0.0.21:8208?msession=63911
+#EXTINF:-1,Documentales:Odisea
+http://83.61.182.203:4022/rtp/239.0.0.22:8208?msession=62604
+#EXTINF:-1,Documentales:Historia
+http://83.61.182.203:4022/rtp/239.0.0.19:8208?msession=60292
+#EXTINF:-1,Documentales:A&E
+http://83.61.182.203:4022/rtp/239.0.0.38:8208?msession=60467
+#EXTINF:-1,Documentales:Garage TV
+http://83.61.182.203:4022/rtp/239.0.0.99:8208?msession=62033
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://83.61.182.203:4022/rtp/239.0.0.57:8208?msession=63397
+#EXTINF:-1,Documentales:Canal Cocina
+http://83.61.182.203:4022/rtp/239.0.0.27:8208?msession=60987
+#EXTINF:-1,Documentales:Canal Decasa
+http://83.61.182.203:4022/rtp/239.0.0.71:8208?msession=62750
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://83.61.182.203:4022/rtp/239.0.5.4:8208?msession=62495
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://83.61.182.203:4022/rtp/239.0.3.20:8208?msession=62098
+#EXTINF:-1,Series:Fox
+http://83.61.182.203:4022/rtp/239.0.0.74:8208?msession=61987
+#EXTINF:-1,Series:AXN
+http://83.61.182.203:4022/rtp/239.0.0.14:8208?msession=63889
+#EXTINF:-1,Series:TNT
+http://83.61.182.203:4022/rtp/239.0.0.44:8208?msession=63528
+#EXTINF:-1,Series:Comedy Central
+http://83.61.182.203:4022/rtp/239.0.0.68:8208?msession=61558
+#EXTINF:-1,Series:Calle 13
+http://83.61.182.203:4022/rtp/239.0.0.13:8208?msession=61471
+#EXTINF:-1,Series:Cosmo
+http://83.61.182.203:4022/rtp/239.0.0.15:8208?msession=63340
+#EXTINF:-1,Series:AMC
+http://83.61.182.203:4022/rtp/239.0.0.8:8208?msession=61033
+#EXTINF:-1,Series:Fox Life
+http://83.61.182.203:4022/rtp/239.0.0.112:8208?msession=60320
+#EXTINF:-1,Series:AXN White
+http://83.61.182.203:4022/rtp/239.0.0.62:8208?msession=62796
+#EXTINF:-1,Series:SyFy
+http://83.61.182.203:4022/rtp/239.0.0.111:8208?msession=60896
+#EXTINF:-1,Series:Non Stop People
+http://83.61.182.203:4022/rtp/239.0.0.212:8208?msession=60868
+#EXTINF:-1,Series:MTV España
+http://83.61.182.203:4022/rtp/239.0.0.211:8208?msession=61558
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://83.61.182.203:4022/rtp/239.0.3.40:8208?msession=61746
+#EXTINF:-1,Cine:Canal+ Xtra
+http://83.61.182.203:4022/rtp/239.0.3.41:8208?msession=61125
+#EXTINF:-1,Cine:Canal+ Acción
+http://83.61.182.203:4022/rtp/239.0.3.42:8208?msession=63372
+#EXTINF:-1,Cine:Canal+ Comedia
+http://83.61.182.203:4022/rtp/239.0.3.43:8208?msession=61382
+#EXTINF:-1,Cine:Canal+ DCine
+http://83.61.182.203:4022/rtp/239.0.3.44:8208?msession=60331
+#EXTINF:-1,Cine:DCine Español
+http://83.61.182.203:4022/rtp/239.0.3.45:8208?msession=63710
+#EXTINF:-1,Cine:TCM
+http://83.61.182.203:4022/rtp/239.0.6.5:8208?msession=63771
+#EXTINF:-1,Cine:Hollywood
+http://83.61.182.203:4022/rtp/239.0.0.16:8208?msession=61931
+#EXTINF:-1,Cine:Sundance Channel
+http://83.61.182.203:4022/rtp/239.0.0.102:8208?msession=62317
+#EXTINF:-1,Cine:Paramount Channel
+http://83.61.182.203:4022/rtp/239.0.0.90:8208?msession=61964
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://83.61.182.203:4022/rtp/239.0.7.65:8208?msession=63200
+#EXTINF:-1,Noticias:BBC World
+http://83.61.182.203:4022/rtp/239.0.0.30:8208?msession=61461
+#EXTINF:-1,Noticias:CNN Int
+http://83.61.182.203:4022/rtp/239.0.0.40:8208?msession=62052
+#EXTINF:-1,Noticias:Euronews
+http://83.61.182.203:4022/rtp/239.0.0.28:8208?msession=62776
+#EXTINF:-1,Noticias:Canal 24 horas
+http://83.61.182.203:4022/rtp/239.0.0.78:8208?msession=61850
+#EXTINF:-1,Noticias:Al Jazeera English
+http://83.61.182.203:4022/rtp/239.0.7.66:8208?msession=61652
+#EXTINF:-1,Noticias:France 24 English
+http://83.61.182.203:4022/rtp/239.0.7.67:8208?msession=62674
+#EXTINF:-1,Noticias:Russia Today English
+http://83.61.182.203:4022/rtp/239.0.7.68:8208?msession=63460
+#EXTINF:-1,Noticias:CNBC Europe
+http://83.61.182.203:4022/rtp/239.0.7.69:8208?msession=63465
+#EXTINF:-1,Noticias:CCTV-E
+http://83.61.182.203:4022/rtp/239.0.0.65:8208?msession=63903
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://83.61.182.203:4022/rtp/239.0.0.31:8208?msession=61165
+#EXTINF:-1,Noticias:Bloomberg
+http://83.61.182.203:4022/rtp/239.0.0.29:8208?msession=62403
+#EXTINF:-1,Noticias:I24 News
+http://83.61.182.203:4022/rtp/239.0.0.220:8208?msession=63672
+#EXTINF:-1,Noticias:CNC World
+http://83.61.182.203:4022/rtp/239.0.0.221:8208?msession=63918
+#EXTINF:-1,Noticias:Orbe 21
+http://83.61.182.203:4022/rtp/239.0.0.45:8208?msession=62008
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://83.61.182.203:4022/rtp/239.0.0.113:8208?msession=60845
+#EXTINF:-1,Infantil:Disney Junior
+http://83.61.182.203:4022/rtp/239.0.0.10:8208?msession=61286
+#EXTINF:-1,Infantil:Canal Panda
+http://83.61.182.203:4022/rtp/239.0.0.117:8208?msession=61472
+#EXTINF:-1,Infantil:Nick Jr.
+http://83.61.182.203:4022/rtp/239.0.0.115:8208?msession=63523
+#EXTINF:-1,Infantil:Nickelodeon
+http://83.61.182.203:4022/rtp/239.0.0.69:8208?msession=60357
+#EXTINF:-1,Infantil:Disney XD
+http://83.61.182.203:4022/rtp/239.0.0.11:8208?msession=62159
+#EXTINF:-1,Infantil:Disney Channel
+http://83.61.182.203:4022/rtp/239.0.0.64:8208?msession=61201
+#EXTINF:-1,Infantil:Boing
+http://83.61.182.203:4022/rtp/239.0.0.66:8208?msession=62986
+#EXTINF:-1,Infantil:Clan TVE
+http://83.61.182.203:4022/rtp/239.0.0.80:8208?msession=60858
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://83.61.182.203:4022/rtp/239.0.0.12:8208?msession=63629
+#EXTINF:-1,Musica:Sol Musica
+http://83.61.182.203:4022/rtp/239.0.0.39:8208?msession=61016
+#EXTINF:-1,Musica:VH1
+http://83.61.182.203:4022/rtp/239.0.0.75:8208?msession=60770
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://83.61.182.203:4022/rtp/239.0.0.42:8208?msession=62678
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://83.61.182.203:4022/rtp/239.0.4.129:8208?msession=63541
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://83.61.182.203:4022/rtp/239.0.6.7:8208?msession=62834
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://83.61.182.203:4022/rtp/239.0.6.8:8208?msession=62171
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://83.61.182.203:4022/rtp/239.0.0.119:8208?msession=61988
+#EXTINF:-1,Deportes:Multifútbol 1
+http://83.61.182.203:4022/rtp/239.0.0.124:8208?msession=60974
+#EXTINF:-1,Deportes:Multifútbol 2
+http://83.61.182.203:4022/rtp/239.0.0.123:8208?msession=63308
+#EXTINF:-1,Deportes:Multifútbol 3
+http://83.61.182.203:4022/rtp/239.0.3.3:8208?msession=62271
+#EXTINF:-1,Deportes:Multifútbol 4
+http://83.61.182.203:4022/rtp/239.0.3.4:8208?msession=60758
+#EXTINF:-1,Deportes:Multifútbol 5
+http://83.61.182.203:4022/rtp/239.0.3.5:8208?msession=62198
+#EXTINF:-1,Deportes:Multifútbol 6
+http://83.61.182.203:4022/rtp/239.0.3.6:8208?msession=61896
+#EXTINF:-1,Deportes:Multifútbol 7
+http://83.61.182.203:4022/rtp/239.0.3.7:8208?msession=61080
+#EXTINF:-1,Deportes:Multifútbol 8
+http://83.61.182.203:4022/rtp/239.0.3.2:8208?msession=62679
+#EXTINF:-1,Deportes:Multifútbol 9
+http://83.61.182.203:4022/rtp/239.0.3.9:8208?msession=61760
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://83.61.182.203:4022/rtp/239.0.3.9:8208?msession=60438
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://83.61.182.203:4022/rtp/239.0.0.120:8208?msession=63083
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://83.61.182.203:4022/rtp/239.0.0.121:8208?msession=60513
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://83.61.182.203:4022/rtp/239.0.0.122:8208?msession=60423
+#EXTINF:-1,Deportes:Multideporte 1
+http://83.61.182.203:4022/rtp/239.0.1.145:8208?msession=62574
+#EXTINF:-1,Deportes:Multideporte 2
+http://83.61.182.203:4022/rtp/239.0.1.144:8208?msession=63775
+#EXTINF:-1,Deportes:Multideporte 3
+http://83.61.182.203:4022/rtp/239.0.1.143:8208?msession=63385
+#EXTINF:-1,Deportes:Multideporte 4
+http://83.61.182.203:4022/rtp/239.0.1.142:8208?msession=60329
+#EXTINF:-1,Deportes:Multideporte 5
+http://83.61.182.203:4022/rtp/239.0.1.148:8208?msession=61381
+#EXTINF:-1,Deportes:Multideporte 6
+http://83.61.182.203:4022/rtp/239.0.1.245:8208?msession=61268
+#EXTINF:-1,Deportes:Multideporte 7
+http://83.61.182.203:4022/rtp/239.0.1.146:8208?msession=61096
+#EXTINF:-1,Deportes:Multideporte 8
+http://83.61.182.203:4022/rtp/239.0.1.147:8208?msession=60156
+#EXTINF:-1,Deportes:Multideporte 9
+http://83.61.182.203:4022/rtp/239.0.1.243:8208?msession=62657
+#EXTINF:-1,Deportes:Futbol Replay
+http://83.61.182.203:4022/rtp/239.0.0.97:8208?msession=60131
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://83.61.182.203:4022/rtp/239.0.4.193:8208?msession=61978
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://83.61.182.203:4022/rtp/239.0.5.5:8208?msession=62724
+#EXTINF:-1,Deportes:Movistar F1
+http://83.61.182.203:4022/rtp/239.0.0.210:8208?msession=62756
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://83.61.182.203:4022/rtp/239.0.3.38:8208?msession=60172
+#EXTINF:-1,Deportes:Canal+ Golf
+http://83.61.182.203:4022/rtp/239.0.5.2:8208?msession=61399
+#EXTINF:-1,Deportes:Eurosport
+http://83.61.182.203:4022/rtp/239.0.0.18:8208?msession=63079
+#EXTINF:-1,Deportes:Eurosport 2
+http://83.61.182.203:4022/rtp/239.0.0.37:8208?msession=61491
+#EXTINF:-1,Deportes:Iberalia
+http://83.61.182.203:4022/rtp/239.0.5.6:8208?msession=63195
+#EXTINF:-1,Deportes:Teledeporte
+http://83.61.182.203:4022/rtp/239.0.0.79:8208?msession=60430
+#EXTINF:-1,TDT:La 1
+http://83.56.169.5:4022/rtp/239.0.0.76:8208?msession=63769
+#EXTINF:-1,TDT:La 2
+http://83.56.169.5:4022/rtp/239.0.0.2:8208?msession=62777
+#EXTINF:-1,TDT:Antena 3
+http://83.56.169.5:4022/rtp/239.0.0.3:8208?msession=60307
+#EXTINF:-1,TDT:Cuatro
+http://83.56.169.5:4022/rtp/239.0.0.4:8208?msession=63352
+#EXTINF:-1,TDT:Tele 5
+http://83.56.169.5:4022/rtp/239.0.0.5:8208?msession=61984
+#EXTINF:-1,TDT:La Sexta
+http://83.56.169.5:4022/rtp/239.0.0.58:8208?msession=63312
+#EXTINF:-1,TDT:Canal+
+http://83.56.169.5:4022/rtp/239.0.0.108:8208?msession=63884
+#EXTINF:-1,TDT:FDF
+http://83.56.169.5:4022/rtp/239.0.0.84:8208?msession=60565
+#EXTINF:-1,TDT:Neox
+http://83.56.169.5:4022/rtp/239.0.0.107:8208?msession=63990
+#EXTINF:-1,TDT:MEGA
+http://83.56.169.5:4022/rtp/239.0.3.31:8208?msession=63640
+#EXTINF:-1,TDT:Energy
+http://83.56.169.5:4022/rtp/239.0.0.59:8208?msession=61205
+#EXTINF:-1,TDT:Divinity
+http://83.56.169.5:4022/rtp/239.0.0.48:8208?msession=63748
+#EXTINF:-1,TDT:Nova
+http://83.56.169.5:4022/rtp/239.0.0.106:8208?msession=61964
+#EXTINF:-1,TDT:Discovery MAX
+http://83.56.169.5:4022/rtp/239.0.0.32:8208?msession=61338
+#EXTINF:-1,TDT:Intereconomia TV
+http://83.56.169.5:4022/rtp/239.0.0.63:8208?msession=62099
+#EXTINF:-1,TDT:13 TV
+http://83.56.169.5:4022/rtp/239.0.0.91:8208?msession=63515
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://83.56.169.5:4022/rtp/239.0.0.103:8208?msession=62784
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://83.56.169.5:4022/rtp/239.0.0.89:8208?msession=62604
+#EXTINF:-1,Documentales:Viajar
+http://83.56.169.5:4022/rtp/239.0.0.20:8208?msession=60944
+#EXTINF:-1,Documentales:Discovery Channel
+http://83.56.169.5:4022/rtp/239.0.0.21:8208?msession=63352
+#EXTINF:-1,Documentales:Odisea
+http://83.56.169.5:4022/rtp/239.0.0.22:8208?msession=60932
+#EXTINF:-1,Documentales:Historia
+http://83.56.169.5:4022/rtp/239.0.0.19:8208?msession=60040
+#EXTINF:-1,Documentales:A&E
+http://83.56.169.5:4022/rtp/239.0.0.38:8208?msession=60724
+#EXTINF:-1,Documentales:Garage TV
+http://83.56.169.5:4022/rtp/239.0.0.99:8208?msession=63463
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://83.56.169.5:4022/rtp/239.0.0.57:8208?msession=60677
+#EXTINF:-1,Documentales:Canal Cocina
+http://83.56.169.5:4022/rtp/239.0.0.27:8208?msession=60058
+#EXTINF:-1,Documentales:Canal Decasa
+http://83.56.169.5:4022/rtp/239.0.0.71:8208?msession=60296
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://83.56.169.5:4022/rtp/239.0.5.4:8208?msession=62847
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://83.56.169.5:4022/rtp/239.0.3.20:8208?msession=62403
+#EXTINF:-1,Series:Fox
+http://83.56.169.5:4022/rtp/239.0.0.74:8208?msession=60141
+#EXTINF:-1,Series:AXN
+http://83.56.169.5:4022/rtp/239.0.0.14:8208?msession=63939
+#EXTINF:-1,Series:TNT
+http://83.56.169.5:4022/rtp/239.0.0.44:8208?msession=60838
+#EXTINF:-1,Series:Comedy Central
+http://83.56.169.5:4022/rtp/239.0.0.68:8208?msession=60259
+#EXTINF:-1,Series:Calle 13
+http://83.56.169.5:4022/rtp/239.0.0.13:8208?msession=62788
+#EXTINF:-1,Series:Cosmo
+http://83.56.169.5:4022/rtp/239.0.0.15:8208?msession=61706
+#EXTINF:-1,Series:AMC
+http://83.56.169.5:4022/rtp/239.0.0.8:8208?msession=60900
+#EXTINF:-1,Series:Fox Life
+http://83.56.169.5:4022/rtp/239.0.0.112:8208?msession=63172
+#EXTINF:-1,Series:AXN White
+http://83.56.169.5:4022/rtp/239.0.0.62:8208?msession=62064
+#EXTINF:-1,Series:SyFy
+http://83.56.169.5:4022/rtp/239.0.0.111:8208?msession=62889
+#EXTINF:-1,Series:Non Stop People
+http://83.56.169.5:4022/rtp/239.0.0.212:8208?msession=62679
+#EXTINF:-1,Series:MTV España
+http://83.56.169.5:4022/rtp/239.0.0.211:8208?msession=60257
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://83.56.169.5:4022/rtp/239.0.3.40:8208?msession=63741
+#EXTINF:-1,Cine:Canal+ Xtra
+http://83.56.169.5:4022/rtp/239.0.3.41:8208?msession=60823
+#EXTINF:-1,Cine:Canal+ Acción
+http://83.56.169.5:4022/rtp/239.0.3.42:8208?msession=61072
+#EXTINF:-1,Cine:Canal+ Comedia
+http://83.56.169.5:4022/rtp/239.0.3.43:8208?msession=60472
+#EXTINF:-1,Cine:Canal+ DCine
+http://83.56.169.5:4022/rtp/239.0.3.44:8208?msession=61991
+#EXTINF:-1,Cine:DCine Español
+http://83.56.169.5:4022/rtp/239.0.3.45:8208?msession=61715
+#EXTINF:-1,Cine:TCM
+http://83.56.169.5:4022/rtp/239.0.6.5:8208?msession=63845
+#EXTINF:-1,Cine:Hollywood
+http://83.56.169.5:4022/rtp/239.0.0.16:8208?msession=63068
+#EXTINF:-1,Cine:Sundance Channel
+http://83.56.169.5:4022/rtp/239.0.0.102:8208?msession=60596
+#EXTINF:-1,Cine:Paramount Channel
+http://83.56.169.5:4022/rtp/239.0.0.90:8208?msession=63295
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://83.56.169.5:4022/rtp/239.0.7.65:8208?msession=60258
+#EXTINF:-1,Noticias:BBC World
+http://83.56.169.5:4022/rtp/239.0.0.30:8208?msession=62024
+#EXTINF:-1,Noticias:CNN Int
+http://83.56.169.5:4022/rtp/239.0.0.40:8208?msession=60069
+#EXTINF:-1,Noticias:Euronews
+http://83.56.169.5:4022/rtp/239.0.0.28:8208?msession=60263
+#EXTINF:-1,Noticias:Canal 24 horas
+http://83.56.169.5:4022/rtp/239.0.0.78:8208?msession=62957
+#EXTINF:-1,Noticias:Al Jazeera English
+http://83.56.169.5:4022/rtp/239.0.7.66:8208?msession=63445
+#EXTINF:-1,Noticias:France 24 English
+http://83.56.169.5:4022/rtp/239.0.7.67:8208?msession=62818
+#EXTINF:-1,Noticias:Russia Today English
+http://83.56.169.5:4022/rtp/239.0.7.68:8208?msession=62957
+#EXTINF:-1,Noticias:CNBC Europe
+http://83.56.169.5:4022/rtp/239.0.7.69:8208?msession=62056
+#EXTINF:-1,Noticias:CCTV-E
+http://83.56.169.5:4022/rtp/239.0.0.65:8208?msession=62976
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://83.56.169.5:4022/rtp/239.0.0.31:8208?msession=62096
+#EXTINF:-1,Noticias:Bloomberg
+http://83.56.169.5:4022/rtp/239.0.0.29:8208?msession=63132
+#EXTINF:-1,Noticias:I24 News
+http://83.56.169.5:4022/rtp/239.0.0.220:8208?msession=63942
+#EXTINF:-1,Noticias:CNC World
+http://83.56.169.5:4022/rtp/239.0.0.221:8208?msession=61670
+#EXTINF:-1,Noticias:Orbe 21
+http://83.56.169.5:4022/rtp/239.0.0.45:8208?msession=62428
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://83.56.169.5:4022/rtp/239.0.0.113:8208?msession=62267
+#EXTINF:-1,Infantil:Disney Junior
+http://83.56.169.5:4022/rtp/239.0.0.10:8208?msession=61645
+#EXTINF:-1,Infantil:Canal Panda
+http://83.56.169.5:4022/rtp/239.0.0.117:8208?msession=61940
+#EXTINF:-1,Infantil:Nick Jr.
+http://83.56.169.5:4022/rtp/239.0.0.115:8208?msession=63618
+#EXTINF:-1,Infantil:Nickelodeon
+http://83.56.169.5:4022/rtp/239.0.0.69:8208?msession=60632
+#EXTINF:-1,Infantil:Disney XD
+http://83.56.169.5:4022/rtp/239.0.0.11:8208?msession=61301
+#EXTINF:-1,Infantil:Disney Channel
+http://83.56.169.5:4022/rtp/239.0.0.64:8208?msession=63244
+#EXTINF:-1,Infantil:Boing
+http://83.56.169.5:4022/rtp/239.0.0.66:8208?msession=60259
+#EXTINF:-1,Infantil:Clan TVE
+http://83.56.169.5:4022/rtp/239.0.0.80:8208?msession=61257
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://83.56.169.5:4022/rtp/239.0.0.12:8208?msession=62816
+#EXTINF:-1,Musica:Sol Musica
+http://83.56.169.5:4022/rtp/239.0.0.39:8208?msession=60931
+#EXTINF:-1,Musica:VH1
+http://83.56.169.5:4022/rtp/239.0.0.75:8208?msession=62046
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://83.56.169.5:4022/rtp/239.0.0.42:8208?msession=60197
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://83.56.169.5:4022/rtp/239.0.4.129:8208?msession=60176
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://83.56.169.5:4022/rtp/239.0.6.7:8208?msession=60344
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://83.56.169.5:4022/rtp/239.0.6.8:8208?msession=61432
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://83.56.169.5:4022/rtp/239.0.0.119:8208?msession=61021
+#EXTINF:-1,Deportes:Multifútbol 1
+http://83.56.169.5:4022/rtp/239.0.0.124:8208?msession=61280
+#EXTINF:-1,Deportes:Multifútbol 2
+http://83.56.169.5:4022/rtp/239.0.0.123:8208?msession=63477
+#EXTINF:-1,Deportes:Multifútbol 3
+http://83.56.169.5:4022/rtp/239.0.3.3:8208?msession=60506
+#EXTINF:-1,Deportes:Multifútbol 4
+http://83.56.169.5:4022/rtp/239.0.3.4:8208?msession=60683
+#EXTINF:-1,Deportes:Multifútbol 5
+http://83.56.169.5:4022/rtp/239.0.3.5:8208?msession=62682
+#EXTINF:-1,Deportes:Multifútbol 6
+http://83.56.169.5:4022/rtp/239.0.3.6:8208?msession=61643
+#EXTINF:-1,Deportes:Multifútbol 7
+http://83.56.169.5:4022/rtp/239.0.3.7:8208?msession=61446
+#EXTINF:-1,Deportes:Multifútbol 8
+http://83.56.169.5:4022/rtp/239.0.3.2:8208?msession=63855
+#EXTINF:-1,Deportes:Multifútbol 9
+http://83.56.169.5:4022/rtp/239.0.3.9:8208?msession=62925
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://83.56.169.5:4022/rtp/239.0.3.9:8208?msession=63123
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://83.56.169.5:4022/rtp/239.0.0.120:8208?msession=63964
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://83.56.169.5:4022/rtp/239.0.0.121:8208?msession=63123
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://83.56.169.5:4022/rtp/239.0.0.122:8208?msession=61355
+#EXTINF:-1,Deportes:Multideporte 1
+http://83.56.169.5:4022/rtp/239.0.1.145:8208?msession=60386
+#EXTINF:-1,Deportes:Multideporte 2
+http://83.56.169.5:4022/rtp/239.0.1.144:8208?msession=63927
+#EXTINF:-1,Deportes:Multideporte 3
+http://83.56.169.5:4022/rtp/239.0.1.143:8208?msession=63657
+#EXTINF:-1,Deportes:Multideporte 4
+http://83.56.169.5:4022/rtp/239.0.1.142:8208?msession=62081
+#EXTINF:-1,Deportes:Multideporte 5
+http://83.56.169.5:4022/rtp/239.0.1.148:8208?msession=60676
+#EXTINF:-1,Deportes:Multideporte 6
+http://83.56.169.5:4022/rtp/239.0.1.245:8208?msession=63976
+#EXTINF:-1,Deportes:Multideporte 7
+http://83.56.169.5:4022/rtp/239.0.1.146:8208?msession=60628
+#EXTINF:-1,Deportes:Multideporte 8
+http://83.56.169.5:4022/rtp/239.0.1.147:8208?msession=63030
+#EXTINF:-1,Deportes:Multideporte 9
+http://83.56.169.5:4022/rtp/239.0.1.243:8208?msession=60821
+#EXTINF:-1,Deportes:Futbol Replay
+http://83.56.169.5:4022/rtp/239.0.0.97:8208?msession=62374
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://83.56.169.5:4022/rtp/239.0.4.193:8208?msession=62458
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://83.56.169.5:4022/rtp/239.0.5.5:8208?msession=61450
+#EXTINF:-1,Deportes:Movistar F1
+http://83.56.169.5:4022/rtp/239.0.0.210:8208?msession=62125
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://83.56.169.5:4022/rtp/239.0.3.38:8208?msession=60357
+#EXTINF:-1,Deportes:Canal+ Golf
+http://83.56.169.5:4022/rtp/239.0.5.2:8208?msession=62729
+#EXTINF:-1,Deportes:Eurosport
+http://83.56.169.5:4022/rtp/239.0.0.18:8208?msession=60035
+#EXTINF:-1,Deportes:Eurosport 2
+http://83.56.169.5:4022/rtp/239.0.0.37:8208?msession=62187
+#EXTINF:-1,Deportes:Iberalia
+http://83.56.169.5:4022/rtp/239.0.5.6:8208?msession=60761
+#EXTINF:-1,Deportes:Teledeporte
+http://83.56.169.5:4022/rtp/239.0.0.79:8208?msession=60721
+#EXTINF:-1,TDT:La 1
+http://81.37.207.54:4022/rtp/239.0.0.76:8208?msession=62887
+#EXTINF:-1,TDT:La 2
+http://81.37.207.54:4022/rtp/239.0.0.2:8208?msession=60306
+#EXTINF:-1,TDT:Antena 3
+http://81.37.207.54:4022/rtp/239.0.0.3:8208?msession=62732
+#EXTINF:-1,TDT:Cuatro
+http://81.37.207.54:4022/rtp/239.0.0.4:8208?msession=62572
+#EXTINF:-1,TDT:Tele 5
+http://81.37.207.54:4022/rtp/239.0.0.5:8208?msession=60753
+#EXTINF:-1,TDT:La Sexta
+http://81.37.207.54:4022/rtp/239.0.0.58:8208?msession=60597
+#EXTINF:-1,TDT:Canal+
+http://81.37.207.54:4022/rtp/239.0.0.108:8208?msession=61933
+#EXTINF:-1,TDT:FDF
+http://81.37.207.54:4022/rtp/239.0.0.84:8208?msession=62142
+#EXTINF:-1,TDT:Neox
+http://81.37.207.54:4022/rtp/239.0.0.107:8208?msession=60680
+#EXTINF:-1,TDT:MEGA
+http://81.37.207.54:4022/rtp/239.0.3.31:8208?msession=63897
+#EXTINF:-1,TDT:Energy
+http://81.37.207.54:4022/rtp/239.0.0.59:8208?msession=62010
+#EXTINF:-1,TDT:Divinity
+http://81.37.207.54:4022/rtp/239.0.0.48:8208?msession=60312
+#EXTINF:-1,TDT:Nova
+http://81.37.207.54:4022/rtp/239.0.0.106:8208?msession=60000
+#EXTINF:-1,TDT:Discovery MAX
+http://81.37.207.54:4022/rtp/239.0.0.32:8208?msession=62040
+#EXTINF:-1,TDT:Intereconomia TV
+http://81.37.207.54:4022/rtp/239.0.0.63:8208?msession=63675
+#EXTINF:-1,TDT:13 TV
+http://81.37.207.54:4022/rtp/239.0.0.91:8208?msession=62663
+#EXTINF:-1,Documentales:[COLOR green]Movistar+: Documentales[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Documentales:National Geographic
+http://81.37.207.54:4022/rtp/239.0.0.103:8208?msession=61535
+#EXTINF:-1,Documentales:Nat Geo Wild
+http://81.37.207.54:4022/rtp/239.0.0.89:8208?msession=63240
+#EXTINF:-1,Documentales:Viajar
+http://81.37.207.54:4022/rtp/239.0.0.20:8208?msession=60882
+#EXTINF:-1,Documentales:Discovery Channel
+http://81.37.207.54:4022/rtp/239.0.0.21:8208?msession=61398
+#EXTINF:-1,Documentales:Odisea
+http://81.37.207.54:4022/rtp/239.0.0.22:8208?msession=60489
+#EXTINF:-1,Documentales:Historia
+http://81.37.207.54:4022/rtp/239.0.0.19:8208?msession=63417
+#EXTINF:-1,Documentales:A&E
+http://81.37.207.54:4022/rtp/239.0.0.38:8208?msession=62100
+#EXTINF:-1,Documentales:Garage TV
+http://81.37.207.54:4022/rtp/239.0.0.99:8208?msession=61256
+#EXTINF:-1,Documentales:Crimen & Investigacion
+http://81.37.207.54:4022/rtp/239.0.0.57:8208?msession=63059
+#EXTINF:-1,Documentales:Canal Cocina
+http://81.37.207.54:4022/rtp/239.0.0.27:8208?msession=60971
+#EXTINF:-1,Documentales:Canal Decasa
+http://81.37.207.54:4022/rtp/239.0.0.71:8208?msession=60481
+#EXTINF:-1,Series:[COLOR green]Movistar+: Series[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Series:Canal+ Series
+http://81.37.207.54:4022/rtp/239.0.5.4:8208?msession=60354
+#EXTINF:-1,Series:Canal+ Series Xtra
+http://81.37.207.54:4022/rtp/239.0.3.20:8208?msession=63817
+#EXTINF:-1,Series:Fox
+http://81.37.207.54:4022/rtp/239.0.0.74:8208?msession=60940
+#EXTINF:-1,Series:AXN
+http://81.37.207.54:4022/rtp/239.0.0.14:8208?msession=62998
+#EXTINF:-1,Series:TNT
+http://81.37.207.54:4022/rtp/239.0.0.44:8208?msession=60368
+#EXTINF:-1,Series:Comedy Central
+http://81.37.207.54:4022/rtp/239.0.0.68:8208?msession=60626
+#EXTINF:-1,Series:Calle 13
+http://81.37.207.54:4022/rtp/239.0.0.13:8208?msession=63325
+#EXTINF:-1,Series:Cosmo
+http://81.37.207.54:4022/rtp/239.0.0.15:8208?msession=62602
+#EXTINF:-1,Series:AMC
+http://81.37.207.54:4022/rtp/239.0.0.8:8208?msession=62267
+#EXTINF:-1,Series:Fox Life
+http://81.37.207.54:4022/rtp/239.0.0.112:8208?msession=61750
+#EXTINF:-1,Series:AXN White
+http://81.37.207.54:4022/rtp/239.0.0.62:8208?msession=60974
+#EXTINF:-1,Series:SyFy
+http://81.37.207.54:4022/rtp/239.0.0.111:8208?msession=63349
+#EXTINF:-1,Series:Non Stop People
+http://81.37.207.54:4022/rtp/239.0.0.212:8208?msession=63801
+#EXTINF:-1,Series:MTV España
+http://81.37.207.54:4022/rtp/239.0.0.211:8208?msession=61809
+#EXTINF:-1,Cine:[COLOR green]Movistar+: Cine[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Cine:Canal+ Estrenos
+http://81.37.207.54:4022/rtp/239.0.3.40:8208?msession=62491
+#EXTINF:-1,Cine:Canal+ Xtra
+http://81.37.207.54:4022/rtp/239.0.3.41:8208?msession=62592
+#EXTINF:-1,Cine:Canal+ Acción
+http://81.37.207.54:4022/rtp/239.0.3.42:8208?msession=61152
+#EXTINF:-1,Cine:Canal+ Comedia
+http://81.37.207.54:4022/rtp/239.0.3.43:8208?msession=62346
+#EXTINF:-1,Cine:Canal+ DCine
+http://81.37.207.54:4022/rtp/239.0.3.44:8208?msession=62448
+#EXTINF:-1,Cine:DCine Español
+http://81.37.207.54:4022/rtp/239.0.3.45:8208?msession=63313
+#EXTINF:-1,Cine:TCM
+http://81.37.207.54:4022/rtp/239.0.6.5:8208?msession=60133
+#EXTINF:-1,Cine:Hollywood
+http://81.37.207.54:4022/rtp/239.0.0.16:8208?msession=60880
+#EXTINF:-1,Cine:Sundance Channel
+http://81.37.207.54:4022/rtp/239.0.0.102:8208?msession=61558
+#EXTINF:-1,Cine:Paramount Channel
+http://81.37.207.54:4022/rtp/239.0.0.90:8208?msession=63024
+#EXTINF:-1,Noticias:[COLOR green]Movistar+: Noticias[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Noticias:Fox News
+http://81.37.207.54:4022/rtp/239.0.7.65:8208?msession=60867
+#EXTINF:-1,Noticias:BBC World
+http://81.37.207.54:4022/rtp/239.0.0.30:8208?msession=63009
+#EXTINF:-1,Noticias:CNN Int
+http://81.37.207.54:4022/rtp/239.0.0.40:8208?msession=63309
+#EXTINF:-1,Noticias:Euronews
+http://81.37.207.54:4022/rtp/239.0.0.28:8208?msession=60763
+#EXTINF:-1,Noticias:Canal 24 horas
+http://81.37.207.54:4022/rtp/239.0.0.78:8208?msession=63560
+#EXTINF:-1,Noticias:Al Jazeera English
+http://81.37.207.54:4022/rtp/239.0.7.66:8208?msession=63778
+#EXTINF:-1,Noticias:France 24 English
+http://81.37.207.54:4022/rtp/239.0.7.67:8208?msession=61176
+#EXTINF:-1,Noticias:Russia Today English
+http://81.37.207.54:4022/rtp/239.0.7.68:8208?msession=60699
+#EXTINF:-1,Noticias:CNBC Europe
+http://81.37.207.54:4022/rtp/239.0.7.69:8208?msession=63656
+#EXTINF:-1,Noticias:CCTV-E
+http://81.37.207.54:4022/rtp/239.0.0.65:8208?msession=62237
+#EXTINF:-1,Noticias:TV5 Monde Europe
+http://81.37.207.54:4022/rtp/239.0.0.31:8208?msession=63821
+#EXTINF:-1,Noticias:Bloomberg
+http://81.37.207.54:4022/rtp/239.0.0.29:8208?msession=61837
+#EXTINF:-1,Noticias:I24 News
+http://81.37.207.54:4022/rtp/239.0.0.220:8208?msession=62375
+#EXTINF:-1,Noticias:CNC World
+http://81.37.207.54:4022/rtp/239.0.0.221:8208?msession=62256
+#EXTINF:-1,Noticias:Orbe 21
+http://81.37.207.54:4022/rtp/239.0.0.45:8208?msession=63919
+#EXTINF:-1,Infantil:[COLOR green]Movistar+: Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Infantil:Baby TV
+http://81.37.207.54:4022/rtp/239.0.0.113:8208?msession=63899
+#EXTINF:-1,Infantil:Disney Junior
+http://81.37.207.54:4022/rtp/239.0.0.10:8208?msession=62360
+#EXTINF:-1,Infantil:Canal Panda
+http://81.37.207.54:4022/rtp/239.0.0.117:8208?msession=60676
+#EXTINF:-1,Infantil:Nick Jr.
+http://81.37.207.54:4022/rtp/239.0.0.115:8208?msession=60016
+#EXTINF:-1,Infantil:Nickelodeon
+http://81.37.207.54:4022/rtp/239.0.0.69:8208?msession=62631
+#EXTINF:-1,Infantil:Disney XD
+http://81.37.207.54:4022/rtp/239.0.0.11:8208?msession=62578
+#EXTINF:-1,Infantil:Disney Channel
+http://81.37.207.54:4022/rtp/239.0.0.64:8208?msession=60816
+#EXTINF:-1,Infantil:Boing
+http://81.37.207.54:4022/rtp/239.0.0.66:8208?msession=63344
+#EXTINF:-1,Infantil:Clan TVE
+http://81.37.207.54:4022/rtp/239.0.0.80:8208?msession=62022
+#EXTINF:-1,Musica:[COLOR green]Movistar+: Musica[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Musica:40 TV
+http://81.37.207.54:4022/rtp/239.0.0.12:8208?msession=60720
+#EXTINF:-1,Musica:Sol Musica
+http://81.37.207.54:4022/rtp/239.0.0.39:8208?msession=61526
+#EXTINF:-1,Musica:VH1
+http://81.37.207.54:4022/rtp/239.0.0.75:8208?msession=61731
+#EXTINF:-1,Deportes:[COLOR green]Movistar+: Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:-1,Deportes:Canal+ Liga
+http://81.37.207.54:4022/rtp/239.0.0.42:8208?msession=62788
+#EXTINF:-1,Deportes:Canal+ Partidazo
+http://81.37.207.54:4022/rtp/239.0.4.129:8208?msession=60852
+#EXTINF:-1,Deportes:Canal+ Liga 2
+http://81.37.207.54:4022/rtp/239.0.6.7:8208?msession=62002
+#EXTINF:-1,Deportes:Canal+ Futbol
+http://81.37.207.54:4022/rtp/239.0.6.8:8208?msession=63339
+#EXTINF:-1,Deportes:Canal+ Liga Multi
+http://81.37.207.54:4022/rtp/239.0.0.119:8208?msession=62669
+#EXTINF:-1,Deportes:Multifútbol 1
+http://81.37.207.54:4022/rtp/239.0.0.124:8208?msession=62013
+#EXTINF:-1,Deportes:Multifútbol 2
+http://81.37.207.54:4022/rtp/239.0.0.123:8208?msession=60139
+#EXTINF:-1,Deportes:Multifútbol 3
+http://81.37.207.54:4022/rtp/239.0.3.3:8208?msession=61235
+#EXTINF:-1,Deportes:Multifútbol 4
+http://81.37.207.54:4022/rtp/239.0.3.4:8208?msession=61719
+#EXTINF:-1,Deportes:Multifútbol 5
+http://81.37.207.54:4022/rtp/239.0.3.5:8208?msession=60719
+#EXTINF:-1,Deportes:Multifútbol 6
+http://81.37.207.54:4022/rtp/239.0.3.6:8208?msession=63307
+#EXTINF:-1,Deportes:Multifútbol 7
+http://81.37.207.54:4022/rtp/239.0.3.7:8208?msession=62248
+#EXTINF:-1,Deportes:Multifútbol 8
+http://81.37.207.54:4022/rtp/239.0.3.2:8208?msession=62784
+#EXTINF:-1,Deportes:Multifútbol 9
+http://81.37.207.54:4022/rtp/239.0.3.9:8208?msession=63208
+#EXTINF:-1,Deportes:Canal+ Liga 2 A
+http://81.37.207.54:4022/rtp/239.0.3.9:8208?msession=61996
+#EXTINF:-1,Deportes:Canal+ Liga 2 B
+http://81.37.207.54:4022/rtp/239.0.0.120:8208?msession=60574
+#EXTINF:-1,Deportes:Canal+ Liga 2 C
+http://81.37.207.54:4022/rtp/239.0.0.121:8208?msession=60094
+#EXTINF:-1,Deportes:Canal+ Liga 2 D
+http://81.37.207.54:4022/rtp/239.0.0.122:8208?msession=62042
+#EXTINF:-1,Deportes:Multideporte 1
+http://81.37.207.54:4022/rtp/239.0.1.145:8208?msession=61764
+#EXTINF:-1,Deportes:Multideporte 2
+http://81.37.207.54:4022/rtp/239.0.1.144:8208?msession=63300
+#EXTINF:-1,Deportes:Multideporte 3
+http://81.37.207.54:4022/rtp/239.0.1.143:8208?msession=62723
+#EXTINF:-1,Deportes:Multideporte 4
+http://81.37.207.54:4022/rtp/239.0.1.142:8208?msession=60022
+#EXTINF:-1,Deportes:Multideporte 5
+http://81.37.207.54:4022/rtp/239.0.1.148:8208?msession=63600
+#EXTINF:-1,Deportes:Multideporte 6
+http://81.37.207.54:4022/rtp/239.0.1.245:8208?msession=61618
+#EXTINF:-1,Deportes:Multideporte 7
+http://81.37.207.54:4022/rtp/239.0.1.146:8208?msession=60740
+#EXTINF:-1,Deportes:Multideporte 8
+http://81.37.207.54:4022/rtp/239.0.1.147:8208?msession=60687
+#EXTINF:-1,Deportes:Multideporte 9
+http://81.37.207.54:4022/rtp/239.0.1.243:8208?msession=60383
+#EXTINF:-1,Deportes:Futbol Replay
+http://81.37.207.54:4022/rtp/239.0.0.97:8208?msession=63930
+#EXTINF:-1,Deportes:Canal+ Deportes
+http://81.37.207.54:4022/rtp/239.0.4.193:8208?msession=60991
+#EXTINF:-1,Deportes:Canal+ Deportes 2
+http://81.37.207.54:4022/rtp/239.0.5.5:8208?msession=60671
+#EXTINF:-1,Deportes:Movistar F1
+http://81.37.207.54:4022/rtp/239.0.0.210:8208?msession=60225
+#EXTINF:-1,Deportes:Movistar MotoGP
+http://81.37.207.54:4022/rtp/239.0.3.38:8208?msession=63178
+#EXTINF:-1,Deportes:Canal+ Golf
+http://81.37.207.54:4022/rtp/239.0.5.2:8208?msession=61416
+#EXTINF:-1,Deportes:Eurosport
+http://81.37.207.54:4022/rtp/239.0.0.18:8208?msession=63870
+#EXTINF:-1,Deportes:Eurosport 2
+http://81.37.207.54:4022/rtp/239.0.0.37:8208?msession=61767
+#EXTINF:-1,Deportes:Iberalia
+http://81.37.207.54:4022/rtp/239.0.5.6:8208?msession=60850
+#EXTINF:-1,Deportes:Teledeporte
+http://81.37.207.54:4022/rtp/239.0.0.79:8208?msession=63775
