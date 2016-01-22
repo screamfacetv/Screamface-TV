@@ -205,14 +205,6 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?playkodi=%2F.ts
 
 #EXTINF:0, [COLOR cyan][B]== DEPORTES ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
-http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal beIN Sport en Español" tvg-name="Canal beIN Sport en Español" tvg-logo="Bein Sports Ñ Español" group-title="DEPORTES",Bein Sports Ñ Español
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/1.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Box Nation" tvg-name="Box Nation" tvg-logo="Box Nation" group-title="DEPORTES",Box Nation
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/2.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI CBS Sports Network (CBSSN)" tvg-name="CBS Sports Network (CBSSN)" tvg-logo="cbs-sports-logo.png" group-title="DEPORTES",CBS Sports Network
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/3.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Combate" group-title="DEPORTES",Combate
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI ESPN" tvg-name="ESPN" tvg-logo="ESPN" group-title="DEPORTES",ESPN
@@ -259,64 +251,14 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?playkodi=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox Sports 1 (FS1)" tvg-name="Fox Sports 1 (FS1)" tvg-logo="Fox Sports USA" group-title="DEPORTES",Fox Sports USA
 http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/9.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Golf Channel" tvg-name="Canal Golf Channel" tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",Golf Channel
-http://104.131.200.207/genius/playkodi.php?lib=3284939
-#EXTINF:-1 tvg-id="Lista PLAY-KODI MLB Network (MLBN)" tvg-name="MLB Network (MLBN)" tvg-logo="mlb-network-logo.jpg" group-title="DEPORTES",MLB Network
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/11.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="motors-tv-fr.png" group-title="DEPORTES",Motors TV UK
 rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NBA League Pass DirecTV (NBALP)" tvg-name="NBA League Pass DirecTV (NBALP)" tvg-logo="NBA-League-Pass.png" group-title="DEPORTES",NBA League Pass
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/12.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NBA TV (NBA TV)" tvg-name="NBA TV (NBA TV)" tvg-logo="nba-tv-logo-2173944.jpg" group-title="DEPORTES",NBA TV
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/13.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NBC Sports Network (NBCSN)" tvg-name="NBC Sports Network (NBCSN)" tvg-logo="NBC-Sports-Network-Logo.jpg" group-title="DEPORTES",NBC Sports Network
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/14.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NFL Network" tvg-name="NFL Network" tvg-logo="NFL Network" group-title="DEPORTES",NFL Network
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/15.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NHL Network US (NHLTV)" tvg-name="NHL Network US (NHLTV)" tvg-logo="05_NHL_Shield.svg.png" group-title="DEPORTES",NHL Network
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/16.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Outdoor Channel" group-title="DEPORTES",Outdoor Channel
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/17.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Planeta Futbol (Canal 516)" tvg-name="Canal Planeta Futbol (Canal 516)" tvg-logo="Planeta Futbol" group-title="DEPORTES",Planeta Futbol
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/18.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI PX" tvg-name="PX" tvg-logo="px.jpg" group-title="DEPORTES",PX TV
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?playkodi=%2F.ts=-1
 #EXTINF:-1 tvg-id="Lista PLAY-KODI ES Real Madrid TV" tvg-name="ES Real Madrid TV" tvg-logo="Real Madrid TV" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="Setanta Sport" group-title="DEPORTES",Setanta Sport
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/19.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Sky Sports 1" tvg-name="UK Sky Sports 1" tvg-logo="Sky Sports 1" group-title="DEPORTES",Sky Sports 1
-http://104.131.200.207/normalize/?lib=402413647
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Sky Sports 2" tvg-name="UK Sky Sports 2" tvg-logo="Sky Sports 2" group-title="DEPORTES",Sky Sports 2
-http://104.131.200.207/normalize/?lib=-1405040816
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Sky Sports 3" tvg-name="UK Sky Sports 3" tvg-logo="Sky Sports 3" group-title="DEPORTES",Sky Sports 3
-http://104.131.200.207/normalize/?lib=1082472017
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Sky Sports 4" tvg-name="UK Sky Sports 4" tvg-logo="Sky Sports 4" group-title="DEPORTES",Sky Sports 4
-http://104.131.200.207/normalize/?lib=-724982446
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Sky Sports 5" tvg-name="UK Sky Sports 5" tvg-logo="Sky Sports 5" group-title="DEPORTES",Sky Sports 5
-http://104.131.200.207/normalize/?lib=1762530387
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Sport TV 1" tvg-name="Sport TV 1" tvg-logo="sport_tv1_pt.jpg" group-title="DEPORTES",Sport TV 1 Portugal
-http://104.131.200.207/normalize/?lib=-474158228
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Sport TV 2" tvg-name="Sport TV 2" tvg-logo="sport_tv2_pt.jpg" group-title="DEPORTES",Sport TV 2 Portugal
-http://104.131.200.207/normalize/?lib=2013354605
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Sport TV 3" tvg-name="Sport TV 3" tvg-logo="2ce6gpt.jpg" group-title="DEPORTES",Sport TV 3 Portugal
-http://104.131.200.207/normalize/?lib=205900142
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Sport TV 4" tvg-name="Sport TV 4" tvg-logo="sporttv4portugal.jpg" group-title="DEPORTES",Sport TV 4 Portugal
-http://104.131.200.207/normalize/?lib=-1601554321
-#EXTINF:-1 tvg-id="Lista PLAY-KODI TDN" tvg-name="TDN" tvg-logo="TDN" group-title="DEPORTES",TDN
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/20.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal TyC Sports" tvg-name="Canal TyC Sports" tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
-http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal UFC Network Latinoamérica" tvg-name="Canal UFC Network Latinoamérica" tvg-logo="UFC Network Latinoamérica" group-title="DEPORTES",UFC Network Latinoamérica
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/22.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Univisión TDN" tvg-name="Univisión TDN" tvg-logo="Univisión TDN" group-title="DEPORTES",Univisión TDN
-http://104.131.200.207/normalize/?lib=-670671733
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Win Sports" tvg-name="Win Sports" tvg-logo="aj8qwk-1-0x290-win_sports.png" group-title="DEPORTES",Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
 #EXTINF:0, [COLOR cyan][B]== CULTURA-DOCUMENTAL ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -628,127 +570,6 @@ rtmp://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestre
 rtmp://200.52.193.57:1935/live/unique/live_2650
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="canalGDL.png" group-title="MÉXICO",Trecevisión Yucatán
 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
-
-#EXTINF:0, [COLOR cyan][B]== EUA (USA) ==[/B][/COLOR]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Consumer News & Business Channel (CNBC)" tvg-name="Consumer News & Business Channel (CNBC)" tvg-logo="cnbc_logo.jpg" group-title="EUA (USA)",CNBC
-http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Lista PLAY-KODI A&E Network (East) (A&E)" tvg-name="A&E Network (East) (A&E)" tvg-logo="2881064_orig.jpg" group-title="EUA (USA)",A&E
-http://104.131.200.207/genius/playkodi.php?lib=3285924
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="4a01ea7476db9f0320dfc05db27854c4.png" group-title="EUA (USA)",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Animal Planet (East) (ANIMAL)" tvg-name="Animal Planet (East) (ANIMAL)" tvg-logo="Animal_Planet_2006.png" group-title="EUA (USA)",Animal Planet US
-http://104.131.200.207/genius/playkodi.php?lib=3289774
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Bravo (East) (BRAVO)" tvg-name="Bravo (East) (BRAVO)" tvg-logo="bravo.png" group-title="EUA (USA)",Bravo
-http://104.131.200.207/genius/playkodi.php?lib=3287363
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Cartoon Network (East) (TOON)" tvg-name="Cartoon Network (East) (TOON)" tvg-logo="CARTOON_NETWORK_logo_2012.png" group-title="EUA (USA)",Cartoon Network USA
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="b3AvSxrZ_400x400.jpeg" group-title="EUA (USA)",CBS Action
-http://104.131.200.207/genius/playkodi.php?lib=3287362
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Cinemax (East) (MAX)" tvg-name="Cinemax (East) (MAX)" tvg-logo="logo-cinemax.jpg" group-title="EUA (USA)",Cinemax East
-http://104.131.200.207/genius/playkodi.php?lib=3285882
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Classic Arts Showcase - Boston" tvg-name="Classic Arts Showcase - Boston" tvg-logo="Classic-Arts-Showcase.jpg" group-title="EUA (USA)",Classic Arts Showcase - Boston
-rtmp://streaming.cityofboston.gov/live/cable?b?b*t$
-#EXTINF:-1 tvg-id="Lista PLAY-KODI The Discovery Channel (East) (DSC)" tvg-name="The Discovery Channel (East) (DSC)" tvg-logo="Discovery-logo.jpg" group-title="EUA (USA)",Discovery Channel USA
-http://104.131.200.207/genius/playkodi.php?lib=3285127
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Disney Junior SD East (DISJR)" tvg-name="Disney Junior SD East (DISJR)" tvg-logo="Disney-Junior-Logo.jpg" group-title="EUA (USA)",Disney Jr US
-http://104.131.200.207/genius/playkodi.php?lib=3289781
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Do it Yourself Network (East) (DIY)" tvg-name="Do it Yourself Network (East) (DIY)" tvg-logo="11793B12-AAB3-2004-A26A9B1F4E76406F.jpg" group-title="EUA (USA)",DIY Network
-http://104.131.200.207/genius/playkodi.php?lib=3285103
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Encore Action (East) (ENCA)" tvg-name="Encore Action (East) (ENCA)" tvg-logo="Encore_Action_HD_logo.jpg" group-title="EUA (USA)",Encore Action
-http://104.131.200.207/genius/playkodi.php?lib=3285444
-#EXTINF:-1 tvg-id="Lista PLAY-KODI KTNC" tvg-name="KTNC" tvg-logo="Estrella_TV_Logo.png" group-title="EUA (USA)",Estrella TV
-http://104.131.200.207/genius/playkodi.php?lib=3292041
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Food Network (East) (FOOD)" tvg-name="Food Network (East) (FOOD)" tvg-logo="Food Network logo 2013.jpg" group-title="EUA (USA)",Food Network
-http://104.131.200.207/genius/playkodi.php?lib=3285101
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Fox News" tvg-name="Fox News" tvg-logo="Fox News Channel" group-title="EUA (USA)",Fox News Channel
-http://104.131.200.207/genius/playkodi.php?lib=3285137
-#EXTINF:-1 tvg-id="Lista PLAY-KODI FX (East) (FX)" tvg-name="FX (East) (FX)" tvg-logo="fx-logo__140528151442.jpg" group-title="EUA (USA)",FX East
-http://104.131.200.207/genius/playkodi.php?lib=3285926
-#EXTINF:-1 tvg-id="Lista PLAY-KODI H2 (H2)" tvg-name="H2 (H2)" tvg-logo="History_2.png" group-title="EUA (USA)",H2 USA
-http://104.131.200.207/genius/playkodi.php?lib=3286426
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Hallmark Channel (East) (HALMRK)" tvg-name="Hallmark Channel (East) (HALMRK)" tvg-logo="Hallmark_logo_120625164126.jpg" group-title="EUA (USA)",Hallmark Channel
-http://104.131.200.207/genius/playkodi.php?lib=3285934
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO 2 (East) (HBO2)" tvg-name="HBO 2 (East) (HBO2)" tvg-logo="HBO_2_Logo_Poland.png" group-title="EUA (USA)",HBO 2 East
-http://104.131.200.207/genius/playkodi.php?lib=3285145
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO 2 (West) (HBO2)" tvg-name="HBO 2 (West) (HBO2)" tvg-logo="HBO_2_Logo_Poland.png" group-title="EUA (USA)",HBO 2 West
-http://104.131.200.207/genius/playkodi.php?lib=3286024
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO Comedy HDTV (East) (HBOCHD)" tvg-name="HBO Comedy HDTV (East) (HBOCHD)" tvg-logo="Hbo_comedy.jpg" group-title="EUA (USA)",HBO Comedy
-http://104.131.200.207/genius/playkodi.php?lib=3285930
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO (East) (HBO)" tvg-name="HBO (East) (HBO)" tvg-logo="My_HBO.png" group-title="EUA (USA)",HBO East
-http://104.131.200.207/genius/playkodi.php?lib=3289694
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO Family (East) (HBOFE)" tvg-name="HBO Family (East) (HBOFE)" tvg-logo="RQa2ipx.png" group-title="EUA (USA)",HBO Family
-http://104.131.200.207/genius/playkodi.php?lib=3289344
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO Signature (East) (HBOSGE)" tvg-name="HBO Signature (East) (HBOSGE)" tvg-logo="XEd15.jpg" group-title="EUA (USA)",HBO Signature
-http://104.131.200.207/genius/playkodi.php?lib=3285888
-#EXTINF:-1 tvg-id="Lista PLAY-KODI HBO Zone HDTV (East) (HBOZHD)" tvg-name="HBO Zone HDTV (East) (HBOZHD)" tvg-logo="HBO_Zone_logo.png" group-title="EUA (USA)",HBO Zone
-http://104.131.200.207/genius/playkodi.php?lib=3285894
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Home & Garden Television (East) (HGTV)" tvg-name="Home & Garden Television (East) (HGTV)" tvg-logo="d4101ef0871d256fa84fec4717db2ca7.jpg" group-title="EUA (USA)",HGTV
-http://104.131.200.207/genius/playkodi.php?lib=3292430
-#EXTINF:-1 tvg-id="Lista PLAY-KODI History (East) (HIST)" tvg-name="History (East) (HIST)" tvg-logo="History_Channel_2015_logo.jpg" group-title="EUA (USA)",History USA
-http://104.131.200.207/genius/playkodi.php?lib=3285105
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="20130608_101832_i24-news1.jpg" group-title="EUA (USA)",i24 News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI MBC Action" tvg-name="MBC Action" tvg-logo="MBC Action" group-title="EUA (USA)",MBC Action
-http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI MBC MAX" tvg-name="MBC MAX" tvg-logo="MBC Max" group-title="EUA (USA)",MBC Max
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="miami_tv_us.png" group-title="EUA (USA)",Miami Music TV
-http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="miami_tv_us.png" group-title="EUA (USA)",Miami TV Channel
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NASA Television (NASA)" tvg-name="NASA Television (NASA)" tvg-logo="nasaLogo-570x450.png" group-title="EUA (USA)",NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NASA Television (NASA)" tvg-name="NASA Television (NASA)" tvg-logo="nasaLogo-570x450.png" group-title="EUA (USA)",NASA TV HD (720)
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Nickelodeon (East) (NIK)" tvg-name="Nickelodeon (East) (NIK)" tvg-logo="NICKELODEON_Logo.png" group-title="EUA (USA)",Nickelodeon US
-http://104.131.200.207/genius/playkodi.php?lib=3286630
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Palladia (PLDHD)" tvg-name="Palladia (PLDHD)" tvg-logo="palladia-logo.png" group-title="EUA (USA)",Palladia
-http://104.131.200.207/genius/playkodi.php?lib=3285920
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Showtime Beyond (East) (SHOBE)" tvg-name="Showtime Beyond (East) (SHOBE)" tvg-logo="Showtime_beyond.png" group-title="EUA (USA)",Showtime Beyond
-http://104.131.200.207/genius/playkodi.php?lib=3285904
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Showtime (East) (SHO)" tvg-name="Showtime (East) (SHO)" tvg-logo="showtime-logo.jpg" group-title="EUA (USA)",Showtime East
-http://104.131.200.207/genius/playkodi.php?lib=3285147
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Sony Movie Channel (SONY)" tvg-name="Sony Movie Channel (SONY)" tvg-logo="SMC_Twitter_Logo.jpg" group-title="EUA (USA)",Sony Movie Channel
-http://104.131.200.207/genius/playkodi.php?lib=3285443
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Spike TV (East) (SPK)" tvg-name="Spike TV (East) (SPK)" tvg-logo="spike-logo-3.jpg" group-title="EUA (USA)",Spike TV
-http://104.131.200.207/genius/playkodi.php?lib=3289339
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Starz (East) (STARZ)" tvg-name="Starz (East) (STARZ)" tvg-logo="-" group-title="EUA (USA)",Starz
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/34.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Starz! Cinema (East) (STRZCI)" tvg-name="Starz! Cinema (East) (STRZCI)" tvg-logo="-" group-title="EUA (USA)",Starz Cinema
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/37.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Starz Comedy (East) (STZC)" tvg-name="Starz Comedy (East) (STZC)" tvg-logo="-" group-title="EUA (USA)",Starz Comedy
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/38.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Starz Edge (East) (STZE)" tvg-name="Starz Edge (East) (STZE)" tvg-logo="-" group-title="EUA (USA)",Starz Edge
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/36.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI TBS Superstation (East) (TBS)" tvg-name="TBS Superstation (East) (TBS)" tvg-logo="512px-PerfectTBS.svg.png" group-title="EUA (USA)",TBS
-http://104.131.200.207/genius/playkodi.php?lib=3285896
-#EXTINF:-1 tvg-id="Lista PLAY-KODI KXTX (TELEMUNDO)" tvg-name="KXTX (TELEMUNDO)" tvg-logo="telemundo_logo_detalle.jpg" group-title="EUA (USA)",Telemundo 39 Dallas
-http://104.131.200.207/normalize/?lib=-903442949
-#EXTINF:-1 tvg-id="Lista PLAY-KODI WNJU (TELEMUNDO 47)" tvg-name="WNJU (TELEMUNDO 47)" tvg-logo="telemundo_logo_detalle.jpg" group-title="EUA (USA)",Telemundo 47 NYC
-http://104.131.200.207/normalize/?lib=-1099956454
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="telemundo_logo_detalle.jpg" group-title="EUA (USA)",Telemundo Tampa
-http://104.131.200.207/genius/playkodi.php?lib=3294064
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Telexitos" group-title="EUA (USA)",Telexitos
-http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="miami_tv_us.png" group-title="EUA (USA)",Teveo Miami
-http://q.gs/9830047/tveomiamitodokodim3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI The Florida Channel" tvg-name="The Florida Channel" tvg-logo="TFClogoforTwitter.jpg" group-title="EUA (USA)",The Florida Channel
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:-1 tvg-id="Lista PLAY-KODI The Weather Channel (WEATH)" tvg-name="The Weather Channel (WEATH)" tvg-logo="500px-The_Weather_Channel_logo_2005-present.svg.png" group-title="EUA (USA)",The Weather Channel
-http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Turner Network Television (East) (TNT)" tvg-name="Turner Network Television (East) (TNT)" tvg-logo="TNT_logo_2008.png" group-title="EUA (USA)",TNT
-http://104.131.200.207/genius/playkodi.php?lib=3285906
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Universal Channel USA HD (1080p)" tvg-name="Universal Channel USA HD (1080p)" tvg-logo="Universal2012.png" group-title="EUA (USA)",Universal Channel USA HD (1080p)
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Univisión Network (East) (UNI)" tvg-name="Univisión Network (East) (UNI)" tvg-logo="198562.jpg" group-title="EUA (USA)",Univision 41
-http://104.131.200.207/normalize/?lib=1791086493
-#EXTINF:-1 tvg-id="Lista PLAY-KODI USA Network (East) (USA)" tvg-name="USA Network (East) (USA)" tvg-logo="USA_Network_(Milgreen).png" group-title="EUA (USA)",USA Network
-http://104.131.200.207/genius/playkodi.php?lib=3287508
-#EXTINF:-1 tvg-id="Lista PLAY-KODI -" tvg-name="-" tvg-logo="-" group-title="EUA (USA)",Yes
-http://104.131.200.207/genius/playkodi.php?lib=3289761
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="telemundo_logo_detalle.jpg" group-title="EUA (USA)",Telemundo 52 Los Angeles
-http://104.131.200.207/normalize/?lib=1173216164
 
 #EXTINF:0, [COLOR cyan][B]== ESPAÑA ==[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
