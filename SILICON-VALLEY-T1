@@ -1,6 +1,6 @@
-#EXTM3U:view,tvshows
+#EXTM3U
 
-#EXTINF:-1,TEMP.1, SILICON VALLEY
+#EXTINF:-1,TEMP1, Capitulo 1
 #EXTINF:-1tvg-logo="http://1.bp.blogspot.com/--Llt8Y7tBdo/UxAaflvQvKI/AAAAAAAAQbs/NQ01PHY_UQE/s1600/silicon.jpg",Capitulo 1
 https://lh3.googleusercontent.com/5QHd7aserLpG03isH9eJwNAyjH25tNNyuk8sePUPS64=m18
 #EXTINF:-1tvg-logo="http://1.bp.blogspot.com/--Llt8Y7tBdo/UxAaflvQvKI/AAAAAAAAQbs/NQ01PHY_UQE/s1600/silicon.jpg",Capitulo 2
