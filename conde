@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTM3U&player=playlist.m3u8
+
+#EXTINF:-1,EL PRINCIPITO DE EGIPTO
+http://www.spruto.tv/get_file/5/d01075ed365b53b707419cd285c2ea81/118000/118571/118571.mp4
 #EXTINF:-1,STEVE JOBS
 https://lh3.googleusercontent.com/07NV9n0rKnZwy0upyxsy6kzK4B9HwwHqqnvhACLUBPw=m18
 #EXTINF:-1,Los Picapiedra y WWE: SmackDown en la Edad de Piedra
