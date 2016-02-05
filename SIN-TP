@@ -1,0 +1,523 @@
+#EXTM3U
+#EXTINF:0, [B][COLOR blue]MAZINGER Z ADDON[/COLOR] - [COLOR lightgreen]09/01/2016 - 09:40PM[/COLOR] - [COLOR orange]https://www.facebook.com/groups/screamfacetv/[/COLOR][/B]
+
+#EXTINF:0, [B]Donaciones via PayPal: mv1476@gmail.com[/B]
+
+#EXTINF:0, [COLOR cyan][B]== NOTICIAS ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal NHK World" tvg-name="Canal NHK World" tvg-logo="NHK World" group-title="NOTICIAS",NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI CNN en español" tvg-name="CNN en español" tvg-logo="CNN En Español" group-title="NOTICIAS",CNN En Español
+http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/53.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Euronews" tvg-name="Euronews" tvg-logo="Euronews Español" group-title="NOTICIAS",Euronews Español
+http://104.131.200.207/genius/playkodi.php?lib=3284992
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal NTN24 (Nuestra Tele Noticias 24 Horas)" tvg-name="Canal NTN24 (Nuestra Tele Noticias 24 Horas)" tvg-logo="NTN 24" group-title="NOTICIAS",NTN 24
+http://104.131.200.207/genius/playkodi.php?lib=3286530
+#EXTINF:-1 tvg-id="Lista PLAY-KODI RT español" tvg-name="RT español" tvg-logo="RT en español" group-title="NOTICIAS",RT en español
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Russia Today (North America) (RT)" tvg-name="Russia Today (North America) (RT)" tvg-logo="Russia_Today_3.PNG" group-title="NOTICIAS",RT Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TeleFórmula" tvg-name="TeleFórmula" tvg-logo="TeleFórmula" group-title="NOTICIAS",TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK BBC News" tvg-name="UK BBC News" tvg-logo="BBC News" group-title="NOTICIAS",BBC News
+http://104.131.200.207/genius/playkodi.php?lib=3285424
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK EuroNews" tvg-name="UK EuroNews" tvg-logo="Euronews UK" group-title="NOTICIAS",Euronews UK
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Sky News" tvg-name="UK Sky News" tvg-logo="Sky News" group-title="NOTICIAS",Sky News
+http://104.131.200.207/genius/playkodi.php?lib=3285422
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Fox News" tvg-name="Fox News" tvg-logo="Fox News Channel" group-title="NOTICIAS",Fox News Channel
+http://104.131.200.207/genius/playkodi.php?lib=3285137
+
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 2 Obregón" group-title="MÉXICO",Canal 2 Obregón
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 52MX" tvg-name="Canal 52MX" tvg-logo="Canal 52MX" group-title="MÉXICO",Canal 52MX
+http://201.161.59.4/canal52.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 7 Mazatlán" group-title="MÉXICO",Canal 7 Mazatlán
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal del Congreso" group-title="MÉXICO",Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI EfektoTV" tvg-name="EfektoTV" tvg-logo="EfektoTV" group-title="MÉXICO",EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="tv-azteca-noreste.jpg" group-title="MÉXICO",Info 7 (Azteca Monterrey)
+http://38.104.228.230:1938/info7/info7_512/chunklist_w934161884.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="rtg-jpg.jpg" group-title="MÉXICO",RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="20112012638703605n.jpg" group-title="MÉXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="4vhd8qzbyxb0j0ityr32_400x400.jpeg" group-title="MÉXICO",TV Más (Xalapa - Veracruz)
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal TVUNAM" tvg-name="Canal TVUNAM" tvg-logo="TV UNAM" group-title="MÉXICO",TV UNAM
+http://104.131.200.207/genius/playkodi.php?lib=3285960
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="capital-21.jpg" group-title="MÉXICO",Capital 21 (CDMX)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal10-Chiapas-Logo.jpg" group-title="MÉXICO",Canal Diez (Tuxtla - Chiapas)
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="MÉXICO",5tv (Sabinas - Coahuila)
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="logo_400x400.jpg" group-title="MÉXICO",RCG (Saltillo - Coahuila)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="logo1.png" group-title="MÉXICO",TV Lobo (Durango)
+http://lobotv-lh.akamaihd.net/i/ch_1@325404/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="25.1 Noticias (GDL - Jalisco)" group-title="MÉXICO",25.1 Noticias (GDL - Jalisco)
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="wc2gX4dA_400x400.png" group-title="MÉXICO",Ocho TV (GDL - Jalisco)
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nuestra_vision.png" group-title="MÉXICO",Nuestra Visión (Lázaro Cárdenas - Michoacán)
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="uan_logo.png" group-title="MÉXICO",Canal 2 (Tepic - Nayarit)
+http://canal2tepic-lh.akamaihd.net/i/ch_1@325632/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="bZ6hs_q8.jpg" group-title="MÉXICO",Puebla TV
+http://189.203.247.136:1935/live/pueblatv/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 10 (Cancún - Quintana Roo)" group-title="MÉXICO",Canal 10 (Cancún - Quintana Roo)
+http://162.212.132.116:1935/live/tvlive2/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal7-SLP-Mx-Logo.jpg" group-title="MÉXICO",Canal 7 (San Luis Potosí)
+rtmp://187.188.159.113/live/web.sdp
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="tgp_logo_facebook.jpg" group-title="MÉXICO",TV Pacífico (Culiacán - Sinaloa)
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="tgp_logo_facebook.jpg" group-title="MÉXICO",TV Pacífico (Los Mochis - Sinaloa)
+http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="tgp_logo_facebook.jpg" group-title="MÉXICO",TV Pacífico (Ciudad Obregón - Sonora)
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 15 (Fresnillo - Zacatecas)" group-title="MÉXICO",Canal 15 (Fresnillo - Zacatecas)
+rtmp://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 4 Guadalajara" tvg-name="Canal 4 Guadalajara" tvg-logo="canalGDL.png" group-title="MÉXICO",Canal 4 Guadalajara
+rtmp://200.52.193.57:1935/live/unique/live_2650
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="canalGDL.png" group-title="MÉXICO",Trecevisión Yucatán
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== ESPAÑA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Andalucía TV" tvg-name="Andalucía TV" tvg-logo="Andalucía TV" group-title="ESPAÑA",Andalucía TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Antena 3" tvg-name="Antena 3" tvg-logo="Antena 3" group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN ES" tvg-name="AXN ES" tvg-logo="AXN" group-title="ESPAÑA",AXN
+http://104.131.200.207/normalize/?lib=-814940255
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Boing" tvg-name="Boing" tvg-logo="Boing" group-title="ESPAÑA",Boing
+http://104.131.200.207/normalize/?lib=72563426
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Calle 13" tvg-name="Calle 13" tvg-logo="Calle 13" group-title="ESPAÑA",Calle 13
+http://104.131.200.207/normalize/?lib=960067107
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 33 Madrid" group-title="ESPAÑA",Canal 33 Madrid
+http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Divinity" tvg-name="Divinity" tvg-logo="Divinity" group-title="ESPAÑA",Divinity
+rtmp://31.220.0.82/privatestreamplus/ playpath=divinity85?keys=oNk3TkP8J9xXEavZGwP8vA&keyt=1448249856 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Eurosport" tvg-name="Eurosport" tvg-logo="Eurosport" group-title="ESPAÑA",Eurosport
+rtmp://80.82.78.75/privatestreamplus/ playpath=la1tdt36?keys=FTV3uZDHETQ-SdmL5cuYWw&keyt=1448253763 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Extremadura TV" tvg-name="Canal Extremadura TV" tvg-logo="Canal-extremadura-tv.jpg" group-title="ESPAÑA",Extremadura TV
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/stream1
+#EXTINF:-1 tvg-id="Lista PLAY-KODI ES FOX" tvg-name="ES FOX" tvg-logo="Fox España" group-title="ESPAÑA",Fox España
+http://104.131.200.207/normalize/?lib=-1316579760
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="logo_tvg.jpg" group-title="ESPAÑA",Galicia TV
+http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u9
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="images (1).jpg" group-title="ESPAÑA",Huesca TV
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1 tvg-id="Lista PLAY-KODI La 1" tvg-name="La 1" tvg-logo="La 1" group-title="ESPAÑA",La 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1 tvg-id="Lista PLAY-KODI La 2" tvg-name="La 2" tvg-logo="La 2" group-title="ESPAÑA",La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI laSexta" tvg-name="laSexta" tvg-logo="La Sexta" group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="37.JPG" group-title="ESPAÑA",Mega
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Neox" tvg-name="Neox" tvg-logo="Neox" group-title="ESPAÑA",Neox
+rtmp://31.220.0.194/privatestreamplus/ playpath=neoxtdt63?keys=IVavVmzNx9mBUBP4oW7g9A&keyt=1448252409 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Nova" tvg-name="Nova" tvg-logo="Nova" group-title="ESPAÑA",Nova
+http://a3live-lh.akamaihd.net/i/nova/novageo_1@379404/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Telecinco" tvg-name="Telecinco" tvg-logo="Telecinco" group-title="ESPAÑA",Telecinco
+http://104.131.200.207/normalize/?lib=1313734256
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 24 horas" tvg-name="Canal 24 horas" tvg-logo="TVE 24H" group-title="ESPAÑA",TVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI ES Atres Series" tvg-name="ES Atres Series" tvg-logo="Atreseries" group-title="ESPAÑA",Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== REINO UNIDO (UK) ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK BBC One" tvg-name="UK BBC One" tvg-logo="BBC One" group-title="REINO UNIDO (UK)",BBC One
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3580.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK BBC Two England" tvg-name="UK BBC Two England" tvg-logo="BBC Two" group-title="REINO UNIDO (UK)",BBC Two
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3581.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK BBC Three" tvg-name="UK BBC Three" tvg-logo="BBC Three" group-title="REINO UNIDO (UK)",BBC Three
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1995.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK eden" tvg-name="UK eden" tvg-logo="Eden" group-title="REINO UNIDO (UK)",Eden
+http://104.131.200.207/genius/playkodi.php?lib=3285442
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Discovery Turbo" tvg-name="UK Discovery Turbo" tvg-logo="Discovery Turbo UK" group-title="REINO UNIDO (UK)",Discovery Turbo UK
+http://104.131.200.207/genius/playkodi.php?lib=3285440
+
+#EXTINF:0, [COLOR cyan][B]== CANADÁ ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="498px-CBC-Television-Logo.png" group-title="CANADÁ",CBC
+http://192.99.201.121:1935/eu2/cbc.stream/default.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="commercial-6 (1).png" group-title="CANADÁ",TVA Montreal
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="logo_112.png" group-title="CANADÁ",CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="01837482_photo_logo_de_l_assemblee_nationale.jpg" group-title="CANADÁ",Assemblée Nationale
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="global_tv_hd_1.png" group-title="CANADÁ",Global
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="ciii_toronto.png" group-title="CANADÁ",Global Toronto
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
+
+#EXTINF:0, [COLOR cyan][B]== PERÚ ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI América TV" tvg-name="América TV" tvg-logo="América TV" group-title="PERÚ",América TV
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI ATV" tvg-name="ATV" tvg-logo="ATV" group-title="PERÚ",ATV
+http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI ATV HD" tvg-name="ATV HD" tvg-logo="ATV HD" group-title="PERÚ",ATV HD
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="BethelTV HD" group-title="PERÚ",BethelTV HD
+http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Panamericana TV" tvg-name="Panamericana TV" tvg-logo="Panamerica TV" group-title="PERÚ",Panamerica TV
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI RBC" tvg-name="RBC" tvg-logo="RBC Canal 11" group-title="PERÚ",RBC Canal 11
+rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
+#EXTINF:-1 tvg-id="Lista PLAY-KODI RBC" tvg-name="RBC" tvg-logo="RBC HD" group-title="PERÚ",RBC HD
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TV Peru 7.3" tvg-name="TV Peru 7.3" tvg-logo="TV Perú" group-title="PERÚ",TV Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Willax" tvg-name="Willax" tvg-logo="Willax" group-title="PERÚ",Willax
+rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
+
+#EXTINF:0, [COLOR cyan][B]== COLOMBIA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="F72G3GEW.jpeg" group-title="COLOMBIA",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="400x400-logo.png" group-title="COLOMBIA",Canal Antiestrés
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal Capital" group-title="COLOMBIA",Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="canal_13_trece.png" group-title="COLOMBIA",Canal Tr3ce
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logocanaltro.jpg" group-title="COLOMBIA",Canal TRO
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Logo-Canal_U.png" group-title="COLOMBIA",Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="0cdcf2642b0477806ce6f4d1e0a21d4c.jpeg" group-title="COLOMBIA",Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Caracol Internacional" tvg-name="Canal Caracol Internacional" tvg-logo="Caracol Logo 7.png" group-title="COLOMBIA",Caracol Internacional
+http://104.131.200.207/genius/playkodi.php?lib=3286980
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="imagen_id_5272.jpg" group-title="COLOMBIA",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="El Tiempo" group-title="COLOMBIA",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="hogar-tv-2zald9s53cn5gk1f5epvy8.png" group-title="COLOMBIA",Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Lifedesign" group-title="COLOMBIA",Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="channels-page-_mi-musica.png" group-title="COLOMBIA",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u9
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="rcn.png" group-title="COLOMBIA",RCN
+http://185.63.255.26/live/L0lGdZwMTZJW/playlist.m3u8 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="KYQBZ.png" group-title="COLOMBIA",Tele Amiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Logo-pasion-por-lo-nuestro-teleantioquia_1372462376.jpg" group-title="COLOMBIA",Teleantioquia HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo_png-01.jpg" group-title="COLOMBIA",Telecafé
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="telepacifico.jpg" group-title="COLOMBIA",Telepacífico
+http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist_b500000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Televida" group-title="COLOMBIA",Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Tigo-Music.png" group-title="COLOMBIA",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="tvagr (1).jpg" group-title="COLOMBIA",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="UNE TV Armenia" group-title="COLOMBIA",UNE TV Armenia
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="UNE TV Caribe" group-title="COLOMBIA",UNE TV Caribe
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="UNE TV Manizales" group-title="COLOMBIA",UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="descarga.png" group-title="COLOMBIA",Zoom TV
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Telemedellin.png" group-title="COLOMBIA",Telemedellín
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:0, [COLOR cyan][B]== CHILE ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal13Chile-LogoV2Blanco.png" group-title="CHILE",C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal13Chile-LogoV2Blanco.png" group-title="CHILE",C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="CDO Premium" group-title="CHILE",CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="CHV HD" group-title="CHILE",CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Holvoet HD" group-title="CHILE",Holvoet HD
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="ITV logo 2006.png" group-title="CHILE",ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="poster_220x220-2.jpg" group-title="CHILE",PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="RedTV.jpg" group-title="CHILE",RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="descarga.jpg" group-title="CHILE",Telecanal
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="tv-chile.jpg" group-title="CHILE",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="TVN.png" group-title="CHILE",TVN - Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="TVN.png" group-title="CHILE",TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Logo_UCV_Televisión_(1996_-_1999).jpg" group-title="CHILE",UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo-chv-2015.png" group-title="CHILE",Chilevision
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="RedTV.jpg" group-title="CHILE",La Red HD
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="images.png" group-title="CHILE",Contivisión
+http://evo.eltelon.com:443/live/contivision/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal 5 (Linares)" group-title="CHILE",Canal 5 (Linares)
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Campus HD (Talca)" group-title="CHILE",Campus HD (Talca)
+http://movilstream.digitalproserver.com/campustv/campustvvivo/campustv.smil/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== ARGENTINA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI C5N" tvg-name="C5N" tvg-logo="C5N" group-title="ARGENTINA",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 9 Paraná" tvg-name="Canal 9 Paraná" tvg-logo="Canal 9 Paraná" group-title="ARGENTINA",Canal 9 Paraná
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Orbe 21" tvg-name="Orbe 21" tvg-logo="Orbe 21" group-title="ARGENTINA",Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Telpin Canal 2 HD Pinamar" tvg-name="Telpin Canal 2 HD Pinamar" tvg-logo="Telpin Canal 2 HD Pinamar" group-title="ARGENTINA",Telpin Canal 2 HD Pinamar
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Magazine" tvg-name="Magazine" tvg-logo="Magazine" group-title="ARGENTINA",Magazine
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Rural" tvg-name="Canal Rural" tvg-logo="Canal Rural" group-title="ARGENTINA",Canal Rural
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 12 Cordoba" tvg-name="Canal 12 Cordoba" tvg-logo="Canal 12 Cordoba" group-title="ARGENTINA",Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 13" tvg-name="Canal 13" tvg-logo="el13-500x500.jpg" group-title="ARGENTINA",Canal 13
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 9" tvg-name="Canal 9" tvg-logo="CANAL-9 (1).png" group-title="ARGENTINA",Canal 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Todo Noticias" tvg-name="Todo Noticias" tvg-logo="tn-24-noticias-todo-logo-ao-vivo-online-streaming.png" group-title="ARGENTINA",Todo Noticias
+rtmp://stream.tn.com.ar/live/tnhd2 playpath=tnhd2 swfUrl="http://tn.com.ar/sites/all/themes/dozer/swf/cplayer/player.swf" pageUrl="http://tn.com.ar/envivo/24hs/HD" swfVfy=true live=true
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 10 Entre Rios" tvg-name="Canal 10 Entre Rios" tvg-logo="canal10.jpg" group-title="ARGENTINA",Canal 10 Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 11 Formosa" tvg-name="Canal 11 Formosa" tvg-logo="Canal 11 Formosa" group-title="ARGENTINA",Canal 11 Formosa
+rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 26" tvg-name="Canal 26" tvg-logo="LogoCanal26.jpg" group-title="ARGENTINA",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Am Sports" tvg-name="Am Sports" tvg-logo="logo.png" group-title="ARGENTINA",Am Sports
+http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Vivra TV" tvg-name="Vivra TV" tvg-logo="vDq2EsNS_400x400.png" group-title="ARGENTINA",Vivra TV
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Tv Pública" tvg-name="Tv Pública" tvg-logo="images (1).png" group-title="ARGENTINA",TVP
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Tateti" tvg-name="Tateti" tvg-logo="logo.jpg" group-title="ARGENTINA",Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Viajar" tvg-name="Viajar" tvg-logo="Viajar" group-title="ARGENTINA",Viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Telemax" tvg-name="Telemax" tvg-logo="Z1nvf.png" group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TV Universidad La Plata" tvg-name="TV Universidad La Plata" tvg-logo="TV Universidad La Plata" group-title="ARGENTINA",TV Universidad La Plata
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 2 Misiones" tvg-name="Canal 2 Misiones" tvg-logo="Canal 2 Misiones" group-title="ARGENTINA",Canal 2 Misiones
+http://190.57.237.230/live/canal2.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Misiones Cuatro" tvg-name="Misiones Cuatro" tvg-logo="MisionesCuatro-Logo.jpg" group-title="ARGENTINA",Misiones Cuatro
+rtsp://streamlky.alsolnet.com/misionescuatro/live
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Paka Paka" tvg-name="Paka Paka" tvg-logo="Paka Paka" group-title="ARGENTINA",Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI One TV" tvg-name="One TV" tvg-logo="One TV" group-title="ARGENTINA",One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Telecreativa" tvg-name="Telecreativa" tvg-logo="canal5-telecreativa-2z4b150wwgwxb2wppcvls0.png" group-title="ARGENTINA",Telecreativa
+http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI DeporTV (DXTV)" tvg-name="DeporTV (DXTV)" tvg-logo="DEPORTV---Deporte-para-Todos.png" group-title="ARGENTINA",DeporTV (DXTV)
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TyC Sports HD" tvg-name="TyC Sports HD" tvg-logo="DEPORTV---Deporte-para-Todos.png" group-title="ARGENTINA",TyC Sports
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u9
+
+#EXTINF:0, [COLOR cyan[B]== HONDURAS ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="images (2).jpg" group-title="HONDURAS",Globo TV
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Logo-Sulavision.png" group-title="HONDURAS",Sulavision
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="LOGO-TP.png" group-title="HONDURAS",Teleprogreso
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="rKu6fDfN_400x400.jpeg" group-title="HONDURAS",Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Teleceiba" group-title="HONDURAS",Teleceiba
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="HCH" group-title="HONDURAS",HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 13" group-title="HONDURAS",Canal 13
+rtmp://173.236.71.62/hondured/hrtv.sdp
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 6" group-title="HONDURAS",Canal 6
+rtmp://173.243.114.138:1935/8140/ playpath=8140 swfUrl=http://player.katrachospro.net/canal6hn/player.swf live=1 pageUrl=http://player.katrachospro.net/canal6hn/index.html
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Canal 21" group-title="HONDURAS",Canal 21
+rtmp://live.audiotvserver.com:1935/livemedia/ playpath=canal21 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/21.html
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Cholusat Sur" group-title="HONDURAS",Cholusat Sur
+rtmp://live.audiotvserver.com:1935/livemedia playpath=cholusat swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/36/CholusatSur
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Si TV" group-title="HONDURAS",Si TV
+rtmp://hd.worldkast.com:1935/8436/ playpath=8436 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/si-tv.html
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Ten Canal 10" group-title="HONDURAS",Ten Canal 10
+rtmp://control1.worldkast.com:1935/canal10/ playpath=canal10 swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Ebenezer" group-title="HONDURAS",Ebenezer
+rtmp://hds4.worldkast.com/ebenezertv2/_definst_ playpath=mp4:ebenezertv2_source swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/ebenezer.html
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Mundo TV" group-title="HONDURAS",Mundo TV
+rtmp://4.31.30.140:1935/live/ playpath=mundotv swfUrl=http://static2.sawlive.tv/player.swf live=1 pageUrl=http://www.lempiratv.com/mundo-tv.html
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="JBN Internacional" group-title="HONDURAS",JBN Internacional
+rtmp://hd.worldkast.com:1935/8506/ playpath=8506 swfUrl=http://control.worldkast.com/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.telecatracha.com/2012/02/jbn-tv-internacional-honduras.html
+
+#EXTINF:0, [COLOR cyan][B]== PUERTO RICO ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal WAPA-TV" tvg-name="Canal WAPA-TV" tvg-logo="Wapa" group-title="PUERTO RICO",Wapa
+http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/42.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal WAPA 2 Deportes" tvg-name="Canal WAPA 2 Deportes" tvg-logo="Wapa 2" group-title="PUERTO RICO",Wapa 2
+http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/41.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Telemundo Puerto Rico" tvg-name="Canal Telemundo Puerto Rico" tvg-logo="Telemundo PR" group-title="PUERTO RICO",Telemundo PR
+http://104.131.200.207/normalize/?lib=1164090948
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Puerto Rico (teleisla)" tvg-name="Canal 7 de Puerto Rico (teleisla)" tvg-logo="Teleisla" group-title="PUERTO RICO",Teleisla
+http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/44.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI -" tvg-name="-" tvg-logo="Univisión PR" group-title="PUERTO RICO",Univisión PR
+http://104.131.200.207/normalize/?lib=1422256386
+#EXTINF:-1 tvg-id="Lista PLAY-KODI -" tvg-name="-" tvg-logo="Mundo Max" group-title="PUERTO RICO",Mundo Max
+http://104.236.200.163:1382/300815/wjpx/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI -" tvg-name="-" tvg-logo="ABC 5" group-title="PUERTO RICO",ABC 5
+http://104.131.200.207/genius/playkodi.php?lib=3293503
+
+#EXTINF:0, [COLOR cyan][B]== GUATEMALA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Guatemala (Televisiete)" tvg-name="Canal 7 de Guatemala (Televisiete)" tvg-logo="q" group-title="GUATEMALA",Canal 7 Televesiete
+http://72.46.226.61/live01/canal71/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 3 de Guatemala (El Super Canal)" tvg-name="Canal 3 de Guatemala (El Super Canal)" tvg-logo="q" group-title="GUATEMALA",Canal 3 El Super Canal
+http://72.46.226.61/live01/canal31/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 3 de Guatemala (El Super Canal)" tvg-name="Canal 3 de Guatemala (El Super Canal)" tvg-logo="q" group-title="GUATEMALA",Vea Canal
+http://iphone-streaming.ustream.tv/ustreamVideo/3935086/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 3 de Guatemala (El Super Canal)" tvg-name="Canal 3 de Guatemala (El Super Canal)" tvg-logo="q" group-title="GUATEMALA",TV Maya
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Guatevision" tvg-name="Guatevision" tvg-logo="q" group-title="GUATEMALA",Guatevisión
+http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== EL SALVADOR ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 12 de El Salvador" tvg-name="Canal 12 de El Salvador" tvg-logo="q" group-title="EL SALVADOR",Canal 12
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u9
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 6 de El Salvador" tvg-name="Canal 6 de El Salvador" tvg-logo="q" group-title="EL SALVADOR",Canal 6
+http://streamup.global.ssl.fastly.net/app/c3r000s3iss-channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 21 de El Salvador (Megavisión)" tvg-name="Canal 21 de El Salvador (Megavisión)" tvg-logo="q" group-title="EL SALVADOR",Megavision Canal 21
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 2 de El Salvador" tvg-name="Canal 2 de El Salvador" tvg-logo="q" group-title="EL SALVADOR",Canal 2
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="q" group-title="EL SALVADOR",Canal 33
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="q" group-title="EL SALVADOR",TRV
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== COSTA RICA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 11 de Costa Rica" tvg-name="Canal 11 de Costa Rica" tvg-logo="Canal 11" group-title="COSTA RICA",Canal 11
+http://72.46.226.61/live01/canal111/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 13 de Costa Rica" tvg-name="Canal 13 de Costa Rica" tvg-logo="Canal 13" group-title="COSTA RICA",Canal 13
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 6 Repretel (Costa Rica)" tvg-name="Canal 6 Repretel (Costa Rica)" tvg-logo="Canal 6 Repretel" group-title="COSTA RICA",Canal 6 Repretel
+http://72.46.226.61/live01/canal61/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Teletica (Costa Rica)" tvg-name="Canal 7 de Teletica (Costa Rica)" tvg-logo="Teletica_Logo.png" group-title="COSTA RICA",Canal 7 HD Teletica
+http://stream-02.sv6.dailymotion.com/03/dm/1/x29e3wg/live.isml/events(live-1451152455)/live-audio=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Teletica (Costa Rica)" tvg-name="Canal 7 de Teletica (Costa Rica)" tvg-logo="Teletica_Logo.png" group-title="COSTA RICA",Canal 7 Teletica
+http://stream-02.sv6.dailymotion.com/03/dm/1/x29e3wg/live.isml/events(live-1451152455)/live-audio=128000-video=1200000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Extra TV 42 de Costa Rica" tvg-name="Canal Extra TV 42 de Costa Rica" tvg-logo="Canal 42" group-title="COSTA RICA",Canal 42
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logotwitter_400x400.png" group-title="COSTA RICA",Colosal TV
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="jq6sU9MX.png" group-title="COSTA RICA",Tele Uno TV
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="-" group-title="COSTA RICA",SMO TV
+rtmp://199.217.118.90:1935/smotv/stream
+
+#EXTINF:0, [COLOR cyan][B]== NICARAGUA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 13 de Nicaragua (Viva Nicaragua)" tvg-name="Canal 13 de Nicaragua (Viva Nicaragua)" tvg-logo="Viva Nicaragua (Canal 13)" group-title="NICARAGUA",Viva Nicaragua (Canal 13)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 2 de Nicaragua (Televicentro)" tvg-name="Canal 2 de Nicaragua (Televicentro)" tvg-logo="Televicentro (Canal 2)" group-title="NICARAGUA",Televicentro (Canal 2)
+http://104.131.200.207/genius/playkodi.php?lib=3286944
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Canal 4.jpg" group-title="NICARAGUA",Canal 4
+http://72.46.226.61/live01/canal41/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== ECUADOR ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Rts_logo.png" group-title="ECUADOR",RTS Ecuador
+http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Televisión Nacional" group-title="ECUADOR",Televisión Nacional
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Q" group-title="ECUADOR",UCSG TV
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+
+#EXTINF:0, [COLOR cyan][B]== URUGUAY ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal U" tvg-name="Canal U" tvg-logo="Canal U" group-title="URUGUAY",Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Once" tvg-name="Canal Once" tvg-logo="Canal Once" group-title="URUGUAY",Canal Once
+http://q.gs/9830047/onceuuruguaytodokodim3u8
+
+#EXTINF:0, [COLOR cyan][B]== REP. DOMINICANA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal 7 de Antena Latina (República Dominicana)" tvg-logo="Antena Latina" group-title="REP. DOMINICANA",Antena Latina
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 15 (Digital Quince Telemicro) (República Dominicana)" tvg-name="Canal 15 (Digital Quince Telemicro) (República Dominicana)" tvg-logo="Digital 15" group-title="REP. DOMINICANA",Digital 15
+https://5315e9fe566ea.streamlock.net/live5/telemicro1515_2_96/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Canal 2 de Tele Antillas (República Dominicana)" tvg-logo="Tele Antillas" group-title="REP. DOMINICANA",Tele Antillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 29 de TeleUniverso (República Dominicana)" tvg-name="Canal 29 de TeleUniverso (República Dominicana)" tvg-logo="TeleUniverso 29" group-title="REP. DOMINICANA",TeleUniverso 29
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal 37 de CDN (República Dominicana)" tvg-name="Canal 37 de CDN (República Dominicana)" tvg-logo="CDN 37" group-title="REP. DOMINICANA",CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal CDN-SportsMax" tvg-name="Canal CDN-SportsMax" tvg-logo="CDN SportMax" group-title="REP. DOMINICANA",CDN SportMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Telesistema 11 (República Dominicana)" tvg-name="Canal Telesistema 11 (República Dominicana)" tvg-logo="Telesistema 11" group-title="REP. DOMINICANA",Telesistema 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Lunavision Canal 10" group-title="REP. DOMINICANA",Lunavision Canal 10
+http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="musavision.jpg" group-title="REP. DOMINICANA",Musavisión
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="peravia-vision.jpg" group-title="REP. DOMINICANA",PeraviaVision 8
+http://ss7.domint.net:1966/pr_str/peravia/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Telefuturo_py.png" group-title="REP. DOMINICANA",Telefuturo 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="CERTV_logo.jpg" group-title="REP. DOMINICANA",Certv
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Romana TV" group-title="REP. DOMINICANA",Romana TV
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Telenord.jpg" group-title="REP. DOMINICANA",Telenord
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Telemicro-5-Logo.jpg" group-title="REP. DOMINICANA",Telemicro 5
+https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== PANAMÁ ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="SerTV-Panama-Logo.jpg" group-title="PANAMÁ",Ser TV
+rtmp://216.224.177.132/live/sertv
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="channels-page-_0001_cb-24.png" group-title="GUATEMALA",CB24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="rpc.jpg" group-title="PANAMÁ",RPC
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Telemetro" group-title="PANAMÁ",Telemetro
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="WZqGHADX.jpeg" group-title="PANAMÁ",Cable Onda Sports
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="CDN-SportsMix-Logo.jpg" group-title="PANAMÁ",CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="Cable Onda Sports 2 " group-title="PANAMÁ",Cable Onda Sports 2 
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Z" tvg-name="Z" tvg-logo="1uHiItmG.jpeg" group-title="PANAMÁ",Eco TV
+http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="091305d9-a49e-46a0-9bcb-d234ce00452e.png" group-title="PANAMÁ",Nex TV
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="TV Blast" group-title="PANAMÁ",TV Blast
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+
+#EXTINF:0, [COLOR cyan][B]== OTROS CANALES ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Anime 24H" tvg-name="Anime 24H" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES",Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES",Anime 2
+http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",Los Simpsons
+http://iptvnation.com/simpsonslat.mp4
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",The Simpsons USA
+http://iptvnation.com/simpsons.mp4 
