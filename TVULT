@@ -1,0 +1,180 @@
+#EXTM3U 
+#EXTINF:-1, [COLOR cyan]Actualizado 6/2/2016 @ 7:00 PM  [/COLOR]    
+
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://t.tvultimate.mx/channel-fox
+ 
+#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
+http://t.tvultimate.mx/channel-fx
+ 
+#EXTINF:-1 tvg-logo="sony.png",Sony HD
+http://t.tvultimate.mx/channel-sony
+ 
+#EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports
+http://t.tvultimate.mx/channel-fox-sports
+ 
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN HD
+http://t.tvultimate.mx/channel-espn
+ 
+#EXTINF:-1 tvg-logo="espn 2.png",ESPN2
+http://t.tvultimate.mx/channel-espn2
+ 
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN3
+http://t.tvultimate.mx/1S7I3wn
+ 
+#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
+http://t.tvultimate.mx/1UUi75k
+ 
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
+http://t.tvultimate.mx/1SUXEOP
+ 
+#EXTINF:-1 tvg-logo="foro tv HD.png",Foro TV
+http://t.tvultimate.mx/23QqDs5
+ 
+#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
+http://t.tvultimate.mx/1PeFoNF
+ 
+#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
+http://t.tvultimate.mx/1nVclGh
+ 
+#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV
+http://t.tvultimate.mx/1mkWEX8
+ 
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
+http://t.tvultimate.mx/1NXwRKZ
+ 
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once
+http://t.tvultimate.mx/1ogCS0y
+ 
+#EXTINF:-1 tvg-logo="tvultimate.png",CADENA 3
+http://t.tvultimate.mx/1PHBEpv
+ 
+#EXTINF:-1 tvg-logo="tvultimate.png",CANAL 52 MX
+http://t.tvultimate.mx/1QknW8o
+ 
+#EXTINF:-1 tvg-logo="wobi tv.png",WOBI TV
+http://t.tvultimate.mx/1SUXPJM
+ 
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime
+http://t.tvultimate.mx/1Q0AS2J
+ 
+#EXTINF:-1 tvg-logo="fox life.png",Fox Life
+http://t.tvultimate.mx/1nPZAfr
+ 
+#EXTINF:-1 tvg-logo="!e.png",E! 
+http://t.tvultimate.mx/1S7Imr4
+ 
+#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+http://t.tvultimate.mx/1T5NXhN
+ 
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+http://t.tvultimate.mx/1PeFCV9
+ 
+#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+http://t.tvultimate.mx/1W0haZm
+ 
+#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
+http://t.tvultimate.mx/1Qko3AA
+ 
+#EXTINF:-1 tvg-logo="history hd.png",History
+http://t.tvultimate.mx/1UUiw7J
+ 
+#EXTINF:-1 tvg-logo="tvultimate.png",TYC SPORTS
+http://t.tvultimate.mx/1QNQNV9
+ 
+#EXTINF:-1 tvg-logo="tvultimate.png",CANAL DHE
+http://t.tvultimate.mx/1S7Iu9Y
+ 
+#EXTINF:-1 tvg-logo="tvultimate.png",MILENIO TELEVISION
+http://t.tvultimate.mx/1K5IXXS
+ 
+#EXTINF:-1 tvg-logo="golden.png",Golden HD
+http://t.tvultimate.mx/1Q0B2Hq
+ 
+#EXTINF:-1,CINE LATINO
+http://t.tvultimate.mx/1nVcARH
+ 
+#EXTINF:0 tvg-logo="unicable.png",Unicable
+http://t.tvultimate.mx/1nVcz0j
+ 
+#EXTINF:-1 tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
+http://t.tvultimate.mx/1TLr1nh
+ 
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+http://t.tvultimate.mx/1Q2ME2P
+ 
+#EXTINF:-1 tvg-logo="ritmoson latino.png",Ritmoson Latino
+http://t.tvultimate.mx/1Xb6ybt
+ 
+#EXTINF:-1 tvg-logo="telehit hd.png",Telehit
+http://tv-ultimate.ddns.net/telehit.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Sports 1
+http://tvultimate5.ddns.net/liveedge3/skysp1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Sports 2
+http://tvultimate5.ddns.net/liveedge3/skysp2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Sports 3
+http://tvultimate5.ddns.net/liveedge3/skysp3.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Sports 4
+http://tvultimate5.ddns.net/liveedge3/skysp4.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Sports 5
+http://tvultimate5.ddns.net/liveedge3/skysp5.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Sports F1
+http://tvultimate5.ddns.net/liveedge3/skyspf1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",BT Sport 1
+http://tvultimate5.ddns.net/liveedge3/bt1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",BT Sport 2
+http://tvultimate5.ddns.net/liveedge3/bt2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Premier Sports
+http://tvultimate5.ddns.net/liveedge3/premier.stream/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Setanta Sport
+http://tvultimate5.ddns.net/liveedge3/setanta.stream/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Motors TV
+http://tvultimate5.ddns.net/liveedge3/motors.stream/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Eurosport 1
+http://tvultimate5.ddns.net/liveedge3/eurosport.stream/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Eurosport 2
+http://tvultimate5.ddns.net/liveedge3/eurosport2.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="tvultimate.png",Sky 1
+http://tvultimate5.ddns.net/liveedge3/sky1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky 2
+http://tvultimate5.ddns.net/liveedge3/sky2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",True Movies 1
+http://tvultimate5.ddns.net/liveedge/true1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",True Movies 2
+http://tvultimate5.ddns.net/liveedge/true2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
+http://tvultimate5.ddns.net/liveedge3/syfy.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Sci-Fi & Horror
+http://tvultimate5.ddns.net/liveedge3/movscifi.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Premiere
+http://tvultimate5.ddns.net/liveedge3/movpremier.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Greats
+http://tvultimate5.ddns.net/liveedge3/movgreats.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Comedy
+http://tvultimate5.ddns.net/liveedge3/movcomedy.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Action & Adventure
+http://tvultimate5.ddns.net/liveedge3/movaction.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Crime & Thriller
+http://tvultimate5.ddns.net/liveedge3/movthriller.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Disney
+http://tvultimate5.ddns.net/liveedge3/movdisney.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Drama & Romance
+http://tvultimate5.ddns.net/liveedge3/movdrama.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Showcase
+http://tvultimate5.ddns.net/liveedge3/movshowcase.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Family
+http://tvultimate5.ddns.net/liveedge3/movfamily.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Premiere
+http://tvultimate5.ddns.net/liveedge3/movpremier.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="tvultimate.png",Sky Movies Select
+http://tvultimate5.ddns.net/liveedge3/movselect.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
+http://tvultimate5.ddns.net/liveedge3/discovturbo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
+http://tvultimate5.ddns.net/liveedge3/shed.stream/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery science.png",Discovery Science
+http://tvultimate5.ddns.net/liveedge3/discovsci.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery History
+http://tvultimate5.ddns.net/liveedge3/discovhistory.stream/playlist.m3u8
