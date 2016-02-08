@@ -1,6 +1,12 @@
 #EXTM3U 
-#EXTINF:-1, [COLOR cyan]Actualizado 6/2/2016 @ 7:00 PM  [/COLOR]    
+#EXTINF:-1, [COLOR yellow]Actualizado 6/2/2016 @ 7:00 PM  (MEXICO)[/COLOR]    
+http://t.tvultimate.mx
 
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]TvUltimate[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
 
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
 http://t.tvultimate.mx/channel-fox
@@ -178,3 +184,8 @@ http://tvultimate5.ddns.net/liveedge3/shed.stream/stream/playlist.m3u8
 http://tvultimate5.ddns.net/liveedge3/discovsci.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="discovery channel.png",Discovery History
 http://tvultimate5.ddns.net/liveedge3/discovhistory.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Donacion por Paypal[/COLOR][COLOR red]--------------[/COLOR]
+http://tvultimate.mx
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR skyblue]Amor231120@hotmail.com[/COLOR][COLOR red]--------------[/COLOR]
+http://tvultimate.mx
