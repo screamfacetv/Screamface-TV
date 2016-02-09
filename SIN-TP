@@ -521,3 +521,553 @@ http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3
 http://iptvnation.com/simpsonslat.mp4
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",The Simpsons USA
 http://iptvnation.com/simpsons.mp4 
+
+
+
+
+
+#EXTINF:0, [COLOR cyan][B]== OTROS CANALES CABLE,PAISES,DEPORTES---->9FEB2016 ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTM3U
+
+#EXTINF:-1,AR:DUBAI_SPORT
+http://iptv-supplier.com:8000/live/98726/98726/123.ts
+#EXTINF:-1,AR:ADSPROT_1
+http://iptv-supplier.com:8000/live/98726/98726/103.ts
+#EXTINF:-1,AR:ADSPORT2_TV
+http://iptv-supplier.com:8000/live/98726/98726/44.ts
+#EXTINF:-1,AR:NILE_SPORT
+http://iptv-supplier.com:8000/live/98726/98726/37.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD1
+http://iptv-supplier.com:8000/live/98726/98726/26.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD2
+http://iptv-supplier.com:8000/live/98726/98726/27.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD3
+http://iptv-supplier.com:8000/live/98726/98726/28.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD4
+http://iptv-supplier.com:8000/live/98726/98726/29.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD5
+http://iptv-supplier.com:8000/live/98726/98726/30.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD6
+http://iptv-supplier.com:8000/live/98726/98726/31.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD7
+http://iptv-supplier.com:8000/live/98726/98726/32.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD8
+http://iptv-supplier.com:8000/live/98726/98726/33.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD9
+http://iptv-supplier.com:8000/live/98726/98726/34.ts
+#EXTINF:-1,AR:BEIN_SPORTSHD10
+http://iptv-supplier.com:8000/live/98726/98726/35.ts
+#EXTINF:-1,======FRENCH LIVE CHANNELS======
+#EXTINF:-1,FR:CANAL+SPORT
+http://iptv-supplier.com:8000/live/98726/98726/446.ts
+#EXTINF:-1,FR:CANAL+_DECALE
+http://iptv-supplier.com:8000/live/98726/98726/1825.ts
+#EXTINF:-1,FR:CANAL+SERIES
+http://iptv-supplier.com:8000/live/98726/98726/195.ts
+#EXTINF:-1,FR:CINE+PREMIER
+http://iptv-supplier.com:8000/live/98726/98726/207.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD1
+http://iptv-supplier.com:8000/live/98726/98726/190.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD2
+http://iptv-supplier.com:8000/live/98726/98726/191.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD3
+http://iptv-supplier.com:8000/live/98726/98726/192.ts
+#EXTINF:-1,=====UNITED KINGDOM LIVE CHANNELS=====
+#EXTINF:-1,UK:DISNEY_JUNIOR
+http://iptv-supplier.com:8000/live/98726/98726/286.ts
+#EXTINF:-1,UK:NICKELODEON
+http://iptv-supplier.com:8000/live/98726/98726/288.ts
+#EXTINF:-1,UK:SKY_DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/98726/98726/950.ts
+#EXTINF:-1,UK:SKY_MOVIES_THRILLER
+http://iptv-supplier.com:8000/live/98726/98726/290.ts
+#EXTINF:-1,UK:SKY_MOVIES_SELECT
+http://iptv-supplier.com:8000/live/98726/98726/291.ts
+#EXTINF:-1,UK:SKY_MOVIES_PREMIERE
+http://iptv-supplier.com:8000/live/98726/98726/293.ts
+#EXTINF:-1,UK:SKY_MOVIES_MODERN_GREAT
+http://iptv-supplier.com:8000/live/98726/98726/295.ts
+#EXTINF:-1,UK:SKY_MOVIES_FAMILY
+http://iptv-supplier.com:8000/live/98726/98726/309.ts
+#EXTINF:-1,UK:SKY_MOVIES_DRAMA_ROMANCE
+http://iptv-supplier.com:8000/live/98726/98726/299.ts
+#EXTINF:-1,UK:SKY_MOVIES_COMEDY
+http://iptv-supplier.com:8000/live/98726/98726/311.ts
+#EXTINF:-1,UK:SKY_MOVIES_ACTION
+http://iptv-supplier.com:8000/live/98726/98726/300.ts
+#EXTINF:-1,UK:TRUE_MOVIES2
+http://iptv-supplier.com:8000/live/98726/98726/1399.ts
+#EXTINF:-1,UK:CBS_DRAMA
+http://iptv-supplier.com:8000/live/98726/98726/1398.ts
+#EXTINF:-1,UK:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/98726/98726/1400.ts
+#EXTINF:-1,UK:SKY_ATLANTIC_HD
+http://iptv-supplier.com:8000/live/98726/98726/306.ts
+#EXTINF:-1,UK:TRUE_MOVIES1
+http://iptv-supplier.com:8000/live/98726/98726/287.ts
+#EXTINF:-1,UK:ANIMAL_PALNET
+http://iptv-supplier.com:8000/live/98726/98726/314.ts
+#EXTINF:-1,UK:NATIONAL_GEOGRAPHY
+http://iptv-supplier.com:8000/live/98726/98726/312.ts
+#EXTINF:-1,UK:DISCOVERY
+http://iptv-supplier.com:8000/live/98726/98726/313.ts
+#EXTINF:-1,UK:HISTORY_CHANNEL
+http://iptv-supplier.com:8000/live/98726/98726/284.ts
+#EXTINF:-1,UK:LIVING
+http://iptv-supplier.com:8000/live/98726/98726/319.ts
+#EXTINF:-1,UK:BT_SPORTS_2HD
+http://iptv-supplier.com:8000/live/98726/98726/281.ts
+#EXTINF:-1,UK:BT_SPORTS_1HD
+http://iptv-supplier.com:8000/live/98726/98726/282.ts
+#EXTINF:-1,UK:BOX_NATION
+http://iptv-supplier.com:8000/live/98726/98726/280.ts
+#EXTINF:-1,UK:ESPN_HD
+http://iptv-supplier.com:8000/live/98726/98726/279.ts
+#EXTINF:-1,UK:SKY_SPORTS_NEWS
+http://iptv-supplier.com:8000/live/98726/98726/271.ts
+#EXTINF:-1,UK:SKY_SPORTS_F1HD
+http://iptv-supplier.com:8000/live/98726/98726/272.ts
+#EXTINF:-1,UK:SKY_SPORTS_1HD
+http://iptv-supplier.com:8000/live/98726/98726/275.ts
+#EXTINF:-1,UK:SKY_SPORTS_2HD
+http://iptv-supplier.com:8000/live/98726/98726/274.ts
+#EXTINF:-1,UK:SKY_SPORTS_3HD
+http://iptv-supplier.com:8000/live/98726/98726/273.ts
+#EXTINF:-1,UK:SKY_SPORTS_4HD
+http://iptv-supplier.com:8000/live/98726/98726/776.ts
+#EXTINF:-1,UK:SKY_SPORTS_5HD
+http://iptv-supplier.com:8000/live/98726/98726/777.ts
+#EXTINF:-1,>>>>>ENGLISH MOVIES>>>>>
+http://iptv-supplier.com:8000/movie/98726/98726/2151.mkv
+#EXTINF:-1,VO:The.Revenant
+http://iptv-supplier.com:8000/movie/98726/98726/2150.mp4
+#EXTINF:-1,VO:The.Last.Witch.Hunter
+http://iptv-supplier.com:8000/movie/98726/98726/2148.mp4
+#EXTINF:-1,VO:The.Hateful.Eight
+http://iptv-supplier.com:8000/movie/98726/98726/2149.mp4
+#EXTINF:-1,VO:Spectre
+http://iptv-supplier.com:8000/movie/98726/98726/2147.mp4
+#EXTINF:-1,VO:Ride.Along.2
+http://iptv-supplier.com:8000/movie/98726/98726/2146.mp4
+#EXTINF:8233,Fast.and.Furious.7.2015.HC.720p.HDTV.1GB.MkvCage
+http://213.136.90.30:8000/movie/test/test/10330.mkv
+#EXTINF:0,(M) (2016) Terminus
+http://213.136.90.30:8000/movie/test/test/10828.mkv
+#EXTINF:0,(M) (2015) Jurassic World
+http://213.136.90.30:8000/movie/test/test/7907.mkv
+#EXTINF:0,(M) (2015) Spectre
+http://213.136.90.30:8000/movie/test/test/9794.mkv
+#EXTINF:0,(M) (2015) San Andreas
+http://213.136.90.30:8000/movie/test/test/6853.mkv
+#EXTINF:0,(M) (2015) Ronaldo
+http://213.136.90.30:8000/movie/test/test/8333.mkv
+#EXTINF:0,(M) (2015) Southpaw
+http://213.136.90.30:8000/movie/test/test/7909.mkv
+#EXTINF:-1,======GERMANY LIVE CHANNELS======
+http://iptv-supplier.com:8000/live/98726/98726/451.ts
+#EXTINF:-1,DE:RTL
+http://iptv-supplier.com:8000/live/98726/98726/377.ts
+#EXTINF:-1,DE:ZDF
+http://iptv-supplier.com:8000/live/98726/98726/372.ts
+#EXTINF:-1,DE:TNT_SERIE
+http://iptv-supplier.com:8000/live/98726/98726/376.ts
+#EXTINF:-1,DE:ORF2
+http://iptv-supplier.com:8000/live/98726/98726/374.ts
+#EXTINF:-1,DE:SIXX
+http://iptv-supplier.com:8000/live/98726/98726/1500.ts
+#EXTINF:-1,DE:VOX
+http://iptv-supplier.com:8000/live/98726/98726/2005.ts
+#EXTINF:-1,DE:SUPER_RTL
+http://iptv-supplier.com:8000/live/98726/98726/2004.ts
+#EXTINF:-1,DE:SAT1
+http://iptv-supplier.com:8000/live/98726/98726/2006.ts
+#EXTINF:-1,DE:RTL2
+http://iptv-supplier.com:8000/live/98726/98726/2003.ts
+#EXTINF:-1,DE:NICKELODEON
+http://iptv-supplier.com:8000/live/98726/98726/2007.ts
+#EXTINF:-1,DE:ORF1
+http://iptv-supplier.com:8000/live/98726/98726/2011.ts
+#EXTINF:-1,DE:PRO7
+http://iptv-supplier.com:8000/live/98726/98726/1501.ts
+#EXTINF:-1,DE:KABEL1
+http://iptv-supplier.com:8000/live/98726/98726/1506.ts
+#EXTINF:-1,DE:ARTE
+http://iptv-supplier.com:8000/live/98726/98726/1508.ts
+#EXTINF:-1,DE:KIKA
+http://iptv-supplier.com:8000/live/98726/98726/378.ts
+#EXTINF:-1,DE:SKY_CINEMA+1
+http://iptv-supplier.com:8000/live/98726/98726/371.ts
+#EXTINF:-1,DE:SKY_CINEMA_24HD
+http://iptv-supplier.com:8000/live/98726/98726/361.ts
+#EXTINF:-1,DE:SKY_ATLANTIC
+http://iptv-supplier.com:8000/live/98726/98726/362.ts
+#EXTINF:-1,DE:SKY_EMOTION
+http://iptv-supplier.com:8000/live/98726/98726/360.ts
+#EXTINF:-1,DE:SKY_COMEDY
+http://iptv-supplier.com:8000/live/98726/98726/370.ts
+#EXTINF:-1,DE:SKY_SELECT6
+http://iptv-supplier.com:8000/live/98726/98726/363.ts
+#EXTINF:-1,DE:SKY_SELECT5
+http://iptv-supplier.com:8000/live/98726/98726/364.ts
+#EXTINF:-1,DE:SKY_SELECT4
+http://iptv-supplier.com:8000/live/98726/98726/365.ts
+#EXTINF:-1,DE:SKY_SELECT3
+http://iptv-supplier.com:8000/live/98726/98726/366.ts
+#EXTINF:-1,DE:SKY_SELECT2
+http://iptv-supplier.com:8000/live/98726/98726/367.ts
+#EXTINF:-1,DE:SKY_SELECT1
+http://iptv-supplier.com:8000/live/98726/98726/368.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_HD
+http://iptv-supplier.com:8000/live/98726/98726/359.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD1
+http://iptv-supplier.com:8000/live/98726/98726/357.ts
+#EXTINF:-1,DE:SKY_SPORTS_HD2
+http://iptv-supplier.com:8000/live/98726/98726/358.ts
+#EXTINF:-1,DE:Sky_KRIMI
+http://iptv-supplier.com:8000/live/98726/98726/942.ts
+#EXTINF:-1,DE:SKY_HITS
+http://iptv-supplier.com:8000/live/98726/98726/369.ts
+#EXTINF:-1,DE:13TH_STREETHD
+http://iptv-supplier.com:8000/live/98726/98726/946.ts
+#EXTINF:-1,DE:SYFY
+http://iptv-supplier.com:8000/live/98726/98726/945.ts
+#EXTINF:-1,DE:NATGEO_WILD
+http://iptv-supplier.com:8000/live/98726/98726/943.ts
+#EXTINF:-1,DE:HISTORYHD
+http://iptv-supplier.com:8000/live/98726/98726/944.ts
+#EXTINF:-1,DE:NATGEO
+http://iptv-supplier.com:8000/live/98726/98726/375.ts
+#EXTINF:-1,------ DEUTSCHLAND ------
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/924.ts
+#EXTINF:-1,DE - ARD HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1581.ts
+#EXTINF:-1,DE - ZDF HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1582.ts
+#EXTINF:-1,DE - PRO 7 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/840.ts
+#EXTINF:-1,DE - Pro 7 Maxx
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1000.ts
+#EXTINF:-1,DE - VOX HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/852.ts
+#EXTINF:-1,DE - SAT 1 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/971.ts
+#EXTINF:-1,DE - RTL HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/855.ts
+#EXTINF:-1,DE - RTL 2 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/854.ts
+#EXTINF:-1,DE - RTL Super HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/851.ts
+#EXTINF:-1,DE - RTL Nitro HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/853.ts
+#EXTINF:-1,DE - A & E
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1716.ts
+#EXTINF:-1,DE - KABEL 1 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/972.ts
+#EXTINF:-1,DE - SIXX HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1731.ts
+#EXTINF:-1,DE - Arte HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1654.ts
+#EXTINF:-1,DE - NDR HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1736.ts
+#EXTINF:-1,DE - 3SAT HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1656.ts
+#EXTINF:-1,DE - WDR HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1655.ts
+#EXTINF:-1,DE - N-TV HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/856.ts
+#EXTINF:-1,DE - ORF 1 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/849.ts
+#EXTINF:-1,DE - ORF 2 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/850.ts
+#EXTINF:-1,------ KINO ------
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/933.ts
+#EXTINF:-1,DE - Sky Cinema HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/144.ts
+#EXTINF:-1,DE - Sky Cinema +1
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1388.ts
+#EXTINF:-1,DE - Sky Cinema +24 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/553.ts
+#EXTINF:-1,DE - Sky Action HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/143.ts
+#EXTINF:-1,DE - Sky Hits HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1497.ts
+#EXTINF:-1,DE - Sky Emotion
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/552.ts
+#EXTINF:-1,DE - Sky Comedy
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/145.ts
+#EXTINF:-1,------ UNTERHALTUNG ------
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/932.ts
+#EXTINF:-1,DE - Sky Atlantic HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/258.ts
+#EXTINF:-1,DE - Fox HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1484.ts
+#EXTINF:-1,DE - AXN HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/841.ts
+#EXTINF:-1,DE - 13th Street HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/857.ts
+#EXTINF:-1,DE - TNT Film HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/863.ts
+#EXTINF:-1,DE - TNT Serie HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/864.ts
+#EXTINF:-1,DE - MGM HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1485.ts
+#EXTINF:-1,DE - SyFy HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1660.ts
+#EXTINF:-1,DE - Sky Krimi
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1732.ts
+#EXTINF:-1,------- SPORT -------
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/930.ts
+#EXTINF:-1,DE - Sky Sport 1 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/139.ts
+#EXTINF:-1,DE - Sky Sport 2 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/140.ts
+#EXTINF:-1,DE - Sky Bundesliga 1 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/138.ts
+#EXTINF:-1,DE - Sky Bundesliga 2 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/2006.ts
+#EXTINF:-1,DE - Sky Bundesliga 3 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/2007.ts
+#EXTINF:-1,DE - Sky Bundesliga 4 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/2008.ts
+#EXTINF:-1,DE - Eurosport HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/860.ts
+#EXTINF:-1,------- OnDemand DE -------
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1653.mkv
+#EXTINF:-1,DE - John Wick
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2578.mkv
+#EXTINF:-1,DE - HD Pixels
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1478.mkv
+#EXTINF:-1,DE - HD Selfless Der Fremde in mir
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1474.mkv
+#EXTINF:-1,DE - HD Mission Impossible Rogue Nation
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1477.mkv
+#EXTINF:-1,DE - HD Southpaw
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1481.mkv
+#EXTINF:-1,DE - Die Entfuehrung von Bus 667
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1475.mkv
+#EXTINF:-1,DE - HD Ant-Man
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1476.mkv
+#EXTINF:-1,DE - HD James Bond 007 Spectre
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1479.mkv
+#EXTINF:-1,DE - Der Marsianer
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1480.mkv
+#EXTINF:-1,DE - The Transporter
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1482.mkv
+#EXTINF:-1,DE - True Story Spiel Um Macht
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2547.mkv
+#EXTINF:-1,DE - The Vatican Tapes
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2546.mkv
+#EXTINF:-1,DE - Slow West
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2545.mkv
+#EXTINF:-1,DE - Ostwind 2
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2544.mkv
+#EXTINF:-1,DE - Gefuehlt Mitte Zwanzig
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2541.mkv
+#EXTINF:-1,DE - Es Ist kompliziert
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2540.mkv
+#EXTINF:-1,DE - Die Luegen Der Sieger
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2539.mkv
+#EXTINF:-1,DE - Alles Ist Liebe
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2538.mkv
+#EXTINF:-1,DE - The Nightmare
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2530.mkv
+#EXTINF:-1,DE - The Gunfighters Blunt Force Trauma
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2529.mkv
+#EXTINF:-1,DE - Testament Of Youth
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2521.mkv
+#EXTINF:-1,DE - Sicario
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2520.mkv
+#EXTINF:-1,DE - Ricki Wie Familie So Ist
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2519.mkv
+#EXTINF:-1,DE - Maggie
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2518.mkv
+#EXTINF:-1,DE - Dirty Trip Ein Dreckiger Trip
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2516.mkv
+#EXTINF:-1,DE - Die Tribute Von Panem Mockingjay Teil 2
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2515.mkv
+#EXTINF:-1,DE - Die Peanuts - Der Film
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2514.mkv
+#EXTINF:-1,DE - Der Unbestechliche - Moerderisches Marseille
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2512.mkv
+#EXTINF:-1,DE - Der Auftrag - Fuer Einen Letzten Coup Ist Es Nie Zu Spaet
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2511.mkv
+#EXTINF:-1,DE - Codename U.N.C.L.E
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2510.mkv
+#EXTINF:-1,DE - Bridge Of Spies - Der Unterhaendler
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2509.mkv
+#EXTINF:-1,DE - Big Game
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2508.mkv
+#EXTINF:-1,DE - Arlo Und Spot
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2507.mkv
+#EXTINF:-1,DE - Tinkerbell Und Die Legende Vom Nimmerbiest
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2268.mkv
+#EXTINF:-1,DE - Terminator Genisys
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2272.mkv
+#EXTINF:-1,DE - Ted 2
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2266.mkv
+#EXTINF:-1,DE - Survivor
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2267.mkv
+#EXTINF:-1,DE - San Andreas
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2270.mkv
+#EXTINF:-1,DE - Pixels
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2269.mkv
+#EXTINF:-1,DE - Momentum
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2273.mkv
+#EXTINF:-1,DE - Minions
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2271.mkv
+#EXTINF:-1,DE - Insidious Chapter 3 Jede Geschichte hat einen Anfang
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2274.mkv
+#EXTINF:-1,DE - The Interview
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2148.mkv
+#EXTINF:-1,DE - The Imitation Game Ein streng geheimes streng
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2147.mkv
+#EXTINF:-1,DE - St. Vincent
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2146.mkv
+#EXTINF:-1,DE - Shaun das Schaf Der Film
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2145.mkv
+#EXTINF:-1,DE - Robot Overlords Herrschaft der Maschinen
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2144.mkv
+#EXTINF:-1,DE - Liebe geht seltsame Wege
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2140.mkv
+#EXTINF:-1,DE - Good Kill aus der Luft
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2139.mkv
+#EXTINF:-1,DE - Fantastic Four
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2138.mkv
+#EXTINF:-1,DE - Exodus Goetter und Koenige
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2136.mkv
+#EXTINF:-1,DE - Die Muettermafia Patin
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2134.mkv
+#EXTINF:-1,DE - Der Kaufhauscop 2
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2133.mkv
+#EXTINF:-1,DE - Black Sea
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2131.mkv
+#EXTINF:-1,DE - Best Exotic Marigold Hotel 2
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2130.mkv
+#EXTINF:-1,DE - Batman vs Robin
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2129.mkv
+#EXTINF:-1,DE - Asterix im Land der Goetter
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2120.mkv
+#EXTINF:-1,DE - American Heist Der Coup des Lebens
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2119.mkv
+#EXTINF:-1,DE - A Most Violent Year
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/2118.mkv
+#EXTINF:-1,DE - Wild Card
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1995.mkv
+#EXTINF:-1,DE - Jupiter Ascending
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1991.mkv
+#EXTINF:-1,DE - Home Ein Smektakulärer Trip
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1994.mkv
+#EXTINF:-1,DE - Focus
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1996.mkv
+#EXTINF:-1,DE - Mad Max: Fury Road
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1838.mkv
+#EXTINF:-1,DE - Chappie
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1840.mkv
+#EXTINF:-1,DE - Kein System ist sicher
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1843.mkv
+#EXTINF:-1,DE - Paddington
+http://spirit01.webhop.me:8000/movie/MACEqUndWN/6nEIMkwSrH/1845.mkv
+#EXTINF:-1,=====SPANISH LIVE CHANNELS=====
+http://iptv-supplier.com:8000/live/98726/98726/488.ts
+#EXTINF:-1,ES:CANAL_1
+http://iptv-supplier.com:8000/live/98726/98726/479.ts
+#EXTINF:-1,ES:CANAL_2
+http://iptv-supplier.com:8000/live/98726/98726/480.ts
+#EXTINF:-1,ES:CANAL_TOROS
+http://iptv-supplier.com:8000/live/98726/98726/385.ts
+#EXTINF:-1,ES:CANAL_LIGA
+http://iptv-supplier.com:8000/live/98726/98726/386.ts
+#EXTINF:-1,ES:CANAL_GOLF
+http://iptv-supplier.com:8000/live/98726/98726/387.ts
+#EXTINF:-1,ES:CANAL_FUTBOL
+http://iptv-supplier.com:8000/live/98726/98726/388.ts
+#EXTINF:-1,ES:CANAL+_DEPORTES
+http://iptv-supplier.com:8000/live/98726/98726/2036.ts
+#EXTINF:-1,ES:CANAL_DE_LASESTRELLAS
+http://iptv-supplier.com:8000/live/98726/98726/1856.ts
+#EXTINF:-1,ES:LA_SEXTA
+http://iptv-supplier.com:8000/live/98726/98726/382.ts
+#EXTINF:-1,ES:REAL_MADRID
+http://iptv-supplier.com:8000/live/98726/98726/1662.ts
+#EXTINF:-1,ES:Barça
+http://iptv-supplier.com:8000/live/98726/98726/484.ts
+#EXTINF:-1,ES:La2
+http://iptv-supplier.com:8000/live/98726/98726/1666.ts
+#EXTINF:-1,ES:La1
+http://iptv-supplier.com:8000/live/98726/98726/1667.ts
+#EXTINF:-1,ES:CLAN_TVE
+http://iptv-supplier.com:8000/live/98726/98726/1676.ts
+#EXTINF:-1,ES:CANAL_13
+http://iptv-supplier.com:8000/live/98726/98726/969.ts
+#EXTINF:-1,ES:BEIN_SPORTS
+http://iptv-supplier.com:8000/live/98726/98726/486.ts
+#EXTINF:-1,=====TURKISH LIVE CHANNELS=====
+http://iptv-supplier.com:8000/live/98726/98726/455.ts
+#EXTINF:-1,TR:ATV
+http://iptv-supplier.com:8000/live/98726/98726/415.ts
+#EXTINF:-1,TR:KANALD
+http://iptv-supplier.com:8000/live/98726/98726/398.ts
+#EXTINF:-1,TR:KANAL7
+http://iptv-supplier.com:8000/live/98726/98726/917.ts
+#EXTINF:-1,TR:SHOW_TV
+http://iptv-supplier.com:8000/live/98726/98726/394.ts
+#EXTINF:-1,TR:KANAL_TURK
+http://iptv-supplier.com:8000/live/98726/98726/393.ts
+#EXTINF:-1,TR:FOX_HD
+http://iptv-supplier.com:8000/live/98726/98726/1834.ts
+#EXTINF:-1,TR:STARTV
+http://iptv-supplier.com:8000/live/98726/98726/407.ts
+#EXTINF:-1,TUR - Salon 1 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1157.ts
+#EXTINF:-1,TUR - Salon 2 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1158.ts
+#EXTINF:-1,TUR - Salon 3 HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1159.ts
+#EXTINF:-1,TUR - MovieSmart Premium HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1164.ts
+#EXTINF:-1,TUR - MovieSmart Türk HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1165.ts
+#EXTINF:-1,TUR - MovieMax Oscars HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1166.ts
+#EXTINF:-1,TUR - MovieSmart Family HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1167.ts
+#EXTINF:-1,TUR - MovieSmart Gold HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1168.ts
+#EXTINF:-1,TUR - MOViEMAX FAMiLY
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1169.ts
+#EXTINF:-1,TUR - SPOR SMART HD
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1186.ts
+#EXTINF:-1,TUR - LIG TV 1
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1183.ts
+#EXTINF:-1,TUR - LIG TV 2
+http://spirit01.webhop.me:8000/live/MACEqUndWN/6nEIMkwSrH/1182.ts
+#EXTINF:-1,=====USA LIVE CHANNELS=====
+http://iptv-supplier.com:8000/live/98726/98726/1914.ts
+#EXTINF:-1,US:NBC
+http://iptv-supplier.com:8000/live/98726/98726/2170.ts
+#EXTINF:-1,US:NBA
+http://iptv-supplier.com:8000/live/98726/98726/2177.ts
+#EXTINF:-1,US:HBO_ZONE
+http://iptv-supplier.com:8000/live/98726/98726/2175.ts
+#EXTINF:-1,US:HBO_SIGNATURE
+http://iptv-supplier.com:8000/live/98726/98726/2176.ts
+#EXTINF:-1,US:ESPN2
+http://iptv-supplier.com:8000/live/98726/98726/2179.ts
+#EXTINF:-1,US:FOX_SPORT2
+http://iptv-supplier.com:8000/live/98726/98726/2180.ts
+#EXTINF:-1,US:FOX_SPORT1
+http://iptv-supplier.com:8000/live/98726/98726/2181.ts
+#EXTINF:-1,US:FOX5
+http://iptv-supplier.com:8000/live/98726/98726/2171.ts
+#EXTINF:-1,US:CBS
+http://iptv-supplier.com:8000/live/98726/98726/2168.ts
+#EXTINF:-1,US:BRAVO
+http://iptv-supplier.com:8000/live/98726/98726/2174.ts
+#EXTINF:-1,US:BEIN_US
+http://iptv-supplier.com:8000/live/98726/98726/2041.ts
+#EXTINF:-1,US:AMC
+http://iptv-supplier.com:8000/live/98726/98726/2172.ts
+#EXTINF:-1,US:ABC
+http://iptv-supplier.com:8000/live/98726/98726/2169.ts
