@@ -1,5 +1,5 @@
 #EXTM3U tvg-shift=3
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2000px-Caracol_TV_HD_logo.svg.png",Caracol HD
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2000px-Caracol_TV_HD_logo.svg.png",Caracol 
 http://latino-webtv.ml/7878/caracol.m3u8
 
 #EXTINF:-1 tvg-logo="http://i57.tinypic.com/72vdr4.jpg",Win Sports HD
