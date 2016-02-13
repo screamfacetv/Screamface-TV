@@ -139,3 +139,6 @@ http://213.136.73.41/8748/308.m3u8
 
 #EXTINF:-1tvg-logo="http://www.unicablemargarita.com/images/channel/tlnovelas.jpg" type="CANAL",TELENOVELAS
 http://213.136.73.41/8748/275.m3u8
+
+#EXTINF:-1tvg-logo="http://1.bp.blogspot.com/-RReM2X5dD5o/Ti_qy4F6AxI/AAAAAAAAABM/hItcEnEsZ1Y/s1600/axn_hd.png" type="CANAL",AXN
+http://213.136.73.41/8748/213.m3u8
