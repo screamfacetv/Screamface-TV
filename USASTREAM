@@ -1,5 +1,5 @@
 #EXTM3U
-
+<channel>
 
 <item>
 			<title>[COLOR dodgerblue][B] * [/B][/COLOR]ANIMAL PLANET US</title>
@@ -33,3 +33,4 @@
 			</regex> 
 			<thumbnail></thumbnail>
 </item>
+</channel>
