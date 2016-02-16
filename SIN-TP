@@ -7,8 +7,6 @@
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal NHK World" tvg-name="Canal NHK World" tvg-logo="NHK World" group-title="NOTICIAS",NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI CNN en español" tvg-name="CNN en español" tvg-logo="CNN En Español" group-title="NOTICIAS",CNN En Español
-http://162.243.77.230:9172/live/PlayKodiStream/PlayKodiStream/53.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Euronews" tvg-name="Euronews" tvg-logo="Euronews Español" group-title="NOTICIAS",Euronews Español
 http://104.131.200.207/genius/playkodi.php?lib=3284992
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal NTN24 (Nuestra Tele Noticias 24 Horas)" tvg-name="Canal NTN24 (Nuestra Tele Noticias 24 Horas)" tvg-logo="NTN 24" group-title="NOTICIAS",NTN 24
