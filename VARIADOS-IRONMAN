@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,----------PANAMÁ-----------
 #EXTINF:-1,COS 1 
 http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 #EXTINF:-1,COS 2 
@@ -11,7 +10,6 @@ http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1,CB24 
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-#EXTINF:-1,----------INFANTIL-----------
 #EXTINF:-1,CBeebies
 http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
 #EXTINF:-1,TIIN
@@ -48,7 +46,6 @@ http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
 http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/live.m3u8
 #EXTINF:-1,Ondaluz Sierra
 http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
-#EXTINF:-1,---------NOTICIAS----------
 http://tecnotv.net
 #EXTINF:-1,Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
@@ -72,7 +69,6 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 http://exabytetns.net/exabytetvv.dd.m3u8?can=telefórmula&cal=3
 #EXTINF:-1,Milenio TV
 http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-#EXTINF:-1,----------DEPORTE-----------
 #EXTINF:-1,Bein Sports 3 Francia
 http://evolive-tv.com:8000/live/genio/genio/67.m3u8
 #EXTINF:-1,Combate
@@ -85,7 +81,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1,Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-#EXTINF:-1,----------MUSICA-----------
 #EXTINF:-1,Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Heart TV (UK)
