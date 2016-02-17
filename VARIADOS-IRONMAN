@@ -9,7 +9,7 @@ http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1,RPC CANAL 4 
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,CB24 >
+#EXTINF:-1,CB24 
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1,----------INFANTIL-----------
 #EXTINF:-1,CBeebies
