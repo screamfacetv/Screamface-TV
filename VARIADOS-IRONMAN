@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,----------PANAMÁ-----------
-#EXTINF:-1,COS 1 >
+#EXTINF:-1,COS 1 
 http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 #EXTINF:-1,COS 2 
 http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
