@@ -27,7 +27,7 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZm
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/boomerang.png",Boomerang
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMjkmbGFuPTImcm93cz00MCZzZXNzaW9uPTdwYXpqbTdwaGt5eXl6bSZsYW49Mg==&f=.m3u8
 
-#EXTINF:-1, tvg-logo="http://latino-webtv.com/iptv/logos/canal%202%20HD.png",Canal 2
+#EXTINF:-1, Canal 2
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMyZsYW49MiZyb3dzPTQwJnNlc3Npb249N3BhemptN3Boa3l5eXptJmxhbj0y&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/proyecto%2040.png",Proyecto 40
