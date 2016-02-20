@@ -113,12 +113,6 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="tvultimate.png",Cbeebies 
-http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="tiin.png",TIIN
-http://104.131.117.246:8081/chuy/76/2154-Tiin/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Anime 24H" tvg-name="Anime 24H" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 
@@ -226,34 +220,34 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase
 #EXTINF:-1, NASA TV HD (720)
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,tvg-logo="pac12 network.png", PAC National HD 
+#EXTINF:-1, PAC National HD 
 http://xrxs.net/video/live-p12netw-2328.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png", PAC-12 Net HD Bay Area
+#EXTINF:-1, PAC-12 Net HD Bay Area
 http://xrxs.net/video/live-p12baya-2328.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png", PAC-12 Net HD Los Angeles
+#EXTINF:-1, PAC-12 Net HD Los Angeles
 http://xrxs.net/video/live-p12losa-2328.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png", PAC-12 Net HD Oregon
+#EXTINF:-1, PAC-12 Net HD Oregon
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 
 #EXTINF:-1,tvg-logo="pac12 network.png", Pac 12 Sport HD 1
 http://xrxs.net/video/live-p12netw-4728.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png",Pac 12 Sport HD 3
+#EXTINF:-1, Pac 12 Sport HD 3
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png",Pac 12 Sport HD 4
+#EXTINF:-1, Pac 12 Sport HD 4
 http://xrxs.net/video/live-p12ariz-4728.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png",Pac 12 Sport HD 5
+#EXTINF:-1, Pac 12 Sport HD 5
 http://xrxs.net/video/live-p12baya-4728.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png",Pac 12 Sport HD 6
+#EXTINF:-1, Pac 12 Sport HD 6
 http://xrxs.net/video/live-p12losa-4728.m3u8
 
-#EXTINF:-1,tvg-logo="pac12 network.png",Pac 12 Sport HD 7
+#EXTINF:-1, Pac 12 Sport HD 7
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:-1, Redbull TV
