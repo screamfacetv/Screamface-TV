@@ -117,7 +117,7 @@ https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZm
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/fox%201%20hd.png",FOX 1 HD
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yOTcmbGFuPTImcm93cz00MCZzZXNzaW9uPTdwYXpqbTdwaGt5eXl6bSZsYW49Mg==&f=.m3u8
 
-#EXTINF:-1,tvg-logo="http://latino-webtv.com/iptv/logos/fox%20action.png",FOX Action
+#EXTINF:-1, FOX Action
 https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMDEmbGFuPTImcm93cz00MCZzZXNzaW9uPTdwYXpqbTdwaGt5eXl6bSZsYW49Mg==&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/fox%20cinema.png",FOX Cinema
