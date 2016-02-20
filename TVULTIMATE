@@ -1,0 +1,290 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://tvultimate.mx/stream/tvultimate.php?id=85
+
+#EXTINF:-1 tvg-logo="sony.png",Sony HD
+http://tvultimate.mx/stream/tvultimate.php?id=89
+
+#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
+http://tvultimate.mx/stream/tvultimate.php?id=93
+
+#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
+http://tvultimate.mx/stream/tvultimate.php?id=97
+
+#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
+http://tvultimate.mx/stream/tvultimate.php?id=101
+
+#EXTINF:-1 tvg-logo="a&e.png",A&E 
+http://tvultimate.mx/stream/tvultimate.php?id=105
+
+#EXTINF:-1 tvg-logo="axn.png",AXN HD
+http://tvultimate.mx/stream/tvultimate.php?id=109
+
+#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
+http://tvultimate.mx/stream/tvultimate.php?id=113
+
+#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
+http://tvultimate.mx/stream/tvultimate.php?id=117
+
+#EXTINF:0 tvg-logo="unicable.png",Unicable
+http://tvultimate.mx/stream/tvultimate.php?id=121
+
+#EXTINF:-1 tvg-logo="bbc entertainment.png",BBC
+http://tvultimate.mx/stream/tvultimate.php?id=129
+
+#EXTINF:-1 tvg-logo="!e.png",E! 
+http://tvultimate.mx/stream/tvultimate.php?id=134
+
+#EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
+http://tvultimate.mx/stream/tvultimate.php?id=142
+
+#EXTINF:-1 tvg-logo="fx.png",FX
+http://tvultimate.mx/stream/tvultimate.php?id=101
+
+#EXTINF:-1 tvg-logo="id.png",ID
+http://tvultimate.mx/stream/tvultimate.php?id=154
+
+#EXTINF:-1 tvg-logo="infinito.png",TNT Series
+http://tvultimate.mx/stream/tvultimate.php?id=157
+
+#EXTINF:-1 tvg-logo="el gourmet.png",El Gourmet  
+http://tvultimate.mx/stream/tvultimate.php?id=162
+
+#EXTINF:-1 tvg-logo="glitz.png",Glitz
+http://tvultimate.mx/stream/tvultimate.php?id=166
+
+#EXTINF:-1 tvg-logo="fox life.png",Fox Life
+http://tvultimate.mx/stream/tvultimate.php?id=169
+
+#EXTINF:-1 tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
+http://tvultimate.mx/stream/tvultimate.php?id=174
+
+#EXTINF:-1 tvg-logo="tbs.png",TBS
+http://tvultimate.mx/stream/tvultimate.php?id=178
+
+#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas
+http://tvultimate.mx/stream/tvultimate.php?id=186
+
+#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
+http://tvultimate.mx/stream/tvultimate.php?id=195
+
+#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
+http://tvultimate.mx/stream/tvultimate.php?id=202
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Cbeebies 
+http://tvultimate.mx/stream/tvultimate.php?id=197
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Baby tv [COLOR red]Sin Señal[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=317
+
+#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
+http://tvultimate.mx/stream/tvultimate.php?id=206
+
+#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
+http://tvultimate.mx/stream/tvultimate.php?id=210
+
+#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
+http://tvultimate.mx/stream/tvultimate.php?id=466
+
+#EXTINF:-1 tvg-logo="nick hd.png",Nick HD [COLOR red]Sin Señal[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=315
+
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+http://tvultimate.mx/stream/tvultimate.php?id=218
+
+#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+http://tvultimate.mx/stream/tvultimate.php?id=222
+
+#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+http://tvultimate.mx/stream/tvultimate.php?id=226
+
+#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
+http://tvultimate.mx/stream/tvultimate.php?id=230
+
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+http://tvultimate.mx/stream/tvultimate.php?id=238
+
+#EXTINF:-1 tvg-logo="tiin.png",TIIN 
+http://tvultimate.mx/stream/tvultimate.php?id=234
+
+#EXTINF:-1 tvg-logo="discovery channel.png",DISCOVERY HD Teather 
+http://tvultimate.mx/stream/tvultimate.php?id=241
+
+#EXTINF:-1 tvg-logo="history hd.png",History
+http://tvultimate.mx/stream/tvultimate.php?id=245
+
+#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
+http://tvultimate.mx/stream/tvultimate.php?id=249
+
+#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
+http://tvultimate.mx/stream/tvultimate.php?id=290
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
+http://tvultimate.mx/stream/tvultimate.php?id=258
+#EXTINF:-1 tvg-logo="discovery channel.png",Discovery World
+http://tvultimate.mx/stream/tvultimate.php?id=253
+#EXTINF:-1 tvg-logo="animal planet.png",Animal Planet
+http://tvultimate.mx/stream/tvultimate.php?id=262
+#EXTINF:-1 tvg-logo="home and health.png",Home and Health
+http://tvultimate.mx/stream/tvultimate.php?id=266
+#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
+http://tvultimate.mx/stream/tvultimate.php?id=270
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime
+http://tvultimate.mx/stream/tvultimate.php?id=274
+#EXTINF:-1 tvg-logo="discovery science.png",Discovery Science
+http://tvultimate.mx/stream/tvultimate.php?id=278
+#EXTINF:-1 tvg-logo="discovery civilization.png",Discovery Civilization
+http://tvultimate.mx/stream/tvultimate.php?id=282
+#EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
+http://tvultimate.mx/stream/tvultimate.php?id=286
+
+#EXTINF:-1 tvg-logo="wobi tv.png",WOBI TV 
+http://tvultimate.mx/stream/tvultimate.php?id=294
+
+#EXTINF:-1 tvg-logo="fox 1 hd.png",Fox 1 HD
+http://tvultimate.mx/stream/tvultimate.php?id=297
+
+#EXTINF:-1 tvg-logo="fox action.png",Fox Action HD
+http://tvultimate.mx/stream/tvultimate.php?id=301
+
+#EXTINF:-1 tvg-logo="fox movies HD.png",Fox Movies HD
+http://tvultimate.mx/stream/tvultimate.php?id=305
+
+#EXTINF:-1 tvg-logo="fox cinema.png",Fox Cinéma 
+http://tvultimate.mx/stream/tvultimate.php?id=490
+
+#EXTINF:-1 tvg-logo="fox family.png",Fox Family
+http://tvultimate.mx/stream/tvultimate.php?id=342
+
+#EXTINF:-1 tvg-logo="fox classics.png",Fox Classics
+http://tvultimate.mx/stream/tvultimate.php?id=494
+
+#EXTINF:-1 tvg-logo="cinecanal hd.png",Cinecanal HD
+http://tvultimate.mx/stream/tvultimate.php?id=309
+
+#EXTINF:-1 tvg-logo="cinecanal hd.png",Cinecanal
+http://tvultimate.mx/stream/tvultimate.php?id=350
+
+#EXTINF:-1 tvg-logo="tnt hd.png",TNT HD
+http://tvultimate.mx/stream/tvultimate.php?id=357
+
+#EXTINF:-1 tvg-logo="tnt hd.png",TNT
+http://tvultimate.mx/stream/tvultimate.php?id=313
+
+#EXTINF:-1 tvg-logo="golden.png",Golden HD
+http://tvultimate.mx/stream/tvultimate.php?id=317
+
+#EXTINF:-1 tvg-logo="the film zone hd.png",The Film Zone HD
+http://tvultimate.mx/stream/tvultimate.php?id=321
+
+#EXTINF:-1 tvg-logo="de pelicula hd.png",De Película HD
+http://tvultimate.mx/stream/tvultimate.php?id=325
+
+#EXTINF:-1 tvg-logo="amc hd.png",AMC
+http://tvultimate.mx/stream/tvultimate.php?id=329
+
+#EXTINF:-1 tvg-logo="space hd.png",Space
+http://tvultimate.mx/stream/tvultimate.php?id=333
+
+#EXTINF:-1 tvg-logo="space hd.png",Space HD
+http://tvultimate.mx/stream/tvultimate.php?id=333
+
+#EXTINF:-1 tvg-logo="tvtultimate.png",Cinemax
+http://tvultimate.mx/stream/tvultimate.php?id=354
+
+#EXTINF:-1 tvg-logo="golden edge.png",Golden Edge 
+http://tvultimate.mx/stream/tvultimate.php?id=362
+
+#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
+http://tvultimate.mx/stream/tvultimate.php?id=373
+
+#EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
+http://tvultimate.mx/stream/tvultimate.php?id=378
+
+#EXTINF:-1 tvg-logo="TCM.png",TCM 
+http://tvultimate.mx/stream/tvultimate.php?id=382
+
+#EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports
+http://tvultimate.mx/stream/tvultimate.php?id=397
+
+#EXTINF:-1 tvg-logo="fox sports 2 hd.png",Fox Sports 2
+http://tvultimate.mx/stream/tvultimate.php?id=401
+
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN HD
+http://tvultimate.mx/stream/tvultimate.php?id=389
+
+#EXTINF:-1 tvg-logo="espn hd.png",ESPN 
+http://tvultimate.mx/stream/tvultimate.php?id=406
+
+#EXTINF:-1 tvg-logo="espn 2.png",ESPN2
+http://tvultimate.mx/stream/tvultimate.php?id=409
+
+#EXTINF:-1 tvg-logo="mtv live hd.png",MTV Live HD
+http://tvultimate.mx/stream/tvultimate.php?id=429
+
+#EXTINF:-1 tvg-logo="telehit hd.png",Telehit
+http://tvultimate.mx/stream/tvultimate.php?id=433
+
+#EXTINF:-1 tvg-logo="vh1 hd.png",VH1 HD
+http://tvultimate.mx/stream/tvultimate.php?id=437
+
+#EXTINF:-1 tvg-logo="mtv.png",MTV
+http://tvultimate.mx/stream/tvultimate.php?id=441
+#EXTINF:-1 tvg-logo="mtv hits.png",MTV Hits
+http://tvultimate.mx/stream/tvultimate.php?id=476
+#EXTINF:-1 tvg-logo="mtv classic.png",VH1 Classics
+http://tvultimate.mx/stream/tvultimate.php?id=477
+
+#EXTINF:-1 tvg-logo="ritmoson latino.png",Ritmoson Latino [COLOR red]Sin Señal[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=446
+
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+http://tvultimate.mx/stream/tvultimate.php?id=449
+
+#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
+http://tvultimate.mx/stream/tvultimate.php?id=33
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Estrella TV
+http://tvultimate.mx/stream/tvultimate.php?id=7112
+
+#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
+http://tvultimate.mx/stream/tvultimate.php?id=37
+
+#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
+http://tvultimate.mx/stream/tvultimate.php?id=7
+
+#EXTINF:0 tvg-logo="azteca 7.png",Azteca Corazon
+http://tvultimate.mx/stream/tvultimate.php?id=479
+
+#EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
+http://tvultimate.mx/stream/tvultimate.php?id=9
+
+#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV
+http://tvultimate.mx/stream/tvultimate.php?id=57
+
+#EXTINF:-1 tvg-logo="multimedios.png",Multimedios Monterrey  [COLOR red]Sin Señal[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1459
+
+#EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias HD  
+http://tvultimate.mx/stream/tvultimate.php?id=3
+
+#EXTINF:-1 tvg-logo="proyecto 40.png",Proyecto 40
+http://tvultimate.mx/stream/tvultimate.php?id=21
+
+#EXTINF:-1 tvg-logo="milenio.png",Milenio TV
+http://tvultimate.mx/stream/tvultimate.php?id=417
+
+#EXTINF:-1 tvg-logo="garage tv.png",Garage TV
+http://tvultimate.mx/stream/tvultimate.php?id=474
+
+#EXTINF:-1 tvg-logo="canal once.png",Canal Once
+http://tvultimate.mx/stream/tvultimate.php?id=61
+
+#EXTINF:-1 tvg-logo="foro tv HD.png",Foro TV
+http://tvultimate.mx/stream/tvultimate.php?id=45
+
+#EXTINF:-1 tvg-logo="teleformula.png",TeleFormula
+http://tvultimate.mx/stream/tvultimate.php?id=82
+
+#EXTINF:-1 tvg-logo="tvultimate.png",PX TV
+http://tvultimate.mx/stream/tvultimate.php?id=475
