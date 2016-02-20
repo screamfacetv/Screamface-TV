@@ -25,6 +25,12 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="AztecaNoticias" tvg-logo="azteca-noticias.png",Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
+#EXTINF:-1,COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:-1,COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
 #EXTINF:-1, Capital 21 (CDMX)
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
