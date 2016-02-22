@@ -1,183 +1,193 @@
 #EXTM3U
-#EXTINF:-1 ,AyE
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,AMC HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNjUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Animal Planet
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNjEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,AXN HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Azteca 7
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT03Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1jemlvajZndjRmcjV6bGsmbGFuPTI=&f=.m3u8
-#EXTINF:-1 ,Azteca 13
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1jemlvajZndjRmcjV6bGsmbGFuPTI=&f=.m3u8
-#EXTINF:-1 ,Bandamax
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,BBC
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Boomerang
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Canal 2
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMyZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Proyecto 40
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT02OSZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Canal 5
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNyZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Canal De Las Estrellas
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMyZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Cartoon Network
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMjEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Cbeebies
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xOTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Cinecanal
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Cinecanal + HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Comedy Central
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,De pelicula HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMjUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery Channel
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery Civilization
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yODEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery Kids
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xOTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery Science
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery Turbo
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yODUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery World
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Disney Channel
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Disney Jr
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMDEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Disney XD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMjUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Distrito Comedia
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNzMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,E!
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,ESPN +
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zODkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,ESPN
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,ESPN 2
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,ESPN 3
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zOTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Foro TV
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NSZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,FOX HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT04NSZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,FOX 1 HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yOTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,FOX Action
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMDEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,FOX Cinema
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00ODkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,FOX Classics
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00OTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,FOX Life
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,FOX Movies
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Fox Sports
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zOTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Fox Sports 2
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MDEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,FX HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Gala TV
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT01NyZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Glitz
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Golden HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Golden Edge
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNjEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,History HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Home And Health
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNjUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,I Sat
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Investigation Discovery
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Lifetime
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNzMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Multimedios
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NzgmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Milenio TV
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,MTV
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NDEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,MTV Live
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Nat Geo
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,NatGeo Wild
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNDkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Nick HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Nick Jr
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Nicktoons
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Nickelodeon
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Once
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT02MSZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Ritmoson
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NDUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Sony HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT04OSZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Space HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNjkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Studio Universal
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNzMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Syfy
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TBS
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TCM
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zODEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TeleFormula
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT04MSZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Telehit
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MzMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Film Zone HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zMjEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Discovery Theater
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yNDEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Tiin
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMzMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TLC Discovery
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yODkmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Tlnovelas
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xODUmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TNT HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zNTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TNT Series
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Tooncast
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yMzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,TruTV HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Unicable
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMjEmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Universal Channel HD
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Universal Channel
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT05NyZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,UTV
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00OTgmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,VH1
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,VH1 Classics
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NzcmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
-#EXTINF:-1 ,Warner Channel
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT05MyZsYW49MiZyb3dzPTQwJnNlc3Npb249Y3ppb2o2Z3Y0ZnI1emxrJmxhbj0y&f=.m3u8
-#EXTINF:-1 ,Wobi
-https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0yOTMmbGFuPTImcm93cz00MCZzZXNzaW9uPWN6aW9qNmd2NGZyNXpsayZsYW49Mg==&f=.m3u8
+
+
+#EXTINF:-1,Wobi
+http://92.222.115.23:8000/live/deadpool/deadpool/298.ts
+#EXTINF:-1,Warner Channel
+http://92.222.115.23:8000/live/deadpool/deadpool/297.ts
+#EXTINF:-1,VH1 Classics
+http://92.222.115.23:8000/live/deadpool/deadpool/296.ts
+#EXTINF:-1,VH1
+http://92.222.115.23:8000/live/deadpool/deadpool/295.ts
+#EXTINF:-1,UTV
+http://92.222.115.23:8000/live/deadpool/deadpool/294.ts
+#EXTINF:-1,Universal Channel HD
+http://92.222.115.23:8000/live/deadpool/deadpool/292.ts
+#EXTINF:-1,Universal Channel
+http://92.222.115.23:8000/live/deadpool/deadpool/293.ts
+#EXTINF:-1,Unicable
+http://92.222.115.23:8000/live/deadpool/deadpool/291.ts
+#EXTINF:-1,TruTV HD
+http://92.222.115.23:8000/live/deadpool/deadpool/290.ts
+#EXTINF:-1,Tooncast
+http://92.222.115.23:8000/live/deadpool/deadpool/289.ts
+#EXTINF:-1,TNT Series
+http://92.222.115.23:8000/live/deadpool/deadpool/288.ts
+#EXTINF:-1,TNT HD
+http://92.222.115.23:8000/live/deadpool/deadpool/287.ts
+#EXTINF:-1,TNT
+http://92.222.115.23:8000/live/deadpool/deadpool/286.ts
+#EXTINF:-1,Tlnovelas
+http://92.222.115.23:8000/live/deadpool/deadpool/285.ts
+#EXTINF:-1,TLC Discovery
+http://92.222.115.23:8000/live/deadpool/deadpool/284.ts
+#EXTINF:-1,Tiin
+http://92.222.115.23:8000/live/deadpool/deadpool/283.ts
+#EXTINF:-1,Telehit
+http://92.222.115.23:8000/live/deadpool/deadpool/280.ts
+#EXTINF:-1,TeleFormula
+http://92.222.115.23:8000/live/deadpool/deadpool/279.ts
+#EXTINF:-1,TCM
+http://92.222.115.23:8000/live/deadpool/deadpool/278.ts
+#EXTINF:-1,TBS
+http://92.222.115.23:8000/live/deadpool/deadpool/277.ts
+#EXTINF:-1,Syfy
+http://92.222.115.23:8000/live/deadpool/deadpool/276.ts
+#EXTINF:-1,Studio Universal
+http://92.222.115.23:8000/live/deadpool/deadpool/275.ts
+#EXTINF:-1,Space HD
+http://92.222.115.23:8000/live/deadpool/deadpool/274.ts
+#EXTINF:-1,Space
+http://92.222.115.23:8000/live/deadpool/deadpool/273.ts
+#EXTINF:-1,Sony HD
+http://92.222.115.23:8000/live/deadpool/deadpool/272.ts
+#EXTINF:-1,Ritmoson
+http://92.222.115.23:8000/live/deadpool/deadpool/271.ts
+#EXTINF:-1,Proyecto 40
+http://92.222.115.23:8000/live/deadpool/deadpool/214.ts
+#EXTINF:-1,Once
+http://92.222.115.23:8000/live/deadpool/deadpool/270.ts
+#EXTINF:-1,Nicktoons
+http://92.222.115.23:8000/live/deadpool/deadpool/269.ts
+#EXTINF:-1,Nickelodeon
+http://92.222.115.23:8000/live/deadpool/deadpool/267.ts
+#EXTINF:-1,Nick Jr
+http://92.222.115.23:8000/live/deadpool/deadpool/268.ts
+#EXTINF:-1,Nick HD
+http://92.222.115.23:8000/live/deadpool/deadpool/266.ts
+#EXTINF:-1,NatGeo Wild
+http://92.222.115.23:8000/live/deadpool/deadpool/265.ts
+#EXTINF:-1,Nat Geo
+http://92.222.115.23:8000/live/deadpool/deadpool/264.ts
+#EXTINF:-1,Multimedios
+http://92.222.115.23:8000/live/deadpool/deadpool/260.ts
+#EXTINF:-1,MTV Live
+http://92.222.115.23:8000/live/deadpool/deadpool/263.ts
+#EXTINF:-1,MTV
+http://92.222.115.23:8000/live/deadpool/deadpool/262.ts
+#EXTINF:-1,Milenio TV
+http://92.222.115.23:8000/live/deadpool/deadpool/261.ts
+#EXTINF:-1,Lifetime
+http://92.222.115.23:8000/live/deadpool/deadpool/259.ts
+#EXTINF:-1,Investigation Discovery
+http://92.222.115.23:8000/live/deadpool/deadpool/258.ts
+#EXTINF:-1,I Sat
+http://92.222.115.23:8000/live/deadpool/deadpool/257.ts
+#EXTINF:-1,Home And Health
+http://92.222.115.23:8000/live/deadpool/deadpool/256.ts
+#EXTINF:-1,History HD
+http://92.222.115.23:8000/live/deadpool/deadpool/255.ts
+#EXTINF:-1,Golden HD
+http://92.222.115.23:8000/live/deadpool/deadpool/253.ts
+#EXTINF:-1,Golden Edge
+http://92.222.115.23:8000/live/deadpool/deadpool/254.ts
+#EXTINF:-1,Glitz
+http://92.222.115.23:8000/live/deadpool/deadpool/252.ts
+#EXTINF:-1,Gala TV
+http://92.222.115.23:8000/live/deadpool/deadpool/251.ts
+#EXTINF:-1,FX HD
+http://92.222.115.23:8000/live/deadpool/deadpool/250.ts
+#EXTINF:-1,Fox Sports 2
+http://92.222.115.23:8000/live/deadpool/deadpool/249.ts
+#EXTINF:-1,Fox Sports
+http://92.222.115.23:8000/live/deadpool/deadpool/248.ts
+#EXTINF:-1,FOX Movies
+http://92.222.115.23:8000/live/deadpool/deadpool/247.ts
+#EXTINF:-1,FOX Life
+http://92.222.115.23:8000/live/deadpool/deadpool/246.ts
+#EXTINF:-1,FOX HD
+http://92.222.115.23:8000/live/deadpool/deadpool/240.ts
+#EXTINF:-1,FOX Family
+http://92.222.115.23:8000/live/deadpool/deadpool/245.ts
+#EXTINF:-1,FOX Classics
+http://92.222.115.23:8000/live/deadpool/deadpool/244.ts
+#EXTINF:-1,FOX Cinema
+http://92.222.115.23:8000/live/deadpool/deadpool/243.ts
+#EXTINF:-1,FOX Action
+http://92.222.115.23:8000/live/deadpool/deadpool/242.ts
+#EXTINF:-1,FOX 1 HD
+http://92.222.115.23:8000/live/deadpool/deadpool/241.ts
+#EXTINF:-1,Foro TV
+http://92.222.115.23:8000/live/deadpool/deadpool/239.ts
+#EXTINF:-1,Film Zone HD
+http://92.222.115.23:8000/live/deadpool/deadpool/281.ts
+#EXTINF:-1,ESPN 3
+http://92.222.115.23:8000/live/deadpool/deadpool/238.ts
+#EXTINF:-1,ESPN 2
+http://92.222.115.23:8000/live/deadpool/deadpool/237.ts
+#EXTINF:-1,ESPN
+http://92.222.115.23:8000/live/deadpool/deadpool/236.ts
+#EXTINF:-1,El Gourmet
+http://92.222.115.23:8000/live/deadpool/deadpool/235.ts
+#EXTINF:-1,E!
+http://92.222.115.23:8000/live/deadpool/deadpool/234.ts
+#EXTINF:-1,Distrito Comedia
+http://92.222.115.23:8000/live/deadpool/deadpool/233.ts
+#EXTINF:-1,Disney XD
+http://92.222.115.23:8000/live/deadpool/deadpool/232.ts
+#EXTINF:-1,Disney Jr
+http://92.222.115.23:8000/live/deadpool/deadpool/231.ts
+#EXTINF:-1,Disney Channel
+http://92.222.115.23:8000/live/deadpool/deadpool/230.ts
+#EXTINF:-1,Discovery World
+http://92.222.115.23:8000/live/deadpool/deadpool/229.ts
+#EXTINF:-1,Discovery Turbo
+http://92.222.115.23:8000/live/deadpool/deadpool/228.ts
+#EXTINF:-1,Discovery Theater
+http://92.222.115.23:8000/live/deadpool/deadpool/282.ts
+#EXTINF:-1,Discovery Science
+http://92.222.115.23:8000/live/deadpool/deadpool/227.ts
+#EXTINF:-1,Discovery Kids
+http://92.222.115.23:8000/live/deadpool/deadpool/226.ts
+#EXTINF:-1,Discovery Civilization
+http://92.222.115.23:8000/live/deadpool/deadpool/225.ts
+#EXTINF:-1,Discovery Channel
+http://92.222.115.23:8000/live/deadpool/deadpool/224.ts
+#EXTINF:-1,De pelicula HD
+http://92.222.115.23:8000/live/deadpool/deadpool/223.ts
+#EXTINF:-1,Comedy Central
+http://92.222.115.23:8000/live/deadpool/deadpool/222.ts
+#EXTINF:-1,Cinemax
+http://92.222.115.23:8000/live/deadpool/deadpool/221.ts
+#EXTINF:-1,Cinecanal   HD
+http://92.222.115.23:8000/live/deadpool/deadpool/220.ts
+#EXTINF:-1,Cinecanal
+http://92.222.115.23:8000/live/deadpool/deadpool/219.ts
+#EXTINF:-1,Cbeebies
+http://92.222.115.23:8000/live/deadpool/deadpool/218.ts
+#EXTINF:-1,Cartoon Network
+http://92.222.115.23:8000/live/deadpool/deadpool/217.ts
+#EXTINF:-1,Canal De Las Estrellas
+http://92.222.115.23:8000/live/deadpool/deadpool/216.ts
+#EXTINF:-1,Canal 5
+http://92.222.115.23:8000/live/deadpool/deadpool/215.ts
+#EXTINF:-1,Canal 2
+http://92.222.115.23:8000/live/deadpool/deadpool/213.ts
+#EXTINF:-1,Boomerang
+http://92.222.115.23:8000/live/deadpool/deadpool/212.ts
+#EXTINF:-1,BBC
+http://92.222.115.23:8000/live/deadpool/deadpool/211.ts
+#EXTINF:-1,Bandamax
+http://92.222.115.23:8000/live/deadpool/deadpool/210.ts
+#EXTINF:-1,Azteca 7 HD
+http://92.222.115.23:8000/live/deadpool/deadpool/208.ts
+#EXTINF:-1,Azteca 13
+http://92.222.115.23:8000/live/deadpool/deadpool/209.ts
+#EXTINF:-1,AXN HD
+http://92.222.115.23:8000/live/deadpool/deadpool/207.ts
+#EXTINF:-1,Animal Planet
+http://92.222.115.23:8000/live/deadpool/deadpool/206.ts
+#EXTINF:-1,AMC HD
+http://92.222.115.23:8000/live/deadpool/deadpool/205.ts
+#EXTINF:-1,A&E
+http://92.222.115.23:8000/live/deadpool/deadpool/204.ts
