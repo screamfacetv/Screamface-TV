@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Wobi
+#EXTINF:-1,Wobi One
 http://92.222.115.23:8000/live/chavez/chavez/298.ts
 #EXTINF:-1,Warner Channel
 http://92.222.115.23:8000/live/chavez/chavez/297.ts
