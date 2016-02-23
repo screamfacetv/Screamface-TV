@@ -47,3 +47,25 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_ae
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
 #EXTINF:-1,W9
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1,ROUGE
+http://rtmp.infomaniak.ch/livecast/rougetv/chunklist_w1380020607.m3u8
+#EXTINF:-1,VIRGIN
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1,KISS TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+WEO TV
+http://str81.creacast.com/weo/smil:weo.smil/chunklist_w439643336_b796000.m3u8
+FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+DJING MUSIC
+http://cdn.djing.com/tv/d-05.m3u8
+DJING MUSIC 2
+http://www.djing.com/tv/hothothot.m3u8?
+C5N
+http://c5n.stweb.tv:1935/c5n/live_media/chunklist_w1619505761.m3u8
+HITTV
+http://195.55.74.206/rtpa/tv-iphone/stream.m3u8?GKID=c07cadb4d9fe11e5a9f500163e914f69&fspref=aHR0cDovL21pdGVsZS5lc3kuZXMvbGl2ZWNhc3QvcnRwYS1hc3R1cmlhcy5odG1s
+TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+LA RED
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist_w1091678468_b564000.m3u8
