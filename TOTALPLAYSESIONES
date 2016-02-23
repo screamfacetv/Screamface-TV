@@ -1,184 +1,200 @@
 #EXTM3U
 
-
-
-#EXTINF:-1,Wobi One
-http://92.222.115.23:8000/live/mazinger/mazinger/298.ts
-#EXTINF:-1,Warner Channel
-http://92.222.115.23:8000/live/mazinger/mazinger/297.ts
-#EXTINF:-1,VH1
-http://92.222.115.23:8000/live/mazinger/mazinger/295.ts
-#EXTINF:-1,UTV
-http://92.222.115.23:8000/live/mazinger/mazinger/294.ts
-#EXTINF:-1,Universal Channel HD
-http://92.222.115.23:8000/live/mazinger/mazinger/292.ts
-#EXTINF:-1,Universal Channel
-http://92.222.115.23:8000/live/mazinger/mazinger/293.ts
+#EXTINF:-1,WOBI TV
+http://92.222.115.23:8000/live/mazinger/mazinger/348.ts
+#EXTINF:-1,Warner HD
+http://92.222.115.23:8000/live/mazinger/mazinger/301.ts
+#EXTINF:-1,VH1 HD
+http://92.222.115.23:8000/live/mazinger/mazinger/378.ts
+#EXTINF:-1,VH1 Classics
+http://92.222.115.23:8000/live/mazinger/mazinger/381.ts
+#EXTINF:-1,Universal HD
+http://92.222.115.23:8000/live/mazinger/mazinger/302.ts
 #EXTINF:-1,Unicable
-http://92.222.115.23:8000/live/mazinger/mazinger/291.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/308.ts
 #EXTINF:-1,TruTV HD
-http://92.222.115.23:8000/live/mazinger/mazinger/290.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/306.ts
 #EXTINF:-1,Tooncast
-http://92.222.115.23:8000/live/mazinger/mazinger/289.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/333.ts
 #EXTINF:-1,TNT Series
-http://92.222.115.23:8000/live/mazinger/mazinger/288.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/314.ts
 #EXTINF:-1,TNT HD
-http://92.222.115.23:8000/live/mazinger/mazinger/287.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/357.ts
 #EXTINF:-1,TNT
-http://92.222.115.23:8000/live/mazinger/mazinger/286.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/358.ts
 #EXTINF:-1,Tlnovelas
-http://92.222.115.23:8000/live/mazinger/mazinger/285.ts
-#EXTINF:-1,TLC Discovery
-http://92.222.115.23:8000/live/mazinger/mazinger/284.ts
-#EXTINF:-1,Tiin
-http://92.222.115.23:8000/live/mazinger/mazinger/283.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/320.ts
+#EXTINF:-1,TLC HD
+http://92.222.115.23:8000/live/mazinger/mazinger/338.ts
+#EXTINF:-1,TIIN
+http://92.222.115.23:8000/live/mazinger/mazinger/334.ts
+#EXTINF:-1,The Film Zone HD
+http://92.222.115.23:8000/live/mazinger/mazinger/360.ts
 #EXTINF:-1,Telehit
-http://92.222.115.23:8000/live/mazinger/mazinger/280.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/377.ts
 #EXTINF:-1,TeleFormula
-http://92.222.115.23:8000/live/mazinger/mazinger/279.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/396.ts
 #EXTINF:-1,TCM
-http://92.222.115.23:8000/live/mazinger/mazinger/278.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/369.ts
 #EXTINF:-1,TBS
-http://92.222.115.23:8000/live/mazinger/mazinger/277.ts
-#EXTINF:-1,Syfy
-http://92.222.115.23:8000/live/mazinger/mazinger/276.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/319.ts
+#EXTINF:-1,SyFy
+http://92.222.115.23:8000/live/mazinger/mazinger/311.ts
 #EXTINF:-1,Studio Universal
-http://92.222.115.23:8000/live/mazinger/mazinger/275.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/367.ts
 #EXTINF:-1,Space HD
-http://92.222.115.23:8000/live/mazinger/mazinger/274.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/364.ts
 #EXTINF:-1,Space
-http://92.222.115.23:8000/live/mazinger/mazinger/273.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/363.ts
 #EXTINF:-1,Sony HD
-http://92.222.115.23:8000/live/mazinger/mazinger/272.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/300.ts
+#EXTINF:-1,Ritmoson Latino
+http://92.222.115.23:8000/live/mazinger/mazinger/382.ts
+#EXTINF:-1,PX TV
+http://92.222.115.23:8000/live/mazinger/mazinger/397.ts
 #EXTINF:-1,Proyecto 40
-http://92.222.115.23:8000/live/mazinger/mazinger/214.ts
-#EXTINF:-1,Once
-http://92.222.115.23:8000/live/mazinger/mazinger/270.ts
-#EXTINF:-1,Nicktoons
-http://92.222.115.23:8000/live/mazinger/mazinger/269.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/391.ts
+#EXTINF:-1,NickToons
+http://92.222.115.23:8000/live/mazinger/mazinger/327.ts
 #EXTINF:-1,Nickelodeon
-http://92.222.115.23:8000/live/mazinger/mazinger/267.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/329.ts
 #EXTINF:-1,Nick Jr
-http://92.222.115.23:8000/live/mazinger/mazinger/268.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/325.ts
 #EXTINF:-1,Nick HD
-http://92.222.115.23:8000/live/mazinger/mazinger/266.ts
-#EXTINF:-1,NatGeo Wild
-http://92.222.115.23:8000/live/mazinger/mazinger/265.ts
-#EXTINF:-1,Nat Geo
-http://92.222.115.23:8000/live/mazinger/mazinger/264.ts
-#EXTINF:-1,Multimedios
-http://92.222.115.23:8000/live/mazinger/mazinger/260.ts
-#EXTINF:-1,MTV Live
-http://92.222.115.23:8000/live/mazinger/mazinger/263.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/328.ts
+#EXTINF:-1,NatGeo Wild HD
+http://92.222.115.23:8000/live/mazinger/mazinger/337.ts
+#EXTINF:-1,NatGeo
+http://92.222.115.23:8000/live/mazinger/mazinger/343.ts
+#EXTINF:-1,MTV Live HD
+http://92.222.115.23:8000/live/mazinger/mazinger/376.ts
+#EXTINF:-1,MTV Hits
+http://92.222.115.23:8000/live/mazinger/mazinger/380.ts
 #EXTINF:-1,MTV
-http://92.222.115.23:8000/live/mazinger/mazinger/262.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/379.ts
 #EXTINF:-1,Milenio TV
-http://92.222.115.23:8000/live/mazinger/mazinger/261.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/392.ts
 #EXTINF:-1,Lifetime
-http://92.222.115.23:8000/live/mazinger/mazinger/259.ts
-#EXTINF:-1,Investigation Discovery
-http://92.222.115.23:8000/live/mazinger/mazinger/258.ts
-#EXTINF:-1,Home And Health
-http://92.222.115.23:8000/live/mazinger/mazinger/256.ts
-#EXTINF:-1,History HD
-http://92.222.115.23:8000/live/mazinger/mazinger/255.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/344.ts
+#EXTINF:-1,ID
+http://92.222.115.23:8000/live/mazinger/mazinger/313.ts
+#EXTINF:-1,I.Sat
+http://92.222.115.23:8000/live/mazinger/mazinger/368.ts
+#EXTINF:-1,Home and Health
+http://92.222.115.23:8000/live/mazinger/mazinger/342.ts
+#EXTINF:-1,History
+http://92.222.115.23:8000/live/mazinger/mazinger/336.ts
 #EXTINF:-1,Golden HD
-http://92.222.115.23:8000/live/mazinger/mazinger/253.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/359.ts
 #EXTINF:-1,Golden Edge
-http://92.222.115.23:8000/live/mazinger/mazinger/254.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/366.ts
 #EXTINF:-1,Glitz
-http://92.222.115.23:8000/live/mazinger/mazinger/252.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/316.ts
+#EXTINF:-1,Garage TV
+http://92.222.115.23:8000/live/mazinger/mazinger/393.ts
 #EXTINF:-1,Gala TV
-http://92.222.115.23:8000/live/mazinger/mazinger/251.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/389.ts
 #EXTINF:-1,FX HD
-http://92.222.115.23:8000/live/mazinger/mazinger/250.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/303.ts
+#EXTINF:-1,FX
+http://92.222.115.23:8000/live/mazinger/mazinger/312.ts
 #EXTINF:-1,Fox Sports 2
-http://92.222.115.23:8000/live/mazinger/mazinger/249.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/371.ts
 #EXTINF:-1,Fox Sports
-http://92.222.115.23:8000/live/mazinger/mazinger/248.ts
-#EXTINF:-1,FOX Movies
-http://92.222.115.23:8000/live/mazinger/mazinger/247.ts
-#EXTINF:-1,FOX Life
-http://92.222.115.23:8000/live/mazinger/mazinger/246.ts
-#EXTINF:-1,FOX HD
-http://92.222.115.23:8000/live/mazinger/mazinger/240.ts
-#EXTINF:-1,FOX Classics
-http://92.222.115.23:8000/live/mazinger/mazinger/244.ts
-#EXTINF:-1,FOX Cinema
-http://92.222.115.23:8000/live/mazinger/mazinger/243.ts
-#EXTINF:-1,FOX Action
-http://92.222.115.23:8000/live/mazinger/mazinger/242.ts
-#EXTINF:-1,FOX 1 HD
-http://92.222.115.23:8000/live/mazinger/mazinger/241.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/370.ts
+#EXTINF:-1,Fox Movies HD
+http://92.222.115.23:8000/live/mazinger/mazinger/351.ts
+#EXTINF:-1,Fox Life
+http://92.222.115.23:8000/live/mazinger/mazinger/317.ts
+#EXTINF:-1,Fox Family
+http://92.222.115.23:8000/live/mazinger/mazinger/353.ts
+#EXTINF:-1,Fox Classics
+http://92.222.115.23:8000/live/mazinger/mazinger/354.ts
+#EXTINF:-1,Fox Cinéma
+http://92.222.115.23:8000/live/mazinger/mazinger/352.ts
+#EXTINF:-1,Fox Action HD
+http://92.222.115.23:8000/live/mazinger/mazinger/350.ts
+#EXTINF:-1,Fox 1 HD
+http://92.222.115.23:8000/live/mazinger/mazinger/349.ts
+#EXTINF:-1,Fox
+http://92.222.115.23:8000/live/mazinger/mazinger/299.ts
 #EXTINF:-1,Foro TV
-http://92.222.115.23:8000/live/mazinger/mazinger/239.ts
-#EXTINF:-1,Film Zone HD
-http://92.222.115.23:8000/live/mazinger/mazinger/281.ts
-#EXTINF:-1,ESPN 3
-http://92.222.115.23:8000/live/mazinger/mazinger/238.ts
-#EXTINF:-1,ESPN 2
-http://92.222.115.23:8000/live/mazinger/mazinger/237.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/395.ts
+#EXTINF:-1,ESPN3
+http://92.222.115.23:8000/live/mazinger/mazinger/375.ts
+#EXTINF:-1,ESPN2
+http://92.222.115.23:8000/live/mazinger/mazinger/374.ts
+#EXTINF:-1,ESPN HD
+http://92.222.115.23:8000/live/mazinger/mazinger/372.ts
 #EXTINF:-1,ESPN
-http://92.222.115.23:8000/live/mazinger/mazinger/236.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/373.ts
+#EXTINF:-1,El Trece HD
+http://92.222.115.23:8000/live/mazinger/mazinger/388.ts
 #EXTINF:-1,El Gourmet
-http://92.222.115.23:8000/live/mazinger/mazinger/235.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/315.ts
 #EXTINF:-1,E!
-http://92.222.115.23:8000/live/mazinger/mazinger/234.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/310.ts
 #EXTINF:-1,Distrito Comedia
-http://92.222.115.23:8000/live/mazinger/mazinger/233.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/318.ts
 #EXTINF:-1,Disney XD
-http://92.222.115.23:8000/live/mazinger/mazinger/232.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/331.ts
 #EXTINF:-1,Disney Jr
-http://92.222.115.23:8000/live/mazinger/mazinger/231.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/322.ts
 #EXTINF:-1,Disney Channel
-http://92.222.115.23:8000/live/mazinger/mazinger/230.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/326.ts
 #EXTINF:-1,Discovery World
-http://92.222.115.23:8000/live/mazinger/mazinger/229.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/340.ts
 #EXTINF:-1,Discovery Turbo
-http://92.222.115.23:8000/live/mazinger/mazinger/228.ts
-#EXTINF:-1,Discovery Theater
-http://92.222.115.23:8000/live/mazinger/mazinger/282.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/347.ts
 #EXTINF:-1,Discovery Science
-http://92.222.115.23:8000/live/mazinger/mazinger/227.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/345.ts
 #EXTINF:-1,Discovery Kids
-http://92.222.115.23:8000/live/mazinger/mazinger/226.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/321.ts
+#EXTINF:-1,DISCOVERY HD Teather
+http://92.222.115.23:8000/live/mazinger/mazinger/335.ts
 #EXTINF:-1,Discovery Civilization
-http://92.222.115.23:8000/live/mazinger/mazinger/225.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/346.ts
 #EXTINF:-1,Discovery Channel
-http://92.222.115.23:8000/live/mazinger/mazinger/224.ts
-#EXTINF:-1,De pelicula HD
-http://92.222.115.23:8000/live/mazinger/mazinger/223.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/339.ts
+#EXTINF:-1,De Película HD
+http://92.222.115.23:8000/live/mazinger/mazinger/361.ts
 #EXTINF:-1,Comedy Central
-http://92.222.115.23:8000/live/mazinger/mazinger/222.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/307.ts
 #EXTINF:-1,Cinemax
-http://92.222.115.23:8000/live/mazinger/mazinger/221.ts
-#EXTINF:-1,Cinecanal   HD
-http://92.222.115.23:8000/live/mazinger/mazinger/220.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/365.ts
+#EXTINF:-1,Cinecanal HD
+http://92.222.115.23:8000/live/mazinger/mazinger/355.ts
 #EXTINF:-1,Cinecanal
-http://92.222.115.23:8000/live/mazinger/mazinger/219.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/356.ts
 #EXTINF:-1,Cbeebies
-http://92.222.115.23:8000/live/mazinger/mazinger/218.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/323.ts
 #EXTINF:-1,Cartoon Network
-http://92.222.115.23:8000/live/mazinger/mazinger/217.ts
-#EXTINF:-1,Canal De Las Estrellas
-http://92.222.115.23:8000/live/mazinger/mazinger/216.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/330.ts
+#EXTINF:-1,Canal Once
+http://92.222.115.23:8000/live/mazinger/mazinger/394.ts
+#EXTINF:-1,Canal de las estrellas HD
+http://92.222.115.23:8000/live/mazinger/mazinger/384.ts
 #EXTINF:-1,Canal 5
-http://92.222.115.23:8000/live/mazinger/mazinger/215.ts
-#EXTINF:-1,Canal 2
-http://92.222.115.23:8000/live/mazinger/mazinger/213.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/385.ts
 #EXTINF:-1,Boomerang
-http://92.222.115.23:8000/live/mazinger/mazinger/212.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/332.ts
 #EXTINF:-1,BBC
-http://92.222.115.23:8000/live/mazinger/mazinger/211.ts
-#EXTINF:-1,Azteca 7 HD
-http://92.222.115.23:8000/live/mazinger/mazinger/208.ts
-#EXTINF:-1,Azteca 13
-http://92.222.115.23:8000/live/mazinger/mazinger/209.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/309.ts
+#EXTINF:-1,Bandamax
+http://92.222.115.23:8000/live/mazinger/mazinger/383.ts
+#EXTINF:-1,Baby tv
+http://92.222.115.23:8000/live/mazinger/mazinger/324.ts
+#EXTINF:-1,Azteca Noticias HD
+http://92.222.115.23:8000/live/mazinger/mazinger/390.ts
+#EXTINF:-1,Azteca Corazon
+http://92.222.115.23:8000/live/mazinger/mazinger/387.ts
+#EXTINF:-1,Azteca 7
+http://92.222.115.23:8000/live/mazinger/mazinger/386.ts
 #EXTINF:-1,AXN HD
-http://92.222.115.23:8000/live/mazinger/mazinger/207.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/305.ts
 #EXTINF:-1,Animal Planet
-http://92.222.115.23:8000/live/mazinger/mazinger/206.ts
-#EXTINF:-1,AMC HD
-http://92.222.115.23:8000/live/mazinger/mazinger/205.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/341.ts
+#EXTINF:-1,AMC
+http://92.222.115.23:8000/live/mazinger/mazinger/362.ts
 #EXTINF:-1,A&E
-http://92.222.115.23:8000/live/mazinger/mazinger/204.ts
+http://92.222.115.23:8000/live/mazinger/mazinger/304.ts
