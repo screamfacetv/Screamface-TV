@@ -67,8 +67,6 @@ http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u
 #EXTINF:-1 tvg-id="MULTIMEDIOS TV T-K" tvg-logo="milenio-tv.png",Multimedios TV
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
-#EXTINF:-1, Canal 2 Obregón
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
 
 #EXTINF:-1, Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
@@ -93,9 +91,6 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
 #EXTINF:-1, Canal 2 (Tepic - Nayarit)
 http://canal2tepic-lh.akamaihd.net/i/ch_1@325632/master.m3u8
-
-#EXTINF:-1, Canal 10 (Cancún - Quintana Roo)
-http://162.212.132.116:1935/live/tvlive2/master.m3u8
 
 #EXTINF:-1, Canal 7 (San Luis Potosí)
 rtmp://187.188.159.113/live/web.sdp
@@ -145,17 +140,12 @@ http://evolive-tv.com:8000/live/genio/genio/67.m3u8
 #EXTINF:-1 tvg-logo="NBA TV .png",NBA TV 
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
 #EXTINF:-1, Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Combate" group-title="DEPORTES",Combate
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-
-#EXTINF:-1,CDN SPORTS MAX
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
 #EXTINF:-1,360 DEPORTES
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
