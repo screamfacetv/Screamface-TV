@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1,El Transportador 1
+http://www.spruto.tv/get_file/5/f414070532304d8a4c63ef941df1f46c/109000/109061/109061.mp4
+#EXTINF:-1,El Transportador 2
+http://www.spruto.tv/get_file/5/6b80a15e75ab124eeca87654ad8b6e9b/114000/114669/114669.mp4
+#EXTINF:-1,El Transportador 3
+http://www.spruto.tv/get_file/5/5c37ee757103b770c6d80eac3e61ad03/109000/109065/109065.mp4
 #EXTINF:-1,Resident Evil: Afterlife (Resident Evil 4)
 http://www.spruto.tv/get_file/5/fa3bad7fd1d1264e7465ba30c80092af/107000/107718/107718.mp4
 #EXTINF:-1,Everest
