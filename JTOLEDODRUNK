@@ -64,10 +64,6 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1, Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOS TV T-K" tvg-logo="milenio-tv.png",Multimedios TV
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-
-
 #EXTINF:-1, Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 
