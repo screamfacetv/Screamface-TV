@@ -418,3 +418,69 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 
 #EXTINF:-1 tvg-logo="Maria Visión" group-title="CULTURA-DOCUMENTAL",Maria Visión
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
+
+
+
+#EXTINF:-1,Canal De Las Estrellas Internacional,tvg-logo="http://i2.esmas.com/2011/05/03/209649/canal-2-latinoamerica-170x128.jpg"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+ 
+ 
+#EXTINF:-1,Azteca 13,tvg-logo="http://img1.wikia.nocookie.net/__cb20111114002656/logopedia/images/f/f3/Xhdf1998.png"
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+ 
+#EXTINF:-1,Proyecto 40,tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/c/c8/Proyecto_40_logo.png/revision/latest?cb=20150605030124&path-prefix=es"
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+
+#EXTINF:-1,CANAL 3,tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal3_super_canal.jpg"
+http://72.46.226.61:80/live01/canal31/livestream.m3u8
+ 
+ 
+
+#EXTINF:-1,Canal Antiestres,tvg-logo="http://www.canalantiestres.tv/images/logo3d.png"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+ 
+#EXTINF:-1,Canal Capital ,tvg-logo="http://www.las2orillas.co/wp-content/uploads/2014/03/Canal-Capital.jpg"
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+ 
+#EXTINF:-1,Canal TRO ,tvg-logo="http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/nov2010/logocanaltro.jpg"
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
+ 
+#EXTINF:-1,Canal UNO ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_UNO_Logo_2013.jpg"
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+ 
+#EXTINF:-1,Cantinazo ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+ 
+#EXTINF:-1,CosmoVision,tvg-logo="http://3.bp.blogspot.com/-19K43ULMe40/TrvUcbhyiiI/AAAAAAAAAlM/L7sXf72CeCA/s1600/cosmo+tv.png"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+ 
+#EXTINF:-1,Señal Colombia,tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/images/stories/logosenalctv.jpg"
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8
+ 
+#EXTINF:-1,Señal Institucional,tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/28/InstiCo.png/revision/latest?cb=20130707024054"
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8
+ 
+#EXTINF:-1,Teleantioquia HD ,tvg-logo="http://foromedios.com/uploads/gallery/category_7/med_gallery_7942_7_898.png"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+ 
+EXTINF:-1,Telecafé
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:-1,Telecaribe ,tvg-logo="http://hdvideosgratis.com/wp-content/uploads/2015/09/Telecaribe-Colombia.jpg"
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+ 
+#EXTINF:-1,Telemedellin ,tvg-logo="http://www.fnpi.org/premioggm2014/wp-content/uploads/2013/06/Logo-Telemedellin.png"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+ 
+#EXTINF:-1,UNE TV Manizales ,tvg-logo="http://b.vimeocdn.com/ps/428/024/4280242_300.jpg"
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+ 
+#EXTINF:-1,UNE TV Caribe ,tvg-logo="http://b.vimeocdn.com/ps/428/024/4280242_300.jpg"
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
+'
+#EXTINF:-1,UNE TV Armenia ,tvg-logo="http://b.vimeocdn.com/ps/428/024/4280242_300.jpg"
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
+ 
+#EXTINF:-1,VMas+,tvg-logo="http://i.imgur.com/3PANr.png"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
