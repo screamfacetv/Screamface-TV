@@ -1,0 +1,140 @@
+#EXTM3U
+
+
+#EXTINF:-1,NTV FUTBOL 2
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8
+#EXTINF:-1,NTV FUTBOL 3
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8
+#EXTINF:-1,NTV PLUS Sport
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8
+#EXTINF:-1,NTV  Sport
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn016_delivery@90477/master.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8
+#EXTINF:-1,EUROSPORT
+http://ooyalahd2-f.akamaihd.net/i/esarn018_delivery@76469/master.m3u8
+#EXTINF:-1 tvg-id=”cbsnnews.us” group-title=”English”,CBSN NEWS HD
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 group-title=”English”,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-id=”Floridach.us” group-title=”English”,Florida CH
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1 group-title=”English”,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 group-title=”English”,HSN
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+#EXTINF:-1 group-title=”English”,HSN 2
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+#EXTINF:-1 group-title=”English”,RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 group-title=”English”,NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1 group-title=”English”,World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1 group-title=”English”,NASA TV (HQ)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”English”,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”English”,At The Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+#EXTINF:-1 group-title=”English”,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 tvg-id=”abcnews.com” group-title=”English”,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id=”abcnews.com” group-title=”English”,ABC News (2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-id=”Nhk.jp” group-title=”English”,NHK World
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
+#EXTINF:-1 group-title=”English”,CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1 group-title=”English”,ARIRANG
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:-1 tvg-id=”0490? group-title=”English” tvg-logo=”es1.png”,Eurosport 1 EN
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network National
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Washington HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Washington
+http://xrxs.net/video/live-p12wash-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Los Angeles
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Arizona
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Oregon
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Bay Area
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1 group-title=”English”,Pac 12 Network Moutain
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+ 
+#EXTINF:0, Jurnal TV
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+ 
+#EXTINF:0,MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+ 
+#EXTINF:0, Moldova 1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+ 
+#EXTINF:0, Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+ 
+#EXTINF:1,Accent  
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+ 
+#EXTINF:1,Sor tv  
+http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+ 
+#EXTINF:1,Ren tv  
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+ 
+#EXTINF:1,Noroc tv  
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+ 
+#EXTINF:1,Busuioc tv  
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+ 
+#EXTINF:1,Gold tv  
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+ 
+#EXTINF:1,2Plus tv  
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+ 
+#EXTINF:1,Canal3  
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+ 
+#EXTINF:1,Animaux  
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+ 
+#EXTINF:1,Encyclo  
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+ 
+#EXTINF:1,Chassepeche  
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
