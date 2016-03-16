@@ -71,9 +71,6 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 http://xrxs.net/video/live-p12wash-1164.m3u8
 #EXTINF:-1 group-title=”English”,Pac 12 Network Los Angeles
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1 group-title=”English”,Pac 12 Network Arizona HD
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1 group-title=”English”,Pac 12 Network Arizona
 http://xrxs.net/video/live-p12ariz-1164.m3u8
 #EXTINF:-1 group-title=”English”,Pac 12 Network Oregon HD
 http://xrxs.net/video/live-p12oreg-2328.m3u8
@@ -92,9 +89,6 @@ http://xrxs.net/video/live-p12moun-1164.m3u8
 #EXTINF:-1 group-title=”English”,USA-BASKET UNI.(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
  
-#EXTINF:0, Jurnal TV
-http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
- 
 #EXTINF:0,MBC HD
 http://87.248.160.8/edge/smil:mbc/playlist.m3u8
  
@@ -104,37 +98,3 @@ http://87.248.160.8/edge/smil:m1/playlist.m3u8
 #EXTINF:0, Moldova Sport HD
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
  
-http://87.248.160.8/edge/smil:alttv/playlist.m3u8
- 
-#EXTINF:1,Accent  
-http://87.248.160.8/edge/smil:accent/playlist.m3u8
- 
-#EXTINF:1,Sor tv  
-http://87.248.160.8/edge/smil:sortv/playlist.m3u8
- 
-#EXTINF:1,Ren tv  
-http://87.248.160.8/edge/smil:rentv/playlist.m3u8
- 
-#EXTINF:1,Noroc tv  
-http://87.248.160.8/edge/smil:noroc/playlist.m3u8
- 
-#EXTINF:1,Busuioc tv  
-http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
- 
-#EXTINF:1,Gold tv  
-http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
- 
-#EXTINF:1,2Plus tv  
-http://87.248.160.8/edge/smil:2plus/playlist.m3u8
- 
-#EXTINF:1,Canal3  
-http://87.248.160.8/edge/smil:canal3/playlist.m3u8
- 
-#EXTINF:1,Animaux  
-http://87.248.160.8/edge/smil:animaux/playlist.m3u8
- 
-#EXTINF:1,Encyclo  
-http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
- 
-#EXTINF:1,Chassepeche  
-http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
