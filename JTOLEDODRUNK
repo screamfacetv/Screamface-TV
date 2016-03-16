@@ -11,7 +11,7 @@ http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 
 #EXTINF:-1,TELEMETRO CANAL 13
-http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Canal de las Estrellas.png",Canal de las Estrellas  
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
