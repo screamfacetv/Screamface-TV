@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1, CCTV-1
+http://202.112.30.157/cctv1.m3u8
+#EXTINF:-1, CCTV-2
+http://202.112.30.157/cctv2.m3u8
+#EXTINF:-1, CCTV-3
+http://202.112.30.157/cctv3hd.m3u8
+#EXTINF:-1, CCTV-3
+http://202.112.30.157/cctv3.m3u8
+#EXTINF:-1, CCTV-4
+http://202.112.30.157/cctv4.m3u8
+#EXTINF:-1, CCTV-5
+http://202.112.30.157/cctv5hd.m3u8
+#EXTINF:-1, CCTV-5
+http://202.112.30.157/cctv5.m3u8
+#EXTINF:-1, CCTV-5+
+http://202.112.30.157/cctv5phd.m3u8
+#EXTINF:-1, CCTV-6
+http://202.112.30.157/cctv6hd.m3u8
+#EXTINF:-1, CCTV-6
+http://202.112.30.157/cctv6.m3u8
+#EXTINF:-1, CCTV-7
+http://202.112.30.157/cctv7.m3u8
+#EXTINF:-1, CCTV-8
+http://202.112.30.157/cctv8hd.m3u8
+#EXTINF:-1, CCTV-8
+http://202.112.30.157/cctv8.m3u8
+#EXTINF:-1, CCTV-9
+http://202.112.30.157/cctv9.m3u8
+#EXTINF:-1, CCTV-9
+http://202.112.30.157/lzu-cctv9en.m3u8
+#EXTINF:-1, CCTV-10
+http://202.112.30.157/cctv10.m3u8
+#EXTINF:-1, CCTV-11
+http://202.112.30.157/cctv11.m3u8
+#EXTINF:-1, CCTV-12
+http://202.112.30.157/cctv12.m3u8
+#EXTINF:-1, CCTV-13
+http://202.112.30.157/cctv13.m3u8
+#EXTINF:-1, CCTV-14
+http://202.112.30.157/cctv14.m3u8
+#EXTINF:-1, CCTV-15
+http://202.112.30.157/cctv15.m3u8
+#EXTINF:-1, CCTV-NEWS
+http://202.112.30.157/cctv16.m3u8
+#EXTINF:-1, CCTV
+http://202.112.30.157/ustc-tv5.m3u8
+#EXTINF:-1, CCTV-1HD
+http://202.112.30.157/cctv1hd.m3u8
