@@ -3,8 +3,6 @@
 #EXTINF:-1,Canal UNO
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 
-#EXTINF:-1 , PELIS
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,Travel Channel
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 #EXTINF:0,TV NUEVO TIEMPO
@@ -28,17 +26,12 @@ rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,Canal 13
 rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
 
-#EXTINF:-1 ,Discovery en español
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:70, LA SEXTA HD
 http://www.iptvsaga.com/play/tv3/0013.m3u8
 #EXTINF:-1 tvg-logo="A3S" group-title="ESPAÑA",A3S
 
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/la2.png",La 2
-
-http://hlslive.rtve.es/LA2_LV3_IPH/master.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/telecinco.png",Telecinco
@@ -63,8 +56,7 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/nova.png",Nova
 
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:70,TV Chile
-http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+
 #EXTINF:70,TV MÁS
 http://50.7.98.234:1935/rtv/videortv/live.m3u8
 #EXTINF:-1,,Anime
