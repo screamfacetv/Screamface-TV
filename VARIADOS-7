@@ -47,10 +47,6 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" , Real Madrid TV 2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png" , COS
-http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png" , COS2
-http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
 #EXTINF:-1 channelId="805" tvg-logo="NBA TV .png" , NBA TV
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 channelId="2112" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES" , NFL Now
