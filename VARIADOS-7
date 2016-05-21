@@ -1,0 +1,207 @@
+#EXTM3U
+#EXTINF:-1 channelId="1967" , Telemundo
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Miami TV Music
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1 channelId="57" , Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 channelId="328" tvg-logo="FOROtv.png" , FOROtv (Mexico)
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="azteca-7.png" , Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 channelId="2660" tvg-logo="el-trece.png" , El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 channelId="2660" , AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="azteca-noticias.png" , Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 channelId="266" , Capital 21 (CDMX)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1 channelId="2698" , Canal 22
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1 channelId="2690" tvg-logo="proyecto-40.png" , Proyecto 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1 channelId="265" , 52 Mx
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1 channelId="54" , Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 channelId="2693" tvg-logo="Azteca Honduras.png" , Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Guatevision.png" , Guatevision
+http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="miami_tv_us.png" group-title="EUA (USA)" , Miami TV Channel
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES" , Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 channelId="-1" , PELIS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 channelId="-1" , EP
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 channelId="-1" , DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1 channelId="1332" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/rmtv.png" , Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" , Real Madrid TV 2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png" , COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png" , COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF:-1 channelId="805" tvg-logo="NBA TV .png" , NBA TV
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 channelId="2112" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES" , NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1 channelId="1333" , Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1 channelId="-1" , 360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 channelId="-1" , Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?
+#EXTINF:-1 channelId="-1" , Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" , TeleRitmo
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="vevo.png" tvg-shift="1" , Vevo Hits
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="vevo.png" tvg-shift="2" , Vevo Nashville
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Vevo HD 1" group-title="MuSICA" , Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Vevo HD 2" group-title="MuSICA" , Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Vevo HD 3" group-title="MuSICA" , Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 channelId="-1" group-title="TVAR" , Magazine
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1 channelId="-1" tvg-logo="unnamed.png" group-title="MuSICA" , Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Cartoon Network US
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 channelId="-1" , CNN Internacional
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
+#EXTINF:-1 channelId="1944" , ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 channelId="397" , NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 channelId="-1" , RT en espanol
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" , Cartoon Network USA
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 channelId="1944" , ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 channelId="721" , NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" , NASA TV HD (720)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="1333" , Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1 channelId="-1" , DXTV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+#EXTINF:-1 channelId="-1" , COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" , COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" , FOX SPORTS 1 usa
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="57" , Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 channelId="1695" , Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 channelId="-1" , Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/24h.png" , 24 horas
+http://hlslive.rtve.es/24H_LV3_IPH/master.m3u8
+#EXTINF:-1 channelId="1695" , Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="A3S" group-title="ESPANA" , A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 channelId="1332" , Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="2124" , Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO" , Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0 channelId="1692" tvg-logo="lasexta.png" , La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 channelId="1692" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/lasexta.png" , La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/8tv.png" , 8tv
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/mega.png" , MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 channelId="-1" , MEGA 2
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="1695" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png" , Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 channelId="2125" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/nova.png" , Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 channelId="2284" tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/ondalatina.png" , Onda Latina (Italia)
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Una voz con todos.png" , Una voz con todos
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="RT en espanol.png" , RT en espanol
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="293" tvg-logo="Efekto TV.png" , Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Ingenio TV.png" , Ingenio TV (Mexico)
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 channelId="-1" , Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Canal 2 Obregon
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:-1 channelId="-1" , Canal 7 Mazatlon
+http://74.63.97.188:1935/gpacifico4/videogacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1 channelId="293" , EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 channelId="-1" , 5tv (Sabinas - Coahuila)
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1 channelId="-1" , RCG (Saltillo - Coahuila)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 channelId="-1" , TV Pacifico (Culiacan - Sinaloa)
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" , TV Pacifico (Los Mochis - Sinaloa)
+http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Trecevision Yucatan
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Ingenio TV" group-title="CULTURA-DOCUMENTAL" , Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 channelId="-1" , ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" , tvg-logo="tvmas.png",TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?hermoso.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="poster_220x220-2.jpg" group-title="CHILE" , PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0 channelId="-1" group-title="TVAR" , TN
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 channelId="-1" tvg-logo="F72G3GEW.jpeg" group-title="COLOMBIA" , Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="400x400-logo.png" group-title="COLOMBIA" , Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Canal Capital" group-title="COLOMBIA" , Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Logo-Canal_U.png" group-title="COLOMBIA" , Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="0cdcf2642b0477806ce6f4d1e0a21d4c.jpeg" group-title="COLOMBIA" , Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="imagen_id_5272.jpg" group-title="COLOMBIA" , Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="El Tiempo" group-title="COLOMBIA" , El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Lifedesign" group-title="COLOMBIA" , Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Logo-pasion-por-lo-nuestro-teleantioquia_1372462376.jpg" group-title="COLOMBIA" , Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="Telemedellin.png" group-title="COLOMBIA" , Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="UNE TV Manizales" group-title="COLOMBIA" , UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="KYQBZ.png" group-title="COLOMBIA" , Tele Amiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1 channelId="140" tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO" , TV5 Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="NHK World" group-title="NOTICIAS" , NHK World HD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
