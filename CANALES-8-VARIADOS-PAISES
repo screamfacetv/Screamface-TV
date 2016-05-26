@@ -466,7 +466,7 @@ rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Miami TV Channel
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,---CRISTIANOS---
+#EXTINF:-1,[COLOR cyan]---CRISTIANOS---[/COLOR]
 http://?
 #EXTINF:-1,Alfa TV
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
