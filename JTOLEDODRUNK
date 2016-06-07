@@ -1,8 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1,TVN CANAL 2 PANAMA
+#EXTINF:-1,TVN CANAL 2  DE PANAMA
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish4/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
+
+#EXTINF:-1,TELEMETRO CANAL 13 DE PANAMA
+http://d1fo6ulhy0hxdc.cloudfront.net/telemetro/livestream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Canal de las Estrellas.png",Canal de las Estrellas  
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
