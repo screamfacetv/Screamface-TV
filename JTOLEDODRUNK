@@ -6,6 +6,8 @@ http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
 #EXTINF:-1,TVN CANAL 2  Panamá
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish4/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
 
+#EXTINF:-1,Telemundo (Chivas69)
+http://iphone-streaming.ustream.tv/uhls/22514108/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Canal de las Estrellas.png",Canal de las Estrellas  
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
