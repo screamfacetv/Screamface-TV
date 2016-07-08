@@ -1,299 +1,473 @@
 #EXTM3U
-#EXTINF:0,DISCOVERY THEATER
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:0,HISTORY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:0,NATGEO WILD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY WORLD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:0,ANIMAL PLANET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:0,H&H
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:0,NATGEO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:0,LIFETIME
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:0, DISCOVERY SCIENCE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY TURBO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:0,TLC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:0,WOBI
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:0,EL FINANCIERO BLOOMERANG
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY THEATER HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-#EXTINF:0,HISTORY HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-#EXTINF:0,NATGEO WILD HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY WORLD HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-#EXTINF:0,ANIMAL PLANET HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
-#EXTINF:0,H&H HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
-#EXTINF:0,NATGEO HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
-#EXTINF:0,LIFETIME HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
-#EXTINF:0, DISCOVERY SCIENCE HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY TURBO HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
-#EXTINF:0,TLC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
-#EXTINF:0,WOBI HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
-#EXTINF:0,EL FINANCIERO BLOOMERANG HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
-#EXTINF:0,ESPN +
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:0,ESPN 3
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:0,FOX SPORTS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:0,FOX SPORTS 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:0,PX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
-#EXTINF:0,ESPN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:0,ESPN 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0,ESPN + HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:0,ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:0,FOX SPORTS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:0,FOX SPORTS 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:0,PX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
-#EXTINF:0,ESPN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:0,ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:0,FOX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:0,SONY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:0,WB
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:0,UNIVERSAL HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:0,FX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:0,A&E HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
-#EXTINF:0,AXN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:0,TRUTV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:0,COMEDY CENTRAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:0,UNICABLE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:0,HOLATV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
-#EXTINF:0,FASHIONTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
-#EXTINF:0,AZCORAZON
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
+
+
+
+#EXTINF:-1,TOTALPLAY
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
+
+#EXTINF:-1,AZ NOTICIAS
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA 7 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
+
+#EXTINF:-1,El Trece
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL13/PROFILE03.m3u8
+
+#EXTINF:-1,4C HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE03.m3u8
+
+#EXTINF:-1,Az Corazon
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8
+
+#EXTINF:-1,Canal 2 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+
+#EXTINF:-1,AZ CLICK
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL103/PROFILE03.m3u8
+
+#EXTINF:-1,Foro TV
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+
+#EXTINF:-1,Canal 5 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+
+#EXTINF:-1,7 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+
+#EXTINF:-1,Gala TV
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+
+#EXTINF:-1,Once TV
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+
+#EXTINF:-1,TRECE HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+
+#EXTINF:-1,Proyecto 40 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+
+#EXTINF:-1,Cadena 3
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL143/PROFILE03.m3u8
+
+#EXTINF:-1,UNOMASUNO
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL145/PROFILE03.m3u8
+
+#EXTINF:-1,TeleFórmula
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
+
+#EXTINF:-1,Multimedios Monterrey
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+
+#EXTINF:-1,H
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE03.m3u8
+
 #EXTINF:0,FOX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
-#EXTINF:0,BBC ENTRETAINMENT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+
+#EXTINF:0,SONY
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+
+#EXTINF:0,WARNER HD 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+
+#EXTINF:0,UNIVERSAL HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+
+#EXTINF:0,FX HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+
+#EXTINF:0,A&E
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+
+#EXTINF:0,AXN HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
+
+#EXTINF:0,TRUETV HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+
+#EXTINF:0,COMEDY CENTRAL
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
+
+#EXTINF:0,UniCable HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+
+#EXTINF:0,Azteca Corazon
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u81
+
+#EXTINF:0,FOX 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
+
+#EXTINF:0,BBC
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
+
 #EXTINF:0,E!
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:0,UNIVERSAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+
+#EXTINF:0,Universal Channel 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
+
 #EXTINF:0,SYFY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:0,FX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
-#EXTINF:0,ID
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:0,TNT SERIES
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:0,EL GOURMET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:0,GARAGE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
+
+#EXTINF:0,FX 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
+
+#EXTINF:0,I.D 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+
+#EXTINF:0,TNT Series 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+
+#EXTINF:0,GOURMET
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
+
+#EXTINF:0,El Garage
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
+
 #EXTINF:0,GLITZ
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
-#EXTINF:0,FOXLIFE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
+
+#EXTINF:0,FOX Life 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
+
 #EXTINF:0,DISTRITO COMEDIA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+
 #EXTINF:0,TBS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:0,TLNOVELAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0,BABY TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL301/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+
+#EXTINF:0,Casa ClubTv 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL274/PROFILE03.m3u8
+
+#EXTINF:0,TELENOVELAS
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+
+#EXTINF:0,AZMUNDO
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE03.m3u8 
+
 #EXTINF:0,DISCOVERY KIDS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:0,CBEEBIES
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+
+#EXTINF:0,Cbeebies
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+
 #EXTINF:0,DISNEY JR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+
 #EXTINF:0,NICK JR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
-#EXTINF:0,DISNEY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL311/PROFILE03.m3u8
-#EXTINF:0,DISNEY JR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
-#EXTINF:0,NICKTOONS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+
+#EXTINF:0,DISNEY CHANNEL
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+
+#EXTINF:0,Nick Toons
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
+
 #EXTINF:0,NICK HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:0,NICK 
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+
+http://200.76.77.237/
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+
+#EXTINF:-1,NICK
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+
 #EXTINF:0,CARTOON NETWORK
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+
 #EXTINF:0,DISNEY XD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+
 #EXTINF:0,BOOMERANG
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+
 #EXTINF:0,TIIN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+
 #EXTINF:0,TOONCAST
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
-#EXTINF:0,tve
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:0,CANAL 5
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:0,AZTECA 7
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:0,GALAVISION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:0,ONCE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0,AZTECA 13
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0,CANAL 40
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:0,MULTIMEDIOS TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:0,AZCLIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:0,CANAL 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:0,AZTECA 7 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:0,GALAVISION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:0,ONCE TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:0,AZTECA 13 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0,CANAL 40 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:0,MULTIMEDIOS TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:0,AZCLIC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
-#EXTINF:0,FOX 1 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:0,FOX ACTION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:0,FOX MOVIES HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:0,FOX CINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:0,FOX CLASSIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:0,AZCINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
-#EXTINF:0,CINECANAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+
+#EXTINF:0,DISCOVERY HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+
+#EXTINF:0,HISTORY
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+
+#EXTINF:0,NAT GEO WILD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+
+#EXTINF:0,Discovery World HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+
+#EXTINF:0,DISCOVERY
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+
+#EXTINF:0,ANIMAL PLANET
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+
+#EXTINF:0,H&H Discovery
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+
+#EXTINF:0,NAT GEO
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+
+#EXTINF:0,LIFETIME
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+
+#EXTINF:0,Discovery Science
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
+
+#EXTINF:0,Discovery Civilization
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
+
+#EXTINF:0,Discovery Turbo
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
+
+#EXTINF:-1,TLC 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+
+#EXTINF:0,WOBI
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
+
+#EXTINF:-1,Fox 1 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+
+#EXTINF:-1,FOX Action HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+#EXTINF:-1,FOX Movies HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+
+#EXTINF:0,Fox Cinema
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+
+#EXTINF:-1,Fox Classics
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+
+#EXTINF:0,Cine Canal 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+
+#EXTINF:0,TNT HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+
+#EXTINF:0,Golden HD 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+
+#EXTINF:-1,Film Zone HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+
+#EXTINF:0,De Pelicula HD 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
+
+#EXTINF:0,AMC HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+
+#EXTINF:0,Space HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
+
+#EXTINF:-1,FOX CINEMA
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
+
+#EXTINF:-1,FOX FAMILY
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL475/PROFILE03.m3u8
+
+#EXTINF:0,FOX Classics 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
+
+#EXTINF:0,Cine Canal 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
+
+#EXTINF:0,Cinemax 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+
 #EXTINF:0,TNT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:0,GOLDEN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:0,FILMZONE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
-#EXTINF:0,DEPELICULA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:0,AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:0,SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
-#EXTINF:0,FOXCINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
-#EXTINF:0,FOXCLASSIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
-#EXTINF:0,CINECANAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
-#EXTINF:0,CINEMAX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:0,TNT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
-#EXTINF:0,EDGE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-#EXTINF:0,AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:0,SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:0,STUDIOUNIVERSAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:0,I.SAT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
-#EXTINF:0,TCM
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
-#EXTINF:0,MTV LIVE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
-#EXTINF:0,TELEHIT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
-#EXTINF:0,VHR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:0,MTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:0,MTV HITS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:0,1CLASSICS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-#EXTINF:0,RITMOSON
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
-#EXTINF:0,BANDAMAX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
-#EXTINF:0,MTV LIVE HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-#EXTINF:0,TELEHIT HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
-#EXTINF:0,VHR HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
-#EXTINF:0,MTV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
-#EXTINF:0,MTV HITS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
-#EXTINF:0,1CLASSICS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:0,RITMOSON HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:0,BANDAMAX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
-#EXTINF:0,Foro TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
-#EXTINF:0,MILENIO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
-#EXTINF:0,TELEMUNDO
-http://iphone-streaming.ustream.tv/uhls/22243668/streams/live/iphone/playlist.m3u8
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
+
+#EXTINF:0, GOLDEN EDGE 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+
+#EXTINF:0,AMC 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+
+#EXTINF:0,Space 2
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
+ 
+#EXTINF:0,UNIVERSAL STUDIO 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
+
+#EXTINF:0,I Sat 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
+
+#EXTINF:-1,TCM
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+
+#EXTINF:-1,CANAL F
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE03.m3u8
+
+#EXTINF:-1,ESPN HD 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+
+#EXTINF:0,ESPN3 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+
+#EXTINF:0,PX 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+
+#EXTINF:-1,ESPN 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+
+#EXTINF:-1,ESPN2 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+
+#EXTINF:0,Deportes 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
+
+#EXTINF:0,Milenio 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
+
+#EXTINF:0,Bloomberg
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
+
+#EXTINF:0,Tve 
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+
+#EXTINF:-1,MTV Live HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+
+#EXTINF:-1,Telehit
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
+
+#EXTINF:-1,VH1 HD
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+
+#EXTINF:-1,MTV
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+
+#EXTINF:-1,MTV Hits
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+
+#EXTINF:-1,VH1 Classics
+
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+
